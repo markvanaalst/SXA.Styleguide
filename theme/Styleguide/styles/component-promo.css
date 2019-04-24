@@ -1,17 +1,22 @@
 @charset "UTF-8";
 /* breakpoints */
 .promo {
-  background: #FFFFFF;
+  /*background: $promo-bg;*/
   padding: 15px;
   overflow: hidden;
   box-sizing: border-box;
+  /*.field-promoicon {
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }*/
 }
 
 .promo > .component-content {
   position: relative;
-  border-width: 1px;
-  border-style: solid;
-  border-color: #d2d2d2;
+  /*@include border-basic(all, $promo-border);*/
 }
 
 .promo > .component-content:after {
@@ -26,16 +31,6 @@
 
 .promo .zg-height-fix .field-promoicon {
   margin-top: 100px;
-}
-
-.promo .field-promoicon {
-  /*overflow: hidden;
-        width: 100%;*/
-}
-
-.promo .field-promoicon img {
-  width: 100%;
-  height: auto;
 }
 
 .promo .field-promolink {

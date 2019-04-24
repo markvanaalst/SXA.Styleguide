@@ -1,14 +1,14 @@
 @import "abstracts/vars";
 @import "abstracts/mixins";
 .promo {
-    background: $promo-bg;
+    /*background: $promo-bg;*/
     padding: 15px;
     overflow: hidden;
     box-sizing: border-box;
     >.component-content {
         position: relative;
         @include clearfix();
-        @include border-basic(all, $promo-border);
+        /*@include border-basic(all, $promo-border);*/
         >div {
             padding: 5px;
         }
@@ -18,14 +18,13 @@
             margin-top: 100px;
         }
     }
-    .field-promoicon {
-        /*overflow: hidden;
-        width: 100%;*/
+    /*.field-promoicon {
+
         img {
             width: 100%;
             height: auto;
         }
-    }
+    }*/ 
     .field-promolink {
         margin-top: 5px;
         padding-bottom: 10px;

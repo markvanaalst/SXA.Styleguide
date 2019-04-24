@@ -1,0 +1,21 @@
+﻿---
+ID: "cb218b4d-c664-4341-b440-7bfb3d2cc66e"
+Parent: "e0329992-dbc0-4d5b-aaba-a215fb1d4caa"
+Template: "98b41352-5a4b-4067-b924-18a4b50f0a53"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Promo/List promo/Row/ChildItems
+DB: master
+SharedFields:
+- ID: "a48604e6-b95e-41c4-b71d-af74365ec289"
+  Hint: Query
+  Value: "query:./*"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190424T102609Z

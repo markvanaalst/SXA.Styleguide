@@ -1,0 +1,28 @@
+﻿---
+ID: "5a38df70-6b7b-459b-8ddb-834e199be358"
+Parent: "a687ee40-0793-4a0b-81e0-6257244ae21a"
+Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Promo/List promo with images/Row/ChildItems/Image text and link list
+DB: master
+SharedFields:
+- ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"
+  Hint: RenderingItem
+  Value: "{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+- ID: "af48c671-dd3e-41ed-95b3-534560bef882"
+  Hint: RenderingParameters
+  Value: "GridParameters=%7b55FE3688-E76D-4B6B-8648-E1B802B9BDD7%7d%7c%7b878F0549-848F-4AF6-B18D-936AEF2590BE%7d&FieldNames=%7bE2112889-F13E-40BC-91F9-31D158765B35%7d&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190424T103207Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

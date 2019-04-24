@@ -1,0 +1,31 @@
+﻿---
+ID: "94aa6ae2-f6a6-4c16-baa0-aace818c7862"
+Parent: "a61471c1-1bd0-4bca-861a-3b4ce168755b"
+Template: "fb5df318-5e9a-4782-b79a-42362fe9aef7"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Page Designs
+DB: master
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b25D85D7B-44CA-4FE6-A1CC-FECCFFACA95C%7d%3d%257BE04B9F65-196F-4810-AC14-A5C3C45CF05D%257D%26%7b53280367-A845-4413-856F-418557C98EE2%7d%3d%257BE04B9F65-196F-4810-AC14-A5C3C45CF05D%257D"
+- ID: "c0c88e34-d7e6-46a0-b84f-b0a432d11642"
+  Hint: Theme
+  Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257BB59398A2-91D1-49E8-8EF2-72D61336AA9C%257D"
+- ID: "e75a4228-26cd-4823-90a6-8d6c58a80cf3"
+  Hint: Styles Optimizing Enabled
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5D5CE43E-D5C6-4C53-89BC-36285DDE8EC9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190408T214311Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

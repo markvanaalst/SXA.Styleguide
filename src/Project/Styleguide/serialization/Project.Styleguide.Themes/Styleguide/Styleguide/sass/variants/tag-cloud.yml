@@ -1,0 +1,14 @@
+﻿---
+ID: "9f7ae215-10b5-48c3-abb0-c16d66a84c31"
+Parent: "d49c4cf2-73b7-44f3-b340-8b8ad286f642"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/Sitecore/Styleguide/Styleguide/sass/variants/tag-cloud"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063836Z

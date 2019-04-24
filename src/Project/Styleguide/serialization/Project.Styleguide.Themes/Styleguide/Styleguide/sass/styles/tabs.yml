@@ -1,0 +1,14 @@
+﻿---
+ID: "274ab7cf-95fe-4ea1-9237-78c8e9472b75"
+Parent: "f3c0878a-080a-41f0-97d3-85dd2bba45d1"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Sitecore/Styleguide/Styleguide/sass/styles/tabs
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063815Z

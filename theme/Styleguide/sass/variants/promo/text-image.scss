@@ -1,0 +1,50 @@
+&.text-image {
+    background: transparent !important;
+    
+    > .component-content {
+        border: 0;
+
+        div.text {
+            width: 525px;
+        }
+
+        div.linkbutton {
+            a {
+                background: #000;
+                color: #fff;
+                border: 2px solid #000;
+                padding: 8px 23px;
+                text-decoration: none;
+                font-weight: bold;
+                position: relative;
+                top: 20px;
+                transition: 0.3s;
+
+
+                &::after {
+                    content: " ➔";
+                    color: #de232f;
+                    margin-left: 4px;
+                    display: inline-block;
+                    -webkit-transition: margin .1s ease;
+                    transition: margin .1s ease;
+                }
+                &:hover {
+                    background: #fff;
+                    color: #000;
+                    border: 2px solid #000;
+                }
+            }
+        }
+    }
+}
+&.text-image.image-right {
+    .field-promoicon {
+        margin-left: 40px;
+    }
+}
+&.text-image.image-left {
+    .field-promoicon {
+        margin-right: 40px;
+    }
+}

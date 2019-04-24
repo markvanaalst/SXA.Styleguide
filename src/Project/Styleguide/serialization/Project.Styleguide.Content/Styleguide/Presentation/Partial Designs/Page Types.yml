@@ -1,0 +1,14 @@
+﻿---
+ID: "f65317c8-244e-4b8f-85af-0b095431d395"
+Parent: "0e4f09a8-12e8-4fe0-8239-3349531f8bd5"
+Template: "84c1de3c-e162-4e76-a355-72e7cf67d148"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Partial Designs/Page Types
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190412T232022Z

@@ -1,0 +1,22 @@
+﻿---
+ID: "fe74950e-2b4b-49ec-bfb6-b4df38dbab2b"
+Parent: "38bc8b2b-e151-4ab3-9108-4a2505f3dcb0"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Images/Site Logo
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190409T214410Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: |
+        <image mediaid="{AE26EB29-3C30-4290-A5E8-6F6A81ABCE98}" />

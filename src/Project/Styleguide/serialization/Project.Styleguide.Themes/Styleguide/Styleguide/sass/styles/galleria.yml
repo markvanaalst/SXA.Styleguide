@@ -1,0 +1,18 @@
+﻿---
+ID: "b743ec71-a8e2-49b9-936f-abe6def2cbe3"
+Parent: "f3c0878a-080a-41f0-97d3-85dd2bba45d1"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Sitecore/Styleguide/Styleguide/sass/styles/galleria
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180402T122535Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

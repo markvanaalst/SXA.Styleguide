@@ -1,0 +1,14 @@
+﻿---
+ID: "73626af7-4837-4efc-9299-83a0633a1354"
+Parent: "f107949b-a4e7-42bf-83a0-213732c9ed75"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Sitecore/Styleguide/Styleguide/sass/base/richtext
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063658Z

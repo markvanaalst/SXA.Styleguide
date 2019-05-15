@@ -1,0 +1,28 @@
+﻿---
+ID: "d058756e-444c-4b64-b713-127d973ce4fe"
+Parent: "c670e0df-05fa-4539-aa42-c0578bef9b43"
+Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Article With Media Links
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Article With Media Links
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190425T104714Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Article With Media Links
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{A8A2AC12-BB06-4065-8C33-0332630E36DE}" ></image>
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: |
+        Like it says on the tin: Rendering Variants are variations of components. When a user places a component on a page, they are able to select different ways that the component may appear or what content it shows. This might vary quite a lot from project to project, so we have created a facility for a "super user" to create their own Rendering Variants. This avoids the need for building specific components which are only slight variations of existing components.

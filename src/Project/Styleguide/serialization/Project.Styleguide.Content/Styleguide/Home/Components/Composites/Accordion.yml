@@ -1,0 +1,23 @@
+﻿---
+ID: "a67e908c-c7ca-4890-9783-35f9ccddb8c4"
+Parent: "8a28d18b-e5c1-4365-b376-4dedad3c2643"
+Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Composites/Accordion
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Accordion
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T090755Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Accordion
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: The accordion is an interactive component that is perfect for creating pages like FAQs or hero messages. You can choose from many different animations and layouts to adjust it to your page design.

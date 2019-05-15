@@ -1,9 +1,13 @@
 ﻿---
-ID: "fc4ae13e-2232-4570-a13f-2e2d610e5a1c"
-Parent: "c670e0df-05fa-4539-aa42-c0578bef9b43"
+ID: "64f5929c-532f-463e-ae21-71ce188ad520"
+Parent: "2c201fb2-ffb1-45df-aeb0-7df921a44da6"
 Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
-Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Headless
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search/Results boosting
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
 Languages:
 - Language: en
   Versions:
@@ -11,10 +15,10 @@ Languages:
     Fields:
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
       Hint: Title
-      Value: Headless
+      Value: Results boosting
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190409T220047Z
+      Value: 20190509T124324Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Headless
+      Value: Results boosting

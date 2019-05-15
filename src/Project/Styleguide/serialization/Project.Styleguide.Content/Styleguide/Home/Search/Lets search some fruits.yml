@@ -1,13 +1,13 @@
 ﻿---
-ID: "f195f900-459f-4be5-b41c-dca55cfc3ffc"
-Parent: "2497d56c-9047-432c-9887-c6e80f7d956f"
-Template: "81ccd286-99e8-494f-918b-b04006680aa9"
-Path: /sitecore/content/Sitecore/Styleguide/Home/Best Practices
+ID: "c890218b-219b-4667-a064-55917f4042a8"
+Parent: "2c201fb2-ffb1-45df-aeb0-7df921a44da6"
+Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search/Lets search some fruits
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 275
+  Value: 200
 Languages:
 - Language: en
   Versions:
@@ -15,10 +15,10 @@ Languages:
     Fields:
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
       Hint: Title
-      Value: Best Practices
+      Value: Let's search some fruits
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190409T220128Z
+      Value: 20190509T124258Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Best Practices
+      Value: Let's search some fruits

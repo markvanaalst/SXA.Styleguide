@@ -1,0 +1,20 @@
+﻿---
+ID: "54979d47-cd84-4532-872b-7c950d6250a6"
+Parent: "542fef71-1ba8-409a-aa12-ebc6fdc9f7a0"
+Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Path: "/sitecore/content/Sitecore/Styleguide/Home/Components/Page Structure/Edit-Mode Panel"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: "Edit-Mode Panel"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T123127Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Edit-Mode Panel"

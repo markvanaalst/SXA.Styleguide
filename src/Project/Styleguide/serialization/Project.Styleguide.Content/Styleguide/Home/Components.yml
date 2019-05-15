@@ -1,7 +1,7 @@
 ﻿---
 ID: "a3271e0e-3a17-45b4-9ab0-3dd3a50d5a66"
 Parent: "2497d56c-9047-432c-9887-c6e80f7d956f"
-Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Template: "81ccd286-99e8-494f-918b-b04006680aa9"
 Path: /sitecore/content/Sitecore/Styleguide/Home/Components
 DB: master
 SharedFields:
@@ -16,9 +16,24 @@ Languages:
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
       Hint: Title
       Value: Components
+    - ID: "0c944f44-73d3-4348-b3df-3cef1c4d5619"
+      Hint: HeroBackground
+      Value: |
+        <image mediaid="{98613B77-DCD4-4147-8AAE-C54E0F995DA4}" />
+    - ID: "21f7b0ee-bc05-4276-ac55-095f64553e07"
+      Hint: HeroTitle
+      Value: Components
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190409T215634Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Components
+    - ID: "53068854-cf44-4cf4-8e4d-c3e54ac90f56"
+      Hint: HeroSubtitle
+      Value: Learn how to use all the default SXA components
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: |
+        <p>We would like to show you all the components we offer on this page but sadly there was not enough space. Then we thought about grouping them by category but this did not work either. Finally, we decided to spare a page for each component and let the flourish with their natural beauty.</p>
+        <p>You can browse the components by category or simply use the navigation at the top.</p>

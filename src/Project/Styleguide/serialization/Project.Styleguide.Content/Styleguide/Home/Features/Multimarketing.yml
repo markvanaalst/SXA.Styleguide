@@ -1,0 +1,30 @@
+﻿---
+ID: "4bdb81f8-e89b-467e-a50f-5eec5faec755"
+Parent: "c670e0df-05fa-4539-aa42-c0578bef9b43"
+Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Multimarketing
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Multimarketing
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190425T105114Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Multimarketing
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{727F9605-7C37-486A-BF38-A6A9B05B72E6}" ></image>
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: |
+        <div class="field-content">
+        <p>Thanks to the multi-tenant nature of SXA architecture, clients are able to run multiple micro-sites along their main sites on a single instance of Sitecore. Additionally, each tenant is divided into markets allowing for entire customer journeys to be completed in various languages, either through one-to-one translated versions (native Sitecore language support) or an internationalization model whereby a separate sitemap exists for different languages.</p>
+        </div>

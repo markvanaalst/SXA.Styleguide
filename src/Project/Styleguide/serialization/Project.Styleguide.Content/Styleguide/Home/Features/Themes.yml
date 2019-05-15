@@ -1,0 +1,30 @@
+﻿---
+ID: "a007a9d8-8e8e-4db8-acdf-631353e976b6"
+Parent: "c670e0df-05fa-4539-aa42-c0578bef9b43"
+Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Themes
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Themes
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190425T105018Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Themes
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{D1503DEE-6CAA-4AFA-B6EC-7437B77191E0}" ></image>
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: |
+        <div class="field-content">
+        <p>Themes are a concept used to allow for ease of customization of existing sites as well as white-labeling of a site. Theme is a set of assets (style sheets, JavaScripts, fonts &amp; images) that can be selected on a per-site basis. Files placed in a theme are automatically included in a page and optimized for high performance.</p>
+        </div>

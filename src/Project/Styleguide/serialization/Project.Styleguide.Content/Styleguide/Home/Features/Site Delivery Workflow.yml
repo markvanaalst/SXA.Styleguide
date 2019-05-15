@@ -1,0 +1,31 @@
+﻿---
+ID: "68e1952c-db02-4de2-b504-2af66c41022c"
+Parent: "c670e0df-05fa-4539-aa42-c0578bef9b43"
+Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Site Delivery Workflow
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Site Delivery Workflow
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190425T104751Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Site Delivery Workflow
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{2CF80B07-580B-4D21-954F-050AA7D39D00}" ></image>
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: |
+        <div class="field-content">
+        <p>Sitecore Experience Accelerator is not just an extension of the Sitecore interface, but a new way of approaching the production of websites. By enabling parallel work streams (content, creative, UX, coding,) you can not only speed up the production of websites but improve the quality of the work to allow the work streams to feedback and validate each other's work. This avoids the classic situation of having the entire site built before entering any content, only to find the templates are not able to service the needs of the authors.</p>
+        <p>By allowing the authors to start entering real content into a wireframe environment, built on Sitecore with SXA, your UI and creatives can be working with real content, and the project board can be constantly validating the work. For those interested in Content Strategy, this might be the tool you have been looking for to facilitate your approach without boxing you into a particular way of working.</p>
+        </div>

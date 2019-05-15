@@ -1,0 +1,30 @@
+﻿---
+ID: "eb5c94af-9b76-44be-9153-2fed2ebc71f1"
+Parent: "c670e0df-05fa-4539-aa42-c0578bef9b43"
+Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Sticky Notes
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Sticky Notes
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190425T105131Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Sticky Notes
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{8B2AC4B8-C56C-4FF8-BE38-73722882546E}" ></image>
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: |
+        <div class="field-content">
+        <p>Sitecore Experience Accelerator is all about collaboration. But how do you collaborate if you disjoint your discussion from the message and experience you are working on? We've realized that and added sticky notes as an integral part of SXA in Experience Editor.</p>
+        </div>

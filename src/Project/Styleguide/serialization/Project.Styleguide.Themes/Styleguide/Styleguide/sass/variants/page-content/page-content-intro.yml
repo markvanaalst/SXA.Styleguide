@@ -1,0 +1,35 @@
+﻿---
+ID: "f075c136-e380-41fd-b6a8-ef52a9383aba"
+Parent: "4a01be80-1ac9-43cb-a4c5-8a9ae56b0afb"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Sitecore/Styleguide/Styleguide/sass/variants/page-content/page-content-intro"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/F075C136E38041FDB6A8EF52A9383ABA.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "8ddd26a5-2238-4ef9-a60d-0147854480fa"
+  Value: LnBhZ2UtY29udGVudC1pbnRybyB7DQogICAgLmNvbnRlbnQgew0KICAgICAgICBmb250LXNpemU6IDE2cHg7DQogICAgICAgIGZvbnQtd2VpZ2h0OiA2MDA7DQogICAgfQ0KfQ==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 100
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190501T151228Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

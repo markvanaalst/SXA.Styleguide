@@ -20,5 +20,5 @@ Languages:
       Hint: Text
       Value: |
         <div class="footer-copyright">
-        © Copyright 2019, Sitecore. All Rights Reserved &nbsp;| <a href="/trust">Legal</a> | <a href="/trust/privacy-policy">Privacy</a>&nbsp;| <a href="/own-the-experience">Own the Experience®</a> | <a href="mailto:webmaster@sitecore.net">webmaster@sitecore.net</a> | <a href="tel:185574832673">+1-855-Sitecore</a>
+        © $(Copyright), Sitecore. All Rights Reserved &nbsp;| <a href="/trust">Legal</a> | <a href="/trust/privacy-policy">Privacy</a>&nbsp;| <a href="/own-the-experience">Own the Experience®</a> | <a href="mailto:webmaster@sitecore.net">webmaster@sitecore.net</a> | <a href="tel:185574832673">+1-855-Sitecore</a>
         </div>

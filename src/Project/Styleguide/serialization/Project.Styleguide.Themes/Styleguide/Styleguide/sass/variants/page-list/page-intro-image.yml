@@ -1,0 +1,35 @@
+﻿---
+ID: "8aa5f9a5-74a6-41c6-85f3-9a1481cd01b5"
+Parent: "b5445214-2f71-43d8-9ba6-9ecd3d0d886d"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Sitecore/Styleguide/Styleguide/sass/variants/page-list/page-intro-image"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/8AA5F9A574A641C685F39A1481CD01B5.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "215b4999-a32c-43e7-8bb2-a039c51857fa"
+  Value: Ji5wYWdlLWludHJvLWltYWdlIHsNCg0KICAgIGxpLml0ZW0gew0KICAgICAgICAmOm50aC1jaGlsZChvZGQpIGltZyB7DQogICAgICAgICAgICBmbG9hdDogbGVmdDsNCiAgICAgICAgICAgIG1hcmdpbjogMTBweCAxNXB4IDE1cHggMHB4Ow0KICAgICAgICB9DQogICAgICAgICAgDQogICAgICAgICY6bnRoLWNoaWxkKGV2ZW4pIGltZyB7DQogICAgICAgICAgICBmbG9hdDogcmlnaHQ7DQogICAgICAgICAgICBtYXJnaW46IDEwcHggMHB4IDE1cHggMTVweDsNCiAgICAgICAgfQ0KICAgICAgICAuY29sIHsNCiAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMHB4Ow0KICAgICAgICAgICAgcGFkZGluZy1yaWdodDogMHB4Ow0KICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7DQogICAgICAgIH0NCiAgICB9DQogICAgDQogICAgDQogICAgaDIgew0KICAgICAgICBtYXJnaW46IDEwcHggMHB4Ow0KICAgICAgICANCiAgICAgICAgJi5maWVsZC10aXRsZSBhIHsNCiAgICAgICAgICAgIGJvcmRlci1ib3R0b206IDBweDsNCiAgICAgICAgfQ0KICAgIH0NCg0KfQ==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 541
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190430T145926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

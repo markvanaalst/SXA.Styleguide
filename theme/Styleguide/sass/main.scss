@@ -85,3 +85,24 @@ h6 {
 #header {
     height: 110px;
 }
+
+.fixed-header.boxed {
+    background: #fff;
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #000;
+}
+
+main {
+    margin-top: 10px;
+}
+
+.content h1,
+.content h2 {
+    margin: 20px 0px 10px 0px;
+}
+.content h3,
+.content h4 {
+    margin: 15px 0px 0px 0px;
+}

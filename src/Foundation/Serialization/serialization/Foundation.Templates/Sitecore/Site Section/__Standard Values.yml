@@ -1,0 +1,21 @@
+﻿---
+ID: "f421b51d-af33-402f-abb8-ef9af19c40e1"
+Parent: "81ccd286-99e8-494f-918b-b04006680aa9"
+Template: "81ccd286-99e8-494f-918b-b04006680aa9"
+Path: /sitecore/templates/Project/Sitecore/Site Section/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/windows.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "21f7b0ee-bc05-4276-ac55-095f64553e07"
+      Hint: HeroTitle
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190424T210512Z

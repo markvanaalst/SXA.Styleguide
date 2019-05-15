@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* breakpoints */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese");
-@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+@import url("https://fonts.googleapis.com/css?family=Lato:300:400,700");
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
@@ -3135,4 +3135,26 @@ h6 {
 
 #header {
   height: 110px;
+}
+
+.fixed-header.boxed {
+  background: #fff;
+  margin-top: 0px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  border-bottom: 2px solid #000;
+}
+
+main {
+  margin-top: 10px;
+}
+
+.content h1,
+.content h2 {
+  margin: 20px 0px 10px 0px;
+}
+
+.content h3,
+.content h4 {
+  margin: 15px 0px 0px 0px;
 }

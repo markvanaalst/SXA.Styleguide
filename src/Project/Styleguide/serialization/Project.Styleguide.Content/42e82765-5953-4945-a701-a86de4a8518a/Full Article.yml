@@ -1,0 +1,25 @@
+﻿---
+ID: "d38414cf-4e26-4ec1-b100-35569125eac5"
+Parent: "42e82765-5953-4945-a701-a86de4a8518a"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Page Content/Full Article Only/Full Article
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Full Article
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{534BBA78-B549-42D3-A1DE-92020E8818BD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T141313Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

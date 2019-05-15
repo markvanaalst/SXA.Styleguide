@@ -5,7 +5,7 @@
   color: #747474;
   border: transparent;
   line-height: 1.5;
-  font-size: 12px;
+  /*font-size: 12px;*/
   overflow: hidden;
   /* breakpoints */
 }
@@ -192,6 +192,29 @@
 
 .content table td:first-child, .rich-text table td:first-child {
   border-left: 0;
+}
+
+.content.centered-page-intro {
+  background: #fafafa;
+  border-top: 1px solid #ebebeb;
+  border-bottom: 1px solid #ebebeb;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.content.centered-page-intro .text-wrapper {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.content.centered-page-intro .text-wrapper h1 {
+  font-weight: 300;
+  font-size: 3em;
+}
+
+.content .page-content-intro .content {
+  font-size: 16px;
+  font-weight: 600;
 }
 
 /* breakpoints */

@@ -1,0 +1,14 @@
+﻿---
+ID: "3c917d99-c73f-4de8-aa48-e1e74089c9f6"
+Parent: "f4d3f40f-65f6-4f37-b261-95ef47b17a95"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Drag And Drop Editing/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190515T125045Z

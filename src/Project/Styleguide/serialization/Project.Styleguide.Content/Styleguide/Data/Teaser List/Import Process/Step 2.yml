@@ -1,0 +1,32 @@
+﻿---
+ID: "7ad28666-bb49-479f-99c5-00ed889c2e95"
+Parent: "89307eba-3eed-4f14-ae0f-093535a65e04"
+Template: "edf29f78-836c-4e5e-8f12-d0319ad525ab"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Teaser List/Import Process/Step 2
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T101729Z
+    - ID: "30956912-802e-42ae-a9f5-20e816a7be50"
+      Hint: Image
+      Value: |
+        <image mediaid="{D2263918-D831-4C33-A1BA-1FE3FB22723E}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ceeec5c6-d370-4578-b3ac-ff62eedc68e1"
+      Hint: CssClass
+      Value: "col-md-6"
+    - ID: "e1ae28df-6840-4f05-86c1-a6ff8cd350ef"
+      Hint: Title
+      Value: Step 2

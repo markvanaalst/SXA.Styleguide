@@ -1,0 +1,25 @@
+﻿---
+ID: "f11369df-9bef-4eb5-ac37-9705b8c36165"
+Parent: "de61809b-c4de-4914-99c6-826ebac2b143"
+Template: "edf29f78-836c-4e5e-8f12-d0319ad525ab"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Teaser List/Export Process/Step 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T120657Z
+    - ID: "30956912-802e-42ae-a9f5-20e816a7be50"
+      Hint: Image
+      Value: |
+        <image mediaid="{F80F534E-7889-4661-938C-104E90C35DCA}" />
+    - ID: "c34be978-2130-4e3c-9fdc-092dd23f9f1d"
+      Hint: Introduction
+      Value: |
+        <p style="margin-top: 5px; margin-bottom: 5px; font-weight: 400; font-style: normal; font-size: 16px; font-family: Lato, sans-serif; max-width: 100%; color: rgb(116, 116, 116);">To start the export, simply click on the Export button in the Sitecore Experience Accelerator ribbon bar.</p><p style="margin-top: 5px; margin-bottom: 5px; font-weight: 400; font-style: normal; font-size: 16px; font-family: Lato, sans-serif; max-width: 100%; color: rgb(116, 116, 116);">This will bring up a wizard which will allow you to select what you would like to be exported and whether you want it exported as a zip or just as files in a folder.</p><p style="margin-top: 5px; margin-bottom: 5px; font-weight: 400; font-style: normal; font-size: 16px; font-family: Lato, sans-serif; max-width: 100%; color: rgb(116, 116, 116);">The package will export all the content on the site. This is necessary to allow UI developer to work with the site and its actual content. However you can set a limit on the file sizes that exported, which prevents huge assets like videos being included in the package.</p>
+    - ID: "e1ae28df-6840-4f05-86c1-a6ff8cd350ef"
+      Hint: Title
+      Value: Step 1

@@ -10,10 +10,10 @@ SharedFields:
   Value: 0
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "page-hero-image-container parallax"
+  Value: "page-hero-image-container"
 - ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
   Hint: DataAttributes
-  Value: style=background%3A%20url%28%24%28HeroBackground%29%29
+  Value: "style=background%3A%20url%28%24%28HeroBackground%29%29%3B%20background-size%3A%20cover"
 Languages:
 - Language: en
   Versions:

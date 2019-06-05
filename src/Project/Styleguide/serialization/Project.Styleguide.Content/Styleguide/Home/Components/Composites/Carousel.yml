@@ -18,3 +18,8 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Carousel
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: |
+        <p>The Carousel component allows you to define a set of rotating slides - usually images - accompanied by descriptions and links. Most commonly seen at the top of homepages, this component has a wide range of applications and can be placed on any page. For example, you can use a Carousel to display a number of featured pages, link to top stories, show client logos, testimonials or pictures. Those items will appear one at a time in a defined order.</p>
+        <p>Carousel slides are created as separate items in the CMS, and can be managed independently of the page where this component appears. A set of slides created for one carousel can be easily reused in another component, potentially presenting it in a different way. Rich configuration options allow you to define slide layout, navigation type, slide transition effect, etc.</p>

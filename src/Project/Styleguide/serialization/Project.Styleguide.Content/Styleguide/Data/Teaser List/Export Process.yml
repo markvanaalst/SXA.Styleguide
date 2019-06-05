@@ -1,0 +1,17 @@
+﻿---
+ID: "de61809b-c4de-4914-99c6-826ebac2b143"
+Parent: "976ab299-a7d2-47d9-af59-4eb811f3991e"
+Template: "ff177140-a8a0-4df3-a0e4-57f2439bdbf9"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Teaser List/Export Process
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T120641Z
+    - ID: "e635792a-a633-4cf9-bc7f-b078c399eb15"
+      Hint: Title
+      Value: The Export Process

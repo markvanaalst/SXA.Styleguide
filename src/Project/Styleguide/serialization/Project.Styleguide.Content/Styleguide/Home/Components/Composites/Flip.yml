@@ -18,3 +18,6 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Flip
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: "<p>Flip is an interactive component with two sides which are shown alternatively, depending on the user's action (either clicking on a component or hovering over it). It is an eye-catching component which, when used in fun and creative ways, can drive conversions through the roof.</p>"

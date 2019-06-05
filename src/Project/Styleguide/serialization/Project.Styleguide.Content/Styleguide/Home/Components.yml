@@ -13,13 +13,28 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1786A66C-C62E-4ED1-AF4E-BB296D7AF205}"
+              s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
+              s:par="ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B8DCD17EE-AA62-48D3-93DC-C04FD0C0D8C4%7D&amp;Styles&amp;SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-listing-with-sidebar-right/container-1/container-4" />
+          </d>
+        </r>
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
       Hint: Title
       Value: Components
     - ID: "0c944f44-73d3-4348-b3df-3cef1c4d5619"
       Hint: HeroBackground
       Value: |
-        <image mediaid="{98613B77-DCD4-4147-8AAE-C54E0F995DA4}" />
+        <image mediaid="{8F01ADD7-4800-4D2A-839D-7EE2AA58D13B}" />
     - ID: "21f7b0ee-bc05-4276-ac55-095f64553e07"
       Hint: HeroTitle
       Value: Components

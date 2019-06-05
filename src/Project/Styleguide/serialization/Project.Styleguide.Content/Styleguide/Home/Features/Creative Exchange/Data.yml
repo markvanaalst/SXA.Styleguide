@@ -1,0 +1,14 @@
+﻿---
+ID: "fd646dbc-66d5-4a37-8450-5dfd673d3634"
+Parent: "470b9a1e-e206-4817-a12d-e5d589c59e0c"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Creative Exchange/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190515T133217Z

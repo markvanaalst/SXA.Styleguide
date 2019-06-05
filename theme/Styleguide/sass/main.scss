@@ -91,7 +91,7 @@ h6 {
     margin-top: 0px;
     padding-top: 10px;
     padding-bottom: 5px;
-    border-bottom: 2px solid #000;
+    border-bottom: 2px solid #d2d2d2;
 }
 
 main {
@@ -105,4 +105,23 @@ main {
 .content h3,
 .content h4 {
     margin: 15px 0px 0px 0px;
+}
+
+/* Border styles */
+
+.border-light-grey {
+    border-color: #d2d2d2 !important;
+}
+
+.border-top {
+    border-top: 1px solid;
+}
+.border-right {
+    border-right: 1px solid;
+}
+.border-bottom {
+    border-bottom: 1px solid;
+}
+.border-left {
+    border-left: 1px solid;
 }

@@ -18,3 +18,6 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Tabs
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: "<p>The tabs component allows you to split content of your page into sections. You can choose from multiple tab layouts and adjust them to your needs. Group your content - divide and conquer.</p>"

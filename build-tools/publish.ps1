@@ -3,7 +3,7 @@ $deleteExistingFiles = $false
 $configuration  = "Debug"
 
 $publishsettings = ".\publishsettings.targets"
-$MSBuildCall = "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\MSBUILD.exe"
+$MSBuildCall = "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\MSBuild.exe"
 ####
 
 function Test-ConfigExists($configName){
@@ -34,8 +34,8 @@ $currentDirectory = Get-Item .
 
 clear
 
-##Write-Host "1. Restoring Nuget packages" -ForegroundColor "Green"
-##.\nuget\nuget.exe restore .\Sitecore.XA.Styleguide.sln 
+Write-Host "1. Restoring Nuget packages" -ForegroundColor "Green"
+.\nuget.exe restore ..\Sitecore.XA.Styleguide.sln 
 
 Write-Host "Building projects" -ForegroundColor "Green"
 

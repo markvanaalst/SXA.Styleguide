@@ -4,30 +4,7 @@ Parent: "71058761-71d4-4fd0-b6f6-c9f288b0b50e"
 Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
 Path: /sitecore/content/Sitecore/Styleguide/Data/Flips/Ridiculously Easy/Flipside 1
 DB: master
-BranchID: "7152d5bd-bdf6-424f-96b1-e268b0c4808e"
 SharedFields:
-- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
-  Hint: __Renderings
-  Type: layout
-  Value: |
-    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-      <d
-        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
-        l="{B794ED3A-F795-4C94-B366-FCFDF57D75AE}">
-        <r
-          ds=""
-          id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-          par="FieldNames=%7B5423143A-760D-4F0E-BA4D-0B02E649A778%7D&amp;Styles&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
-          ph="section-title"
-          uid="{BEDBFE61-2E9C-4B8E-A1E0-8E5CC856D077}" />
-        <r
-          ds=""
-          id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-          par="FieldNames=%7B2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74%7D&amp;Styles&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
-          ph="section-content"
-          uid="{8488FF31-EB4A-4D60-A2AF-0AF8B50180EC}" />
-      </d>
-    </r>
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{08CBEC66-44B1-433A-BB38-76FD07D6B60D}"

@@ -54,6 +54,10 @@
                 color: $tab-heading-active-color;
             }
         }
+        .row {
+            margin-left: 0px;
+            margin-right: 0px;
+        }
         &:hover {
             @include border-basic(top, $tab-container-border, 2px);
             background: $tab-heading-active-bg;

@@ -9,6 +9,7 @@
     overflow: hidden;
     * {
         max-width: 100%;
+        height: auto;
     }
     @import "base/richtext/*";
 }

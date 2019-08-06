@@ -85,6 +85,11 @@
   color: #000;
 }
 
+.tabs-heading li .row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
 .tabs-heading li:hover {
   border-top-width: 2px;
   border-top-style: solid;

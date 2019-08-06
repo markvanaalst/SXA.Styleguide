@@ -1,0 +1,10 @@
+﻿---
+ID: "3939b27e-f1cd-4ec5-b735-77bbede0919f"
+Parent: "ada4bd80-adf2-480f-82bd-12f248b59d6e"
+Template: "bda146e9-1cd3-4955-a2da-6676f677562f"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search/fruits/papaya
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

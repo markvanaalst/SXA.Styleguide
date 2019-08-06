@@ -6,6 +6,7 @@
     position: relative;
     padding-left: 15px;
     margin-right: 10px;
+    
     border-bottom: 1px solid transparent;
     &:hover {
         cursor: pointer;
@@ -29,6 +30,7 @@
         }
         >a {
             color: $tag-color;
+            font-size: 0.8em;
             background: $tag-link-bg;
             border-radius: 3px 0 0 3px;
             display: inline-block;

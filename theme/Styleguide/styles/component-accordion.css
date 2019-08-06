@@ -13,6 +13,11 @@
   content: "" !important;
 }
 
+.accordion .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .accordion .toggle-header {
   cursor: pointer;
   background-color: transparent;

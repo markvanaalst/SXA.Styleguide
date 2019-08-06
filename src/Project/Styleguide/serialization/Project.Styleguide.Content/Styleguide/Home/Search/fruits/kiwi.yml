@@ -1,0 +1,10 @@
+﻿---
+ID: "91190018-68bd-4789-9c0f-e499c2b8b832"
+Parent: "ada4bd80-adf2-480f-82bd-12f248b59d6e"
+Template: "bda146e9-1cd3-4955-a2da-6676f677562f"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search/fruits/kiwi
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

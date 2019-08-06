@@ -5,6 +5,9 @@ Template: "53280367-a845-4413-856f-418557c98ee2"
 Path: /sitecore/content/Sitecore/Styleguide/Home
 DB: master
 SharedFields:
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{307578C8-268C-44EA-8DA4-BF8F6E4FF02D}"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{92EB9EFB-88D4-4089-82BE-AAD92D4FA24E}"

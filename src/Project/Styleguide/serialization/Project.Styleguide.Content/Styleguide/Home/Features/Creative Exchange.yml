@@ -4,6 +4,10 @@ Parent: "c670e0df-05fa-4539-aa42-c0578bef9b43"
 Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
 Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Creative Exchange
 DB: master
+SharedFields:
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{FD646DBC-66D5-4A37-8450-5DFD673D3634}"
 Languages:
 - Language: en
   Versions:
@@ -50,7 +54,7 @@ Languages:
               p:after="r[@uid='{B3913A40-9BD4-410D-8882-47CBA496E206}']"
               s:ds="local:/Data/Text 5"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B93B61BD7-DD29-418F-8A1F-06FE51B0A538%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B469746BC-80E3-4DC5-AC60-05A8AF5C21D7%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
               s:ph="/main/sxa-full-article-details/container-5/container-6" />
             <r
               uid="{7CFF669C-3BA1-4B3E-A86F-9017418F7A75}"

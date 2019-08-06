@@ -4,6 +4,10 @@ Parent: "c670e0df-05fa-4539-aa42-c0578bef9b43"
 Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
 Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Site Delivery Workflow
 DB: master
+SharedFields:
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{6D8ECBDB-5FC9-43D2-BD11-C143BF4AE722}"
 Languages:
 - Language: en
   Versions:

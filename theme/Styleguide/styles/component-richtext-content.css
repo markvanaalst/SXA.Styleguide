@@ -12,6 +12,7 @@
 
 .content *, .rich-text * {
   max-width: 100%;
+  height: auto;
 }
 
 .content .field-filetypeicon > a > span, .content .pdf, .content .xls, .content .xlsx, .content .pptx, .content .ppt, .content .docx, .content .doc, .content .bmp, .content .png, .content .jpg, .content .jpeg, .content .psd, .content .gif, .content .avi, .content .mp4, .content .wmv, .content .mov, .content .mp3, .content .wma, .content .txt, .content .zip, .rich-text .field-filetypeicon > a > span, .rich-text .pdf, .rich-text .xls, .rich-text .xlsx, .rich-text .pptx, .rich-text .ppt, .rich-text .docx, .rich-text .doc, .rich-text .bmp, .rich-text .png, .rich-text .jpg, .rich-text .jpeg, .rich-text .psd, .rich-text .gif, .rich-text .avi, .rich-text .mp4, .rich-text .wmv, .rich-text .mov, .rich-text .mp3, .rich-text .wma, .rich-text .txt, .rich-text .zip {

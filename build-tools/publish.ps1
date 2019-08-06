@@ -6,7 +6,6 @@ $publishsettings = ".\publishsettings.targets"
 $MSBuildCall = "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\MSBUILD.exe"
 ####
 
-
 function Test-ConfigExists($configName){
     if(Test-Path $configName){
         $true
@@ -26,6 +25,8 @@ if(-not(Test-ConfigExists $publishsettings)){
 [xml]$targets = Get-Content -Path $publishsettings
 $publishUrl = $targets.Project.PropertyGroup.publishUrl
 $siteName = (Split-Path $publishUrl -NoQualifier).TrimStart("\").TrimStart("/")
+
+Write-Host $siteName
 
 $sxa_site = Get-Website | ? { $_.Name -eq $siteName }
 $publishPath = $sxa_site.physicalPath

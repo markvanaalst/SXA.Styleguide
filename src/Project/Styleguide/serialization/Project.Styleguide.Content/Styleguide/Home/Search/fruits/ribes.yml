@@ -1,0 +1,10 @@
+﻿---
+ID: "8cf2bd85-a992-47a7-9a59-7b42e689f9a4"
+Parent: "ada4bd80-adf2-480f-82bd-12f248b59d6e"
+Template: "bda146e9-1cd3-4955-a2da-6676f677562f"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search/fruits/ribes
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

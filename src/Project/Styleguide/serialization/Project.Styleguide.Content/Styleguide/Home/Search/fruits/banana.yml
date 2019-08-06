@@ -1,0 +1,10 @@
+﻿---
+ID: "65380002-bddc-4114-b1c5-da59e7f7c3f7"
+Parent: "ada4bd80-adf2-480f-82bd-12f248b59d6e"
+Template: "bda146e9-1cd3-4955-a2da-6676f677562f"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search/fruits/banana
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

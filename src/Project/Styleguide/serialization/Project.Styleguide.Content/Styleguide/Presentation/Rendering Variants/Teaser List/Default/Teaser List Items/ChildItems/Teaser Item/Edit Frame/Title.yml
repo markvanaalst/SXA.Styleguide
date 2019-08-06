@@ -1,0 +1,31 @@
+﻿---
+ID: "a7e58b0e-c987-4a77-a280-122a6d8cd18a"
+Parent: "20c3d5cf-8804-4006-abb8-12c14d5a8956"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Teaser List/Default/Teaser List Items/ChildItems/Teaser Item/Edit Frame/Title
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Title
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{6E84D69B-7F26-4B19-906D-469C3354EBB0}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9F2CFBC7-4FC7-4BBE-BD98-B836EABE8B89}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T101043Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

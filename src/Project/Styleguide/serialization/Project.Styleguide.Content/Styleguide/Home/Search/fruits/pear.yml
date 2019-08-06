@@ -1,0 +1,10 @@
+﻿---
+ID: "f6fd90e0-8a8e-4574-a37a-76cdb8fe9f94"
+Parent: "ada4bd80-adf2-480f-82bd-12f248b59d6e"
+Template: "bda146e9-1cd3-4955-a2da-6676f677562f"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search/fruits/pear
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

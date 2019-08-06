@@ -16,6 +16,10 @@
             }
         }
     }
+    .row {
+        margin-left: 0;
+        margin-right: 0;
+    }
     .toggle-header {
         cursor: pointer;
         background-color: $accordion-header-bg;

@@ -1,0 +1,10 @@
+﻿---
+ID: "ada4bd80-adf2-480f-82bd-12f248b59d6e"
+Parent: "2c201fb2-ffb1-45df-aeb0-7df921a44da6"
+Template: "4573fa4b-b6df-4165-ba9f-8dba934c533f"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search/fruits
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

@@ -1,0 +1,10 @@
+﻿---
+ID: "f7bfa78f-d21e-45b7-80dc-18a6383d704e"
+Parent: "ada4bd80-adf2-480f-82bd-12f248b59d6e"
+Template: "bda146e9-1cd3-4955-a2da-6676f677562f"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search/fruits/lemon
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

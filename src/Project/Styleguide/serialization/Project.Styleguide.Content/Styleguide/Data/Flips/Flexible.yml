@@ -1,0 +1,14 @@
+﻿---
+ID: "68e50007-3ddd-45df-8e54-b54a8550869c"
+Parent: "e555fb96-0363-4b14-98f3-f71905c061b9"
+Template: "5ef07850-4c04-4b83-9daf-efd752cfaba8"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Flips/Flexible
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160930T105746Z

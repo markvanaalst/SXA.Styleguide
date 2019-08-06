@@ -4,7 +4,6 @@ Parent: "93db5c69-032a-4354-8a81-3c7f03eb593b"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
 Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Teaser List/Default/Teaser List Items
 DB: master
-BranchID: "edba87fe-2c67-434e-ba96-997378041fd9"
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder

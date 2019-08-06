@@ -96,6 +96,17 @@ h6 {
 
 main {
     margin-top: 10px;
+    min-height: calc(100vh - 199px);
+}
+
+footer {
+    position: relative;
+    bottom: 0px;
+    top: auto;
+    font-size: 0.8em;
+    .boxed {
+        margin-bottom: 0px;
+    }
 }
 
 .content h1,
@@ -125,3 +136,23 @@ main {
 .border-left {
     border-left: 1px solid;
 }
+.no-border {
+    border: 0;
+    .component-content {
+        border: 0;
+    }
+}
+
+/* Common Styles */
+.padding-top {
+    padding-top: 20px;
+}
+.padding-bottom {
+    padding-bottom: 20px;
+}
+
+/* Common backgrounds */
+
+.bg-stripes {
+    background: url("../images/stripes-bg.png");
+} 

@@ -52,14 +52,14 @@
       <HintPath>..\..\..\..\..\packages\MicroCHAP.1.2.2.2\lib\net45\MicroCHAP.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="Rainbow, Version=2.0.6.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\..\packages\Rainbow.Core.2.0.6\lib\net452\Rainbow.dll</HintPath>
+    <Reference Include="Rainbow, Version=2.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\packages\Rainbow.Core.2.1.1\lib\net452\Rainbow.dll</HintPath>
     </Reference>
-    <Reference Include="Rainbow.Storage.Sc, Version=2.0.6.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\..\packages\Rainbow.Storage.Sc.2.0.6\lib\net452\Rainbow.Storage.Sc.dll</HintPath>
+    <Reference Include="Rainbow.Storage.Sc, Version=2.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\packages\Rainbow.Storage.Sc.2.1.1\lib\net452\Rainbow.Storage.Sc.dll</HintPath>
     </Reference>
-    <Reference Include="Rainbow.Storage.Yaml, Version=2.0.6.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\..\packages\Rainbow.Storage.Yaml.2.0.6\lib\net452\Rainbow.Storage.Yaml.dll</HintPath>
+    <Reference Include="Rainbow.Storage.Yaml, Version=2.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\packages\Rainbow.Storage.Yaml.2.1.1\lib\net452\Rainbow.Storage.Yaml.dll</HintPath>
     </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -77,14 +77,14 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
-    <Reference Include="Unicorn, Version=4.0.8.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\..\packages\Unicorn.Core.4.0.8\lib\net452\Unicorn.dll</HintPath>
+    <Reference Include="Unicorn, Version=4.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\packages\Unicorn.Core.4.1.1\lib\net452\Unicorn.dll</HintPath>
     </Reference>
-    <Reference Include="Unicorn.Roles, Version=4.0.8.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\..\packages\Unicorn.Roles.Core.4.0.8\lib\net452\Unicorn.Roles.dll</HintPath>
+    <Reference Include="Unicorn.Roles, Version=4.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\packages\Unicorn.Roles.Core.4.1.1\lib\net452\Unicorn.Roles.dll</HintPath>
     </Reference>
-    <Reference Include="Unicorn.Users, Version=4.0.8.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\..\packages\Unicorn.Users.Core.4.0.8\lib\net452\Unicorn.Users.dll</HintPath>
+    <Reference Include="Unicorn.Users, Version=4.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\packages\Unicorn.Users.Core.4.1.1\lib\net452\Unicorn.Users.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -92,6 +92,20 @@
     <Content Include="App_Config\Include\Unicorn.Helix.config" />
     <Content Include="App_Config\Include\XA.Styleguide\Foundation.Settings.config" />
     <Content Include="App_Config\Include\XA.Styleguide\Foundation.ContentSearch.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.zSharedSecret.config.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.UI.IdentityServer.config.disabled" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.UI.DeployedContentEditorWarnings.config.disabled" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.UI.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Remote.config.disabled" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.PowerShell.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Dilithium.config.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.DataProvider.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.CustomSerializationFolder.config.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.NewItemsOnly.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Dependency.config.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -99,20 +113,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\Rainbow.config" />
-    <None Include="App_Config\Include\Unicorn\Unicorn.zSharedSecret.config.example" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.UI.IdentityServer.config" />
-    <None Include="App_Config\Include\Unicorn\Unicorn.UI.DeployedContentEditorWarnings.config.disabled" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.UI.config" />
-    <None Include="App_Config\Include\Unicorn\Unicorn.Remote.config.disabled" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.PowerShell.config" />
-    <None Include="App_Config\Include\Unicorn\Unicorn.Dilithium.config.example" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.DataProvider.config" />
-    <None Include="App_Config\Include\Unicorn\Unicorn.CustomSerializationFolder.config.example" />
-    <None Include="App_Config\Include\Unicorn\Unicorn.Configs.NewItemsOnly.example" />
-    <None Include="App_Config\Include\Unicorn\Unicorn.Configs.Dependency.config.example" />
-    <None Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.example" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.config" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

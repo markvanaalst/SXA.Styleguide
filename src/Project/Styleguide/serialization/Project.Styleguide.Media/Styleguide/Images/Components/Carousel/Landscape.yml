@@ -1,0 +1,14 @@
+﻿---
+ID: "c17cc1ea-1e4f-4b8a-bbaf-1975096a0bbb"
+Parent: "3c202196-9df7-41e5-9546-e3d332999b39"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Images/Components/Carousel/Landscape
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170410T123006Z

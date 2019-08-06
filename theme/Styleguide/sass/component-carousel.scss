@@ -2,12 +2,12 @@
 @import "abstracts/vars";
 @import "base/fontawesome/font-awesome-mix-var";
 .carousel {
-    @include border-basic();
     position: relative;
     box-sizing: border-box;
     padding: 10px;
     text-align: center;
     background: $carousel-bg;
+    overflow: hidden;
     .wrapper {
         padding-bottom: 30px;
     }
@@ -18,7 +18,11 @@
             display: block;
             clear: both;
         }
+        .field-slideimage img {
+            height: auto;
+        }
     }
+    
     .nav {
         margin-top: 10px;
         .nav-items {
@@ -146,4 +150,34 @@
     .carousel {
         padding: 0;
     }
+}
+
+main > #content > .row .carousel .field-slidetext {
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: translate(0%,0%);
+    -ms-transform: translate(0%,0%);
+    transform: translate(0%,0%);
+    background: #000;
+    background: rgba(0,0,0,.5);
+    position: absolute;
+    left: 0;
+    right: 0;
+    max-width: 40%;
+    height: auto;
+    top: 2%;
+    opacity: .8;
+    margin: 1% 5%;
+    font-weight: bold;
+    h2 {
+        color: #fff !important;
+        margin: 20px;
+    }
+}
+.carousel.nav-over .nav {
+    bottom: 55px;
+    position: absolute;
+    left: 0;
+    right: 0;
 }

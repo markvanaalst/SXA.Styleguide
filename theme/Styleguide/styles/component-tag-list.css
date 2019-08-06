@@ -33,6 +33,7 @@
 
 .tag-list span.field-title > a {
   color: #747474;
+  font-size: 0.8em;
   background: #89C6CC;
   border-radius: 3px 0 0 3px;
   display: inline-block;

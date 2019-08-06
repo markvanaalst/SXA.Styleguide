@@ -1,14 +1,12 @@
 @charset "UTF-8";
 /* breakpoints */
 .carousel {
-  border-width: 1px;
-  border-style: solid;
-  border-color: #d2d2d2;
   position: relative;
   box-sizing: border-box;
   padding: 10px;
   text-align: center;
   background: #FFFFFF;
+  overflow: hidden;
 }
 
 .carousel .wrapper {
@@ -23,6 +21,10 @@
   content: "";
   display: block;
   clear: both;
+}
+
+.carousel .slides .field-slideimage img {
+  height: auto;
 }
 
 .carousel .nav {
@@ -166,4 +168,36 @@
   .carousel {
     padding: 0;
   }
+}
+
+main > #content > .row .carousel .field-slidetext {
+  text-align: left;
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translate(0%, 0%);
+  -ms-transform: translate(0%, 0%);
+  transform: translate(0%, 0%);
+  background: #000;
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 0;
+  right: 0;
+  max-width: 40%;
+  height: auto;
+  top: 2%;
+  opacity: .8;
+  margin: 1% 5%;
+  font-weight: bold;
+}
+
+main > #content > .row .carousel .field-slidetext h2 {
+  color: #fff !important;
+  margin: 20px;
+}
+
+.carousel.nav-over .nav {
+  bottom: 55px;
+  position: absolute;
+  left: 0;
+  right: 0;
 }

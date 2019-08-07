@@ -1,0 +1,25 @@
+﻿---
+ID: "d94c19c0-4575-4335-9763-011796b5a88a"
+Parent: "8284eb9d-2ab0-430d-ab10-2398fcb4ae5d"
+Template: "8284eb9d-2ab0-430d-ab10-2398fcb4ae5d"
+Path: /sitecore/templates/Feature/Styleguide/Page Content/Teaser List Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {FF177140-A8A0-4DF3-A0E4-57F2439BDBF9}
+    {8284EB9D-2AB0-430D-AB10-2398FCB4AE5D}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

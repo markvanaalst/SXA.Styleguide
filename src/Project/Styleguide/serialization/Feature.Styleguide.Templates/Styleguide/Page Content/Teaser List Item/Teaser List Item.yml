@@ -1,0 +1,18 @@
+﻿---
+ID: "9c838317-8f47-4db4-89f5-553efd8373a2"
+Parent: "edf29f78-836c-4e5e-8f12-d0319ad525ab"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Styleguide/Page Content/Teaser List Item/Teaser List Item
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/element.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T095453Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "c6dcca62-e89d-4324-a000-eab9d47c1171"
+Parent: "e9a7852a-1df6-42e8-9316-6cb768fcf96f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Images/Screenshots
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190809T112600Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

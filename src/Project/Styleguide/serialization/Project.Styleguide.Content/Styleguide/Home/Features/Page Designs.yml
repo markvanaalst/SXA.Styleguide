@@ -15,6 +15,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190425T105002Z
+    - ID: "35381ea8-84f8-4509-8495-2ac4e3acc4ad"
+      Hint: Full Article
+      Value: "[No tIn Sitecore you will normally create a set of content templates for your site. For each of these you would usually have a developer build the layout and components. With SXA you do not need a developer for this task. You create the layouts using the Drag &amp; Drop interface and Partial Designs. You then apply them to the Sitecore content templates using Designs.ext in field]"
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Page Designs
@@ -25,6 +28,4 @@ Languages:
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: |
-        <div class="field-content">
-        <p>In Sitecore you will normally create a set of content templates for your site. For each of these you would usually have a developer build the layout and components. With SXA you do not need a developer for this task. You create the layouts using the Drag &amp; Drop interface and Partial Designs. You then apply them to the Sitecore content templates using Designs.</p>
-        </div>
+        <span style="font-size: 16px;">Manage your various layouts and page furniture on platform</span><p />

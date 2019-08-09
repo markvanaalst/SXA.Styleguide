@@ -1,7 +1,7 @@
 ﻿---
-ID: "143c50a6-6ea7-4b15-825d-87bfc3b7480c"
-Parent: "9a3d9520-9306-4b9e-b36a-69b4d13e3d3b"
-Template: "9a3d9520-9306-4b9e-b36a-69b4d13e3d3b"
+ID: "cfd4f9ef-af6d-47b2-8d1d-88c1aa4f09ad"
+Parent: "bda146e9-1cd3-4955-a2da-6676f677562f"
+Template: "bda146e9-1cd3-4955-a2da-6676f677562f"
 Path: /sitecore/templates/Project/Sitecore/Fruit/__Standard Values
 DB: master
 SharedFields:

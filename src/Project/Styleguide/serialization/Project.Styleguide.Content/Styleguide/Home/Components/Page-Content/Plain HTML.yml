@@ -1,0 +1,24 @@
+﻿---
+ID: "9e7c95c5-bac4-49bd-a3ff-bf0677763349"
+Parent: "4188b925-ae24-4925-b9df-e463bdc1831a"
+Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
+Path: "/sitecore/content/Sitecore/Styleguide/Home/Components/Page-Content/Plain HTML"
+DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{AF6BC2BD-E522-4402-9308-E6501BD192B6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Plain HTML
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T091900Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Plain HTML

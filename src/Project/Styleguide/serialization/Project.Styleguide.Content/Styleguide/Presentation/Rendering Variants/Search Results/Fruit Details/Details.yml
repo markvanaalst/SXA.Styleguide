@@ -1,0 +1,21 @@
+﻿---
+ID: "d356bb3e-9eb9-4500-a77e-0306b219ab62"
+Parent: "54b20771-7a90-4784-adcb-4f300cbbb9fa"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Search Results/Fruit Details/Details
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "fruit-details"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T093504Z

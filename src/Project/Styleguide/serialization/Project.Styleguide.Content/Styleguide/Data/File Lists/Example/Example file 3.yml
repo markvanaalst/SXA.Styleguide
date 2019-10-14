@@ -1,0 +1,29 @@
+﻿---
+ID: "80566cd2-3416-4f2c-9ba4-2c67247dcddf"
+Parent: "dd94b671-9f60-4a5f-81e0-773afab56a3c"
+Template: "04129321-7708-49c1-801b-aee196e1c0a8"
+Path: /sitecore/content/Sitecore/Styleguide/Data/File Lists/Example/Example file 3
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T145539Z
+    - ID: "413f42d9-9868-418a-9a0e-770202b9ccc4"
+      Hint: CustomImage
+      Value: |
+        <image mediaid="{F46C7687-9BF7-4DCE-BCB9-1E769CB85D47}" />
+    - ID: "58deef8c-1a88-449e-b165-bfe3be9b53b7"
+      Hint: LinkText
+      Value: Download
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "74a012f7-d87b-456e-a447-6f392c69c48f"
+      Hint: File
+      Value: |
+        <file mediaid="{F46C7687-9BF7-4DCE-BCB9-1E769CB85D47}" src="-/media/F46C76879BF74DCEBCB91E769CB85D47.ashx" />

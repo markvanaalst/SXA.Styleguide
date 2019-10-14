@@ -1,0 +1,24 @@
+﻿---
+ID: "4279f72b-3e0b-4de1-96d5-7f4d3e8d69d0"
+Parent: "89c4fbc1-2e95-4f6a-b556-4b4b4253044e"
+Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Other/Forms/WFFM Form Wrapper
+DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{AF6BC2BD-E522-4402-9308-E6501BD192B6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: WFFM Form Wrapper
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T091440Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: WFFM Form Wrapper

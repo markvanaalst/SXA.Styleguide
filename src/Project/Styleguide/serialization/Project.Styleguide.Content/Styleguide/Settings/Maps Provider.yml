@@ -4,6 +4,10 @@ Parent: "95950773-3e0e-4fa0-8e7f-71dd7beb1bbe"
 Template: "70461699-48e4-45fa-b74b-0cce849fca6a"
 Path: /sitecore/content/Sitecore/Styleguide/Settings/Maps Provider
 DB: master
+SharedFields:
+- ID: "d9ee34d4-1a82-4478-ac8b-b60d3cc5fa70"
+  Hint: Key
+  Value: "AIzaSyB0yaPcysmf-LVdUvoNgF2bkWzHmqgD6jE"
 Languages:
 - Language: en
   Versions:

@@ -22,4 +22,4 @@ Languages:
         sitecore\Admin
     - ID: "904cb4ca-42d1-4690-8a99-9ecf22855e88"
       Hint: ResultsNotFoundText
-      Value: No results
+      Value: "Something went wrong... No components? Impossible!"

@@ -1,9 +1,13 @@
 ﻿---
 ID: "70e5418b-85c3-47a8-9fe2-df9a8fd9eca2"
 Parent: "996ffe31-c0c7-4be4-91e0-a614c42f3a5a"
-Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
 Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Navigation/Link List
 DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{E32F633C-E215-4153-B10A-DA8DFF837616}|{AF6BC2BD-E522-4402-9308-E6501BD192B6}"
 Languages:
 - Language: en
   Versions:

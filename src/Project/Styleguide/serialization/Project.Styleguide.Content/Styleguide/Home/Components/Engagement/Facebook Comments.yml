@@ -1,9 +1,16 @@
 ﻿---
 ID: "e1b183b8-d582-4502-9131-d795df03aee0"
 Parent: "35b0b1ee-ad3f-4ca9-8d46-0669f7b7d0e9"
-Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
 Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Engagement/Facebook Comments
 DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{AF6BC2BD-E522-4402-9308-E6501BD192B6}|{E71E5AB9-9D7C-479A-BE5B-0FCE00390E1F}"
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{085DE7FB-71E0-4CC6-A24D-DBD81C9B41EB}"
 Languages:
 - Language: en
   Versions:
@@ -18,3 +25,10 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Facebook Comments
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{D24742E9-BC08-480F-8FCC-AE29AD15B012}" />
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: "There is a variety of comment systems out there and we give you the possibility to integrate two of them out-of-the-box. All you need to do is to decide which one you would like to use on your page and setup all the required properties. It only takes seconds to allow your customers to comment on your content. Just make sure you have your moderators on duty!"

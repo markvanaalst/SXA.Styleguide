@@ -1,9 +1,13 @@
 ﻿---
 ID: "a45c1323-ba8c-4437-928c-b80c4097dafc"
 Parent: "a522a7e0-f5bb-4df8-a18b-4bf7058a659e"
-Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
 Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Media/Media Link
 DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{AF6BC2BD-E522-4402-9308-E6501BD192B6}|{E32F633C-E215-4153-B10A-DA8DFF837616}"
 Languages:
 - Language: en
   Versions:
@@ -18,3 +22,10 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Media Link
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{DDD1C8BB-60CD-4DF5-AD29-2FB9F12E23DC}" />
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: Media link allows you to build rich and consistent asset downloads across your site.

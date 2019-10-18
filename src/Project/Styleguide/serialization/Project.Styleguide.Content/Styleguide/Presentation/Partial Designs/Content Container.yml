@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
   Hint: Signature
-  Value: "listing-with-sidebar-right"
+  Value: "content-container"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 275

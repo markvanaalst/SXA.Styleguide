@@ -1,9 +1,13 @@
 ﻿---
 ID: "35b0b1ee-ad3f-4ca9-8d46-0669f7b7d0e9"
 Parent: "a3271e0e-3a17-45b4-9ab0-3dd3a50d5a66"
-Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
 Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Engagement
 DB: master
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{74994637-2527-4F82-936A-7976833613D5}"
 Languages:
 - Language: en
   Versions:

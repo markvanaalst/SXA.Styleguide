@@ -1,9 +1,13 @@
 ﻿---
 ID: "f0e87612-db11-40ca-89aa-9ba8eda1c641"
 Parent: "5071702f-ba91-4768-b2d7-341555f5378c"
-Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
 Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Taxonomy/Tag Cloud
 DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{AF6BC2BD-E522-4402-9308-E6501BD192B6}"
 Languages:
 - Language: en
   Versions:

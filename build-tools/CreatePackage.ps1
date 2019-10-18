@@ -1,6 +1,6 @@
 Import-Module -Name SPE
 
-$session = New-ScriptSession -Username admin -Password b -ConnectionUri https://xm91u1.dev.local
+$session = New-ScriptSession -Username admin -Password b -ConnectionUri https://sxa93.dev.local
 
 Invoke-RemoteScript -Session $session -ScriptBlock { 
 	# Create package
@@ -13,7 +13,7 @@ Invoke-RemoteScript -Session $session -ScriptBlock {
 
 	$configs = Get-UnicornConfiguration
 	$configs | New-UnicornItemSource -Project $package
-	Export-Package -Project $package -Path "C:\Projects\Sitecore.XA.Styleguide\export\Sitecore.XA.Styleguide.zip" -Zip
+	Export-Package -Project $package -Path "C:\Projects\Sitecore.XA.Styleguide_sc93-prerelease\export\Sitecore.XA.Styleguide.zip" -Zip
 }
 
 Stop-ScriptSession -Session $session

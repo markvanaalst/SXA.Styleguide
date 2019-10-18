@@ -1,14 +1,25 @@
 ﻿---
-ID: "f4fe6ed6-e9e3-4d4a-98f3-fb63ea8d39c3"
-Parent: "b59398a2-91d1-49e8-8ef2-72d61336aa9c"
-Template: "536ef8ae-e6df-4aed-bd84-1f18de8cebf7"
-Path: /sitecore/media library/Themes/Sitecore/Styleguide/Styleguide/Scripts
+ID: "e4d016a6-ca28-43ee-ba0a-1ff0f47c190b"
+Parent: "3434b982-bb5c-43e0-aa91-766ef7a8d25c"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Sitecore/Styleguide/Styleguide/scripts
 DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/folder.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20180306T125740Z
+      Value: 20111221T115400Z

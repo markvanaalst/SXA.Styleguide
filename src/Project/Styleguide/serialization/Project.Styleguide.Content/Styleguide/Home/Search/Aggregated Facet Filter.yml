@@ -1,13 +1,9 @@
 ﻿---
-ID: "49910150-048b-4dac-957c-ae98d8f96511"
+ID: "2177d7ed-0cf8-44f8-9e31-f96648302846"
 Parent: "2c201fb2-ffb1-45df-aeb0-7df921a44da6"
 Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
-Path: /sitecore/content/Sitecore/Styleguide/Home/Search/Lets search some fruits
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search/Aggregated Facet Filter
 DB: master
-SharedFields:
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 200
 Languages:
 - Language: en
   Versions:
@@ -42,36 +38,29 @@ Languages:
               s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;Styles=%7B097B0256-9A50-4164-B4C9-934E3EAEDC7C%7D%7C%7BAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7D%7C%7B25CDBEA1-53EE-4470-89BF-EE8176260635%7D&amp;RenderingIdentifier"
               s:ph="/main/sxa-content-container/container-1/container-4/column-2-1" />
             <r
-              uid="{A2A2852A-ECCA-4099-BC33-A5F368D78D1E}"
+              uid="{4ED7D4D4-459B-4629-9D92-0C0C0F96A477}"
               p:after="r[@uid='{B9D85287-9550-4259-8984-360EC85A3005}']"
+              s:ds="{36026BA1-AA69-4FE6-A729-A9455A56C4AC}"
+              s:id="{51F98EDE-1FFE-4C36-9B29-C37435B8A048}"
+              s:par="Reset Caching Options&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;SearchSignature&amp;Styles&amp;RenderingIdentifier"
+              s:ph="/main/sxa-content-container/container-1/container-4/column-1-1" />
+            <r
+              uid="{A2A2852A-ECCA-4099-BC33-A5F368D78D1E}"
+              p:after="r[@uid='{4ED7D4D4-459B-4629-9D92-0C0C0F96A477}']"
               s:ds="{E1120A3C-59EC-4089-B9CA-42ECAE35F539}"
               s:id="{FF6523B5-E93D-4396-8990-38FC537D71AD}"
               s:par="Reset Caching Options&amp;ShowRangeIndicators&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;Styles&amp;RenderingIdentifier"
               s:ph="/main/sxa-content-container/container-1/container-4/column-1-1" />
             <r
-              uid="{BC61534A-D16E-469E-9351-DD36F004FAC2}"
+              uid="{127BD43E-5F7B-4212-93B5-BD0542374639}"
               p:after="r[@uid='{A2A2852A-ECCA-4099-BC33-A5F368D78D1E}']"
-              s:ds="{891E2AB7-24AC-4850-9706-961DB37A350D}"
-              s:id="{3C09F738-A63B-451B-A976-8925364316C4}"
-              s:par="Reset Caching Options&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;SearchSignature&amp;Styles&amp;SelectedMinValue&amp;SelectedMaxValue&amp;Ranges=Show manual and managed range&amp;ManagedRangeMode&amp;RenderingIdentifier"
-              s:ph="/main/sxa-content-container/container-1/container-4/column-1-1" />
-            <r
-              uid="{456CE395-9C61-4618-9244-586FE2681D00}"
-              p:after="r[@uid='{BC61534A-D16E-469E-9351-DD36F004FAC2}']"
-              s:ds="{E94F09A2-BC4B-4832-9E94-255965115D94}"
-              s:id="{2B2EC80B-13E2-445D-BA1A-8B8F037DED66}"
-              s:par="Reset Caching Options&amp;SortOrder=SortByNames&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;SearchSignature&amp;Styles&amp;HighlightThreshold=2&amp;HighlightBehaviour&amp;CollapseOnSelection&amp;MultiSelection&amp;RenderingIdentifier"
-              s:ph="/main/sxa-content-container/container-1/container-4/column-1-1" />
-            <r
-              uid="{186A0FBF-B131-4448-9713-B663FF7852D3}"
-              p:after="r[@uid='{456CE395-9C61-4618-9244-586FE2681D00}']"
-              s:ds="{65C2E7CF-11D7-43DC-A856-3DA6AC710C4A}"
-              s:id="{2B2EC80B-13E2-445D-BA1A-8B8F037DED66}"
-              s:par="Reset Caching Options&amp;SortOrder=SortByNames&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;SearchSignature&amp;Styles&amp;HighlightThreshold=2&amp;HighlightBehaviour&amp;CollapseOnSelection&amp;MultiSelection&amp;RenderingIdentifier"
+              s:ds=""
+              s:id="{8A3142A0-9688-461A-8C6F-5729BC064D35}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BB6541EAC-2797-4C2A-9D4A-F5CA330659F7%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
               s:ph="/main/sxa-content-container/container-1/container-4/column-1-1" />
             <r
               uid="{0F013FC6-66B9-4C4A-89BC-178C71283433}"
-              p:after="r[@uid='{186A0FBF-B131-4448-9713-B663FF7852D3}']"
+              p:after="r[@uid='{127BD43E-5F7B-4212-93B5-BD0542374639}']"
               s:ds="{4201B0AA-E999-4ABC-B537-BF202B7AED88}"
               s:id="{B036EA2E-A7A1-4FFC-B296-F8E5212C46AC}"
               s:par="Reset Caching Options&amp;SortOrder=SortByNames&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;SearchSignature&amp;Styles&amp;RenderingIdentifier"
@@ -100,7 +89,7 @@ Languages:
         </r>
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
       Hint: Title
-      Value: Let's search some fruits
+      Value: Aggregated Facet Filter
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191014T082814Z
@@ -109,7 +98,8 @@ Languages:
       Value: 
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Let's search some fruits
+      Value: Aggregated Facet Filter
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
-      Value: <p>Here we have nice example usage of scopes functionality. We are using scope to limit search results just to fruits &mdash; no others items will be found.</p>
+      Value: |
+        <span style="font-family: Lato, sans-serif; font-size: 12px; font-style: normal; font-weight: 400; text-align: start;">Here we have nice example usage aggregated facet and facet summary components</span>

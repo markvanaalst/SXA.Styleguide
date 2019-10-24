@@ -25,6 +25,31 @@
   font-weight: bold;
 }
 
+.page-list.bg-page-list .item > div::after {
+  content: "";
+  display: block;
+  background: #fff;
+  z-index: 5;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: relative;
+}
+
+.page-list.bg-page-list .item > div .bg-wrapper {
+  position: relative;
+  z-index: 10;
+  background: #fff;
+  opacity: 0.8;
+}
+
+.page-list.bg-page-list .item .fruit-properties {
+  padding: 5px;
+  background: #f0f0f0;
+  font-size: 0.8em;
+}
+
 .page-list.page-intro-image li.item:nth-child(odd) img {
   float: left;
   margin: 10px 15px 15px 0px;
@@ -47,6 +72,38 @@
 
 .page-list.page-intro-image h2.field-title a {
   border-bottom: 0px;
+}
+
+.page-list.page-list-thumbs-small .item {
+  display: inline-block;
+  vertical-align: middle;
+  box-sizing: border-box;
+  border: none;
+  width: 16%;
+  margin: 0;
+  padding: 16px;
+  text-align: center;
+}
+
+.page-list.page-list-thumbs-small .item img {
+  width: 100%;
+  height: auto;
+}
+
+.page-list.page-list-thumbs-title-desc .field-image {
+  width: 40%;
+  float: left;
+  margin-right: 15px;
+}
+
+.page-list.page-list-thumbs-title-desc .field-image img {
+  width: 100%;
+  height: auto;
+}
+
+.page-list.page-list-thumbs-title-desc .title-desc {
+  width: 50%;
+  float: left;
 }
 
 .page-list a {

@@ -10,7 +10,7 @@ SharedFields:
   Value: "{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
 - ID: "af48c671-dd3e-41ed-95b3-534560bef882"
   Hint: RenderingParameters
-  Value: Separator=%3e&IsNavigation=1&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0
+  Value: "Separator=%3e&Filter=%7bD063E9D1-C7B5-4B1E-B31E-69886C9C59F5%7d&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
 Languages:
 - Language: en
   Versions:

@@ -35,7 +35,7 @@
 
 .accordion .toggle-header .component .field-heading {
   font-size: 16px;
-  padding-left: 34px;
+  padding-left: 45px;
   font-weight: normal;
 }
 
@@ -75,8 +75,9 @@
 }
 
 .accordion .toggle-content {
-  padding: 10px;
+  padding: 10px 25px;
   background-color: transparent;
+  font-size: 14px;
 }
 
 .accordion .toggle-content:after {
@@ -135,7 +136,7 @@
 }
 
 .accordion-horizontal.accordion-image .items .item .toggle-content {
-  padding: 0;
+  padding: 0 15px;
 }
 
 .accordion-horizontal .items {
@@ -226,5 +227,5 @@
   height: 100%;
   overflow: hidden;
   text-align: left;
-  padding: 10px;
+  padding: 10 25px;
 }

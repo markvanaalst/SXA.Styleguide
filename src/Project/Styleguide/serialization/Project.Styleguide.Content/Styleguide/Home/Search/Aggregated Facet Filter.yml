@@ -101,5 +101,4 @@ Languages:
       Value: Aggregated Facet Filter
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
-      Value: |
-        <span style="font-family: Lato, sans-serif; font-size: 12px; font-style: normal; font-weight: 400; text-align: start;">Here we have nice example usage aggregated facet and facet summary components</span>
+      Value: Here we have nice example usage aggregated facet and facet summary components

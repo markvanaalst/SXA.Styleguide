@@ -31,6 +31,10 @@
   left: 0;
 }
 
+.tag-list span.field-title.tag-text {
+  font-size: 1em;
+}
+
 .tag-list span.field-title > a {
   color: #747474;
   background: #89C6CC;
@@ -79,6 +83,7 @@
 }
 
 .tag-list span.field-title.tag-links {
+  font-size: 1em;
   display: block;
   float: left;
   border-radius: 20px;
@@ -92,6 +97,7 @@
   text-decoration: none;
   padding-left: 20px;
   position: relative;
+  font-size: 0.8em;
 }
 
 .tag-list span.field-title.tag-links > a:before {
@@ -103,12 +109,12 @@
   -moz-osx-font-smoothing: grayscale;
   content: "";
   display: block;
-  font-size: 12px;
+  font-size: 8px;
   text-align: center;
   color: #fff;
   position: absolute;
-  top: 50%;
-  left: 0;
+  top: 48%;
+  left: 5px;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);

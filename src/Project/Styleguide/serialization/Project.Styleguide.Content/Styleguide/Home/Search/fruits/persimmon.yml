@@ -32,7 +32,7 @@ Languages:
     - ID: "03ffda14-0476-4d90-8885-9b67372e0dee"
       Hint: Image
       Value: |
-        <image mediaid="{03042C46-134D-4F72-94AA-D795DA4199F3}" />
+        <image mediaid="{03042C46-134D-4F72-94AA-D795DA4199F3}" ></image>
     - ID: "17bde557-4346-4003-bee4-856187377943"
       Hint: Taste
       Value: Luscious and honeyed

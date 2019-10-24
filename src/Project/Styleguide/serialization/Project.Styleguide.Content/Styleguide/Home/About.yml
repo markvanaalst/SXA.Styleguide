@@ -16,9 +16,13 @@ Languages:
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
       Hint: Title
       Value: About
+    - ID: "0c944f44-73d3-4348-b3df-3cef1c4d5619"
+      Hint: HeroBackground
+      Value: |
+        <image mediaid="{E4DEF515-9FA4-4A80-B224-618F474C5AB0}" />
     - ID: "21f7b0ee-bc05-4276-ac55-095f64553e07"
       Hint: HeroTitle
-      Value: About
+      Value: About this website
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190509T124355Z

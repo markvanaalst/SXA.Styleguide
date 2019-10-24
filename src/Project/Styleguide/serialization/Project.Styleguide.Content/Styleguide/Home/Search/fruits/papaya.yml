@@ -32,7 +32,7 @@ Languages:
     - ID: "03ffda14-0476-4d90-8885-9b67372e0dee"
       Hint: Image
       Value: |
-        <image mediaid="{21CC5D3D-7E6E-4757-9529-7B905FFD0664}" />
+        <image mediaid="{21CC5D3D-7E6E-4757-9529-7B905FFD0664}" ></image>
     - ID: "17bde557-4346-4003-bee4-856187377943"
       Hint: Taste
       Value: Very sweet

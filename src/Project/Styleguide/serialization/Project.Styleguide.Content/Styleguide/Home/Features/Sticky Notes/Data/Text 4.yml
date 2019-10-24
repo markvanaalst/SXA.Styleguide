@@ -1,0 +1,23 @@
+﻿---
+ID: "0278780a-1a45-4bca-898f-d1fc0b949ec8"
+Parent: "0cf8e3bf-7401-4287-bed5-d4a277ce3968"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Sticky Notes/Data/Text 4
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T115513Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h3>Notes can change colors </h3>
+        <p>Press the little rainbow button at the top left corner of your sticky note to change its color.</p>

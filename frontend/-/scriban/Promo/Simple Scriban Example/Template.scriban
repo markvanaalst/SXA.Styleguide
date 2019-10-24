@@ -9,4 +9,3 @@
 <div>
   {{ i_item.PromoLink }}
 </div>
-

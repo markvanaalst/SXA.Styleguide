@@ -5,7 +5,6 @@
   color: #747474;
   border: transparent;
   line-height: 1.5;
-  font-size: 12px;
   overflow: hidden;
   /* breakpoints */
 }
@@ -194,6 +193,38 @@
   border-left: 0;
 }
 
+.rich-text {
+  font-size: 1em;
+}
+
+.rich-text .medium {
+  font-size: 1.6em;
+}
+
+.rich-text .large {
+  font-size: 2em;
+}
+
+.rich-text.gray-background {
+  background: #666;
+}
+
+.rich-text.teal-background {
+  background: #19a5a2;
+}
+
+.rich-text.medium {
+  font-size: 1.6em;
+}
+
+.rich-text.large {
+  font-size: 2em;
+}
+
+.rich-text.text-white {
+  color: #fff;
+}
+
 .content.centered-page-intro {
   background: #fafafa;
   border-top: 1px solid #ebebeb;
@@ -210,6 +241,10 @@
 .content.centered-page-intro .text-wrapper h1 {
   font-weight: 300;
   font-size: 3em;
+}
+
+.content.centered-page-intro .text-wrapper .field-content {
+  font-size: 1.1em;
 }
 
 .content .page-content-intro .content {

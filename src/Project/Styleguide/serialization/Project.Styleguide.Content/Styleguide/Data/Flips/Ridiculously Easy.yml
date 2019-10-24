@@ -1,5 +1,5 @@
 ﻿---
-ID: "71058761-71d4-4fd0-b6f6-c9f288b0b50e"
+ID: "292e3d55-73eb-43a1-979e-57ac4610c5e4"
 Parent: "e555fb96-0363-4b14-98f3-f71905c061b9"
 Template: "5ef07850-4c04-4b83-9daf-efd752cfaba8"
 Path: /sitecore/content/Sitecore/Styleguide/Data/Flips/Ridiculously Easy
@@ -15,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190424T130734Z
+      Value: 20190424T131743Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

@@ -6,4 +6,10 @@
 	.component-content {
         @include clearfix();
     }
+    &.indent-top {
+        margin-top: 40px;
+    }
+    &.indent-bottom {
+        margin-bottom: 40px;
+    }
 }

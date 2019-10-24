@@ -23,4 +23,4 @@ Languages:
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
       Value: |
-        <link text="User documentation" linktype="external" url="https://doc.sitecore.com/users/sxa/18/sitecore-experience-accelerator/" anchor="" target="_blank" />
+        <link linktype="external" text="User documentation" url="https://doc.sitecore.com/users/sxa/19/sitecore-experience-accelerator/" anchor="" target="_blank" />

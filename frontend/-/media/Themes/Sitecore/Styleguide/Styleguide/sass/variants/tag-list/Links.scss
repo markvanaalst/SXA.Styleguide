@@ -1,5 +1,6 @@
 span.field-title {
     &.tag-links {
+        font-size: 1em;
         display: block;
         float: left;
         border-radius: 20px;
@@ -11,16 +12,17 @@ span.field-title {
             text-decoration: none;
             padding-left: 20px;
             position: relative;
+            font-size: 0.8em;
             &:before {
                 @include fa-icon();
                 content: $fa-var-circle;
                 display: block;
-                font-size: 12px;
+                font-size: 8px;
                 text-align: center;
                 color: #fff;
                 position: absolute;
-                top: 50%;
-                left: 0;
+                top: 48%;
+                left: 5px;
                 transform: translateY(-50%);
             }
         }

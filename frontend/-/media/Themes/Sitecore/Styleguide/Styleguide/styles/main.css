@@ -3059,7 +3059,7 @@ html {
 }
 
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
   position: relative;
   overflow: auto;
   color: #000;
@@ -3215,7 +3215,11 @@ footer .boxed {
   background: url("../images/stripes-bg.png");
 }
 
+.light-gray-background {
+  background: #f7f7f7;
+}
+
 /* Article text */
 article.field-full-article {
-  font-size: 1.2em;
+  font-size: 1em;
 }

@@ -72,7 +72,7 @@ Languages:
       Value: 20190425T104751Z
     - ID: "35381ea8-84f8-4509-8495-2ac4e3acc4ad"
       Hint: Full Article
-      Value: <p>By allowing the authors to start entering real content into a wireframe environment, built on Sitecore with SXA, your UI and creatives can be working with real content, and the project board can be constantly validating the work. For those interested in Content Strategy, this might be the tool you have been looking for to facilitate your approach without boxing you into a particular way of working.</p>
+      Value: "<p>By enabling parallel work streams (content, creative, UX, coding,) you can not only speed up the production of websites but improve the quality of the work to allow the work streams to feedback and validate each other's work. This avoids the classic situation of having the entire site built before entering any content, only to find the templates are not able to service the needs of the authors. By allowing the authors to start entering real content into a wire-frame environment, built on Sitecore with SXA, your UI and creatives can be working with real content, and the project board can be constantly validating the work. For those interested in Content Strategy, this might be the tool you have been looking for to facilitate your approach without boxing you into a particular way of working.</p>"
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Site Delivery Workflow
@@ -84,5 +84,5 @@ Languages:
       Hint: Content
       Value: |
         <div class="field-content">
-        <p>Sitecore Experience Accelerator is not just an extension of the Sitecore interface, but a new way of approaching the production of websites. By enabling parallel work streams (content, creative, UX, coding,) you can not only speed up the production of websites but improve the quality of the work to allow the work streams to feedback and validate each other's work. This avoids the classic situation of having the entire site built before entering any content, only to find the templates are not able to service the needs of the authors.</p>
+        <p>Sitecore Experience Accelerator is not just an extension of the Sitecore interface, but a new way of approaching the production of websites.</p>
         </div>

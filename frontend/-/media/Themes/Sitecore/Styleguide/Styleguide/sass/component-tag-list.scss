@@ -26,6 +26,7 @@
     span.field-title {
         &.tag-text {
             @extend %tag-style;
+            font-size: 1em;
         }
         >a {
             color: $tag-color;

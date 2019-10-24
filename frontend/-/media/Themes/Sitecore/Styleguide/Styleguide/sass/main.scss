@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    @include lato-font-stack();
+    @include opensans-font-stack();
     position: relative;
     overflow: auto;
     color: $text-black;
@@ -156,9 +156,12 @@ footer {
 .bg-stripes {
     background: url("../images/stripes-bg.png");
 } 
+.light-gray-background {
+    background: #f7f7f7;
+}
 
 /* Article text */
 
 article.field-full-article {
-    font-size: 1.2em;
+    font-size: 1em;
 }

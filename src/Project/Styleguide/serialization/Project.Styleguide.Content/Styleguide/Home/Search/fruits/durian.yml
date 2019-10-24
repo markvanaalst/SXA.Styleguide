@@ -32,7 +32,7 @@ Languages:
     - ID: "03ffda14-0476-4d90-8885-9b67372e0dee"
       Hint: Image
       Value: |
-        <image mediaid="{EAF2C8C1-6BC3-4F59-B2A1-A89173E2E56A}" />
+        <image mediaid="{EAF2C8C1-6BC3-4F59-B2A1-A89173E2E56A}" ></image>
     - ID: "17bde557-4346-4003-bee4-856187377943"
       Hint: Taste
       Value: "indescribable - something you will either love or despise"

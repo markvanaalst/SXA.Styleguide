@@ -82,6 +82,18 @@
   animation: slide1show 0s ease-in 1s forwards;
 }
 
+.flip.teal-background .Side1,
+.flip.teal-background .Side0 {
+  background: #19a5a2;
+  border: none;
+}
+
+.flip.teal-background .Side1 .content,
+.flip.teal-background .Side0 .content {
+  color: #fff;
+  padding: 0 15px;
+}
+
 .flip.flip-fade .Side0, .flip.flip-fade .Side1 {
   -webkit-transition-property: opacity;
   transition-property: opacity;

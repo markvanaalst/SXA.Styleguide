@@ -127,3 +127,11 @@
   display: table;
   clear: both;
 }
+
+.container.indent-top {
+  margin-top: 40px;
+}
+
+.container.indent-bottom {
+  margin-bottom: 40px;
+}

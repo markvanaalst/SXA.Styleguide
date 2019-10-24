@@ -20,6 +20,9 @@ SharedFields:
   Hint: IsVerifiedStyle
   Type: Checkbox
   Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{A7552CB1-8CC2-4A85-813C-6683A0F304BC}"

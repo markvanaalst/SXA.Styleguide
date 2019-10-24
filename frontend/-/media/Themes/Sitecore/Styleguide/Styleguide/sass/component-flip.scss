@@ -63,11 +63,20 @@
             animation: slide1show 0s ease-in 1s forwards;
         }
     }
+    &.teal-background .Side1, 
+    &.teal-background .Side0 {
+        background: $teal;
+        border: none;
+        .content {
+            color: $text-white;
+            padding: 0 15px;
+        }
+    }
 }
 @import "styles/flip/*";
 .no-csstransforms3d {
     .flip {
-        .Side1 {
+        .Side1 { 
             display: none;
         }
         &.active {

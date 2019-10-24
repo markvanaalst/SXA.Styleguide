@@ -1,0 +1,22 @@
+﻿---
+ID: "9d1cb715-a288-4326-96ef-a83dbdc35243"
+Parent: "e12865dd-11e2-460a-b7ff-69576f5b33f5"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Styles/Background/Light gray
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "light-gray-background"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T113408Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

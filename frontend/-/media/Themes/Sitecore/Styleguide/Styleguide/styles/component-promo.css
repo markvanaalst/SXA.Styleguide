@@ -99,7 +99,7 @@
 }
 
 .promo.text-image > .component-content div.text {
-  width: 45%;
+  width: 65%;
 }
 
 .promo.text-image.image-right .field-promoicon {
@@ -138,6 +138,15 @@
 
 .promo.title-image-text-link > .component-content {
   border: 0;
+}
+
+.promo.title-image-text h2 {
+  text-align: center;
+}
+
+.promo.title-image-text .img-responsive img {
+  width: 100%;
+  height: auto;
 }
 
 .promo.title-subtitle {

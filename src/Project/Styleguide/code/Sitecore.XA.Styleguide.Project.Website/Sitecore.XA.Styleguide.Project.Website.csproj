@@ -63,6 +63,7 @@
   <ItemGroup>
     <Content Include="App_Config\Include\XA.Styleguide\Styleguide.Website.Serialization.config" />
     <Content Include="App_Config\Include\XA.Styleguide\Styleguide.PSE.Dev.config" />
+    <Content Include="App_Config\Include\z.Feature.Overrides\z.SPE.Sync.Enabler.Gulp.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

@@ -1,8 +1,8 @@
 ﻿---
-ID: "fe74950e-2b4b-49ec-bfb6-b4df38dbab2b"
+ID: "0ecc3b5c-8ca7-46ca-9c15-8c7c57a48489"
 Parent: "38bc8b2b-e151-4ab3-9108-4a2505f3dcb0"
 Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
-Path: /sitecore/content/Sitecore/Styleguide/Data/Images/Site Logo
+Path: /sitecore/content/Sitecore/Styleguide/Data/Images/Alternate Logo
 DB: master
 Languages:
 - Language: en
@@ -23,4 +23,4 @@ Languages:
     - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
       Hint: Image
       Value: |
-        <image mediaid="{AE26EB29-3C30-4290-A5E8-6F6A81ABCE98}" ></image>
+        <image mediaid="{A93F1264-C7F9-450C-BEF4-8ED91D617873}" ></image>

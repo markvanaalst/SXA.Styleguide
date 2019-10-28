@@ -61,10 +61,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\XA.Styleguide\Styleguide.Website.Serialization.config" />
-    <Content Include="App_Config\Include\XA.Styleguide\Styleguide.PSE.Dev.config" />
+    <Content Include="App_Config\Include\XA.Styleguide\Project.Styleguide.Serialization.config" />
+    <Content Include="App_Config\Include\XA.Styleguide\Project.Styleguide.Dev.config" />
     <Content Include="App_Config\Include\z.Feature.Overrides\z.SPE.Sync.Enabler.Gulp.config" />
-    <Content Include="App_Config\Include\XA.Styleguide\Project.ContentSearch.config" />
+    <Content Include="App_Config\Include\XA.Styleguide\Project.Styleguide.Settings.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

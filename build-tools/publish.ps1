@@ -25,14 +25,9 @@ if(-not(Test-ConfigExists $publishsettings)){
 [xml]$targets = Get-Content -Path $publishsettings
 $publishUrl = $targets.Project.PropertyGroup.publishUrl
 $siteName = (Split-Path $publishUrl -NoQualifier).TrimStart("\").TrimStart("/")
-
-Write-Host $siteName
-
 $sxa_site = Get-Website | ? { $_.Name -eq $siteName }
 $publishPath = $sxa_site.physicalPath
 $currentDirectory = Get-Item .
-
-clear
 
 Write-Host "1. Restoring Nuget packages" -ForegroundColor "Green"
 .\nuget.exe restore ..\Sitecore.XA.Styleguide.sln 

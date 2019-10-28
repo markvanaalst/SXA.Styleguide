@@ -88,9 +88,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\XA.Styleguide\Foundation.Serialization.config" />
+    <Content Include="App_Config\Include\XA.Styleguide\Foundation.Styleguide.Serialization.config" />
     <Content Include="App_Config\Include\Unicorn.Helix.config" />
-    <Content Include="App_Config\Include\XA.Styleguide\Foundation.Settings.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.zSharedSecret.config.example" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.UI.IdentityServer.config.disabled" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.UI.DeployedContentEditorWarnings.config.disabled" />

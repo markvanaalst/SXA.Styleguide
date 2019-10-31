@@ -31,7 +31,7 @@ Languages:
     - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
       Hint: Image
       Value: |
-        <image mediaid="{A7FF3EDD-9690-4972-AAD0-6A8D2B24069D}" />
+        <image mediaid="{A7FF3EDD-9690-4972-AAD0-6A8D2B24069D}" ></image>
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: Flash component is used to embed interactive objects and videos on your page

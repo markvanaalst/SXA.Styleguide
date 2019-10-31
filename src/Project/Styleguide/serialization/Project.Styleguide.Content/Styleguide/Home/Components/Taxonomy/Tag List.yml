@@ -22,3 +22,7 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Tag List
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{E9C3C58C-87E6-4BBE-BBB4-F7FE9227E7F6}" />

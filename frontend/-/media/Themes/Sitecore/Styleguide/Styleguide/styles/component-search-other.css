@@ -1379,6 +1379,7 @@
 /* breakpoints */
 .searchbox-header {
   padding-top: 7px;
+  margin-top: 7px;
 }
 
 .searchbox-header .component-content > .twitter-typeahead {

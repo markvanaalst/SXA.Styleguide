@@ -5,6 +5,9 @@ Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
 Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Other/Forms
 DB: master
 SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
 - ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
   Hint: LocalData
   Value: "{91EF4BAB-8AA0-4282-9306-3D2CAD0D26DE}"
@@ -45,6 +48,10 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Forms
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{F2493519-01D0-4A87-A9EC-0FF4FA363FF6}" />
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: Form renderings make it easy to embed a form anywhere on your webpages

@@ -178,7 +178,7 @@ Languages:
     - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
       Hint: Image
       Value: |
-        <image mediaid="{5D58B557-1FD1-4687-9695-888AEBE3B7C0}" />
+        <image mediaid="{5D58B557-1FD1-4687-9695-888AEBE3B7C0}" ></image>
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
       Value: 

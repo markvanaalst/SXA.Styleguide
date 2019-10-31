@@ -22,3 +22,7 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Splitter Rows
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{5CE93317-390A-4218-A77E-C0E5DDC3E523}" />

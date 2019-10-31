@@ -69,7 +69,7 @@ Languages:
     - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
       Hint: Image
       Value: |
-        <image mediaid="{8EFC9095-011D-4898-8477-5055DB31F01E}" />
+        <image mediaid="{8EFC9095-011D-4898-8477-5055DB31F01E}" ></image>
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: <p>Once your business has gone international, you will want to consider adding separate sites for each region in which your company is present.</p>

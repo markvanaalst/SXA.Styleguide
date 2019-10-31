@@ -22,3 +22,7 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Pagination
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{AE49F37A-809F-482C-B1CF-6675FBDF75ED}" />

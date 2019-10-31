@@ -22,3 +22,7 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Breadcrumb
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{AEE651D6-9A0C-45F7-9B26-3960AA6BF392}" />

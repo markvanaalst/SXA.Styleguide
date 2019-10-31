@@ -2,7 +2,7 @@
 ID: "d4cd7431-1605-4d35-9f87-5c2045d606d4"
 Parent: "0e77bbf1-bc39-4780-bb6a-ac229a2ebb56"
 Template: "62c2b7d0-1c34-4aa6-b3d3-5d612c0891bd"
-Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Other/Events/Event List/Data/Example 1/Sitecore Symposium 2019
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Other/Event List/Data/Example 1/Sitecore Symposium 2019
 DB: master
 SharedFields:
 - ID: "2c51a553-bb18-4db2-b887-11ae200f96a9"

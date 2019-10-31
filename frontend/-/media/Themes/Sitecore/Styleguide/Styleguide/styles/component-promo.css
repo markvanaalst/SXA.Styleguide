@@ -42,6 +42,43 @@
   margin-bottom: 10px;
 }
 
+.promo.list-promo {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.promo.scriban-list-promo-images h2 {
+  text-align: center;
+}
+
+.promo.scriban-list-promo-images .introduction {
+  text-align: center;
+}
+
+.promo.scriban-list-promo-images .item-list {
+  margin-top: 15px;
+}
+
+.promo.scriban-list-promo-images .item-list .item {
+  margin-bottom: 30px;
+}
+
+.promo.scriban-list-promo-images .item-list .item img {
+  float: left;
+  max-width: 30%;
+}
+
+.promo.scriban-list-promo-images .item-list .item .description {
+  float: left;
+  max-width: 70%;
+  padding-left: 10px;
+  min-height: 145px;
+}
+
+.promo.scriban-list-promo-images .item-list .item a {
+  float: right;
+}
+
 .promo.text-image {
   background: transparent !important;
 }

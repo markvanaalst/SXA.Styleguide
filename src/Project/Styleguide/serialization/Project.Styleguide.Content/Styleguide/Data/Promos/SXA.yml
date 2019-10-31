@@ -12,6 +12,10 @@ Languages:
     - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
       Hint: PromoText
       Value: Sitecore Experience Accelerator
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{B49A7135-4C3D-42D1-8875-90F3C6BB234C}" alt="" height="95" width="200" hspace="" vspace="" ></image>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190424T101129Z
@@ -21,6 +25,4 @@ Languages:
         sitecore\Admin
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
       Hint: PromoText2
-      Value: |
-        <div>SXA is a platform and a concept that enables organizations to perform quick delivery of sites, using standardized sets of functionality with minimum-to-no CMS development. For the purpose of achieving this goal, Sitecore Experience Accelerator utilizes a number of concepts, like grid frameworks and a componentized architecture, to allow for easy and consistent styling of pages and ease of design.</div>
-        <p>Every feature of Experience Accelerator comes with productivity in mind - it is meant to be an expert tool that enables the delivery of websites quickly, with minimum custom development. This, however, might mean something different for different people - that is why SXA clearly defines its target audiences and plans its roadmap with the acute awareness of our clients.</p>
+      Value: "<p>SXA is a platform and a concept that enables organizations to perform quick delivery of sites, using standardized sets of functionality with minimum-to-no CMS development. For the purpose of achieving this goal, Sitecore Experience Accelerator utilizes a number of concepts, like grid frameworks and a componentized architecture, to allow for easy and consistent styling of pages and ease of design.</p>"

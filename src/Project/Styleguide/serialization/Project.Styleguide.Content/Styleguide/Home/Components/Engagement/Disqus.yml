@@ -51,7 +51,7 @@ Languages:
     - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
       Hint: Image
       Value: |
-        <image mediaid="{D24742E9-BC08-480F-8FCC-AE29AD15B012}" />
+        <image mediaid="{D24742E9-BC08-480F-8FCC-AE29AD15B012}" ></image>
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: "There is a variety of comment systems out there and we give you the possibility to integrate two of them out-of-the-box. All you need to do is to decide which one you would like to use on your page and setup all the required properties. It only takes seconds to allow your customers to comment on your content. Just make sure you have your moderators on duty!"

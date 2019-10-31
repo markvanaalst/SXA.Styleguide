@@ -100,7 +100,7 @@ Languages:
     - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
       Hint: Image
       Value: |
-        <image mediaid="{801A6743-DA15-48A0-B2E3-F3573E308964}" />
+        <image mediaid="{801A6743-DA15-48A0-B2E3-F3573E308964}" ></image>
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: Once your business has gone international, you will quickly need to think about customizing your site for different languages.

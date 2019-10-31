@@ -5,6 +5,9 @@ Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Teaser List/Default
 DB: master
 SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: boxed
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{165E9796-FE28-4EED-BD83-114DD02C6284}"

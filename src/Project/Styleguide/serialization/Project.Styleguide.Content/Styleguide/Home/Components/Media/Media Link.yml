@@ -25,7 +25,7 @@ Languages:
     - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
       Hint: Image
       Value: |
-        <image mediaid="{DDD1C8BB-60CD-4DF5-AD29-2FB9F12E23DC}" />
+        <image mediaid="{DDD1C8BB-60CD-4DF5-AD29-2FB9F12E23DC}" ></image>
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: Media link allows you to build rich and consistent asset downloads across your site.

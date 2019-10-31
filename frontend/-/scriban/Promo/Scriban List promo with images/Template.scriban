@@ -1,0 +1,15 @@
+<h2>{{ i_item.PromoText }}</h2>
+<div class="introduction">{{ i_item.PromoText2 }}</div>
+{{ if i_item.has_children }}
+<div class="row item-list">
+{{ for i_child in i_datasource.children }}
+<div class="col-md-4 item">
+    {{ sc_field i_child 'PromoIcon' }}
+    <span class="description">
+        {{ sc_field i_child 'PromoText2' }}
+    </span>
+    <button type="button" class="btn btn-primary">{{ sc_field i_child 'PromoLink' }}</button>
+</div>
+{{ end }}
+</div>
+{{ end }}

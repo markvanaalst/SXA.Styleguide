@@ -1,0 +1,27 @@
+﻿---
+ID: "8c28fcfb-6369-4bfd-8c36-2d1cd6b03c49"
+Parent: "f195f900-459f-4be5-b41c-dca55cfc3ffc"
+Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Best Practices/Sharing content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Sharing content
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T161327Z
+    - ID: "35381ea8-84f8-4509-8495-2ac4e3acc4ad"
+      Hint: Full Article
+      Value: SXA lets you share styles, data sources, page designs, partial designs, and rendering variants between the sites within one tenant.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Sharing content
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{B0E63D3D-6715-45D9-8002-DBE67D2BFE00}" />

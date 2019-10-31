@@ -25,7 +25,7 @@ Languages:
     - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
       Hint: Image
       Value: |
-        <image mediaid="{75077019-0354-44B9-B6C3-E1D7E100DE83}" />
+        <image mediaid="{75077019-0354-44B9-B6C3-E1D7E100DE83}" ></image>
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: "One of the most basic parts of every web page is images. Thanks to this component you can put graphics into your pages and customize them: change the default dimension, provide alternative text and enter some captions underneath."

@@ -1,0 +1,32 @@
+﻿---
+ID: "d9a959d6-0f67-4da6-83cd-c168f0fa029c"
+Parent: "f195f900-459f-4be5-b41c-dca55cfc3ffc"
+Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Best Practices/Working with data sources and media
+DB: master
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Type: Checklist
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Working with data sources and media
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T131610Z
+    - ID: "35381ea8-84f8-4509-8495-2ac4e3acc4ad"
+      Hint: Full Article
+      Value: Organizing and naming your data sources and media items wisely can make a world of difference for your editors. This topic describes some best practices for dealing with data sources and media items in SXA.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Working with data sources and media
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{300F3DEF-BF7E-44C3-A6EF-352D9F38B652}" />

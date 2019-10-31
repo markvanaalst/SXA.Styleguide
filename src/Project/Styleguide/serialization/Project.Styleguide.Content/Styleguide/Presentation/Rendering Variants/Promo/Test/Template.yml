@@ -1,0 +1,29 @@
+﻿---
+ID: "25903c0c-d455-497c-b8c4-cebf6b40e966"
+Parent: "ce0b12f0-87e1-477d-bcb5-2ab78088577a"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Promo/Test/Template
+DB: master
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    <div>
+      <h1>{{ i_item.PromoIcon }}</h1>
+    </div>
+    
+    <div>
+      {{ i_item.PromoText }}
+    </div>
+    
+    <div>
+      {{ i_item.PromoLink }}
+    </div>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T093837Z

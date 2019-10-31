@@ -3223,3 +3223,8 @@ footer .boxed {
 article.field-full-article {
   font-size: 1em;
 }
+
+.teaser-list {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}

@@ -25,7 +25,7 @@ Languages:
     - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
       Hint: Image
       Value: |
-        <image mediaid="{FCDDA657-FC9E-44C2-8346-1E754DD5F0AA}" />
+        <image mediaid="{FCDDA657-FC9E-44C2-8346-1E754DD5F0AA}" ></image>
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: There is no better way to promote or advertise your product than showing a video to customers. In a SXA based site embedding video on the page is super easy. You can use video from Youtube or upload it to the server.

@@ -13,8 +13,37 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3D233B86-6074-42E7-B191-68B9317B47C7}"
+              p:before="*"
+              s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
+              s:par="SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B11005FB6-1E33-4C33-8446-965A5BAA3C4F%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-page-content/container-2/container-2" />
+            <r
+              uid="{7D87C64D-1E24-41FD-B416-A19BEF212CB8}"
+              p:after="*[1=2]"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-page-content/container-2" />
+          </d>
+        </r>
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
       Hint: Title
+      Value: Best Practices and Recommendations
+    - ID: "0c944f44-73d3-4348-b3df-3cef1c4d5619"
+      Hint: HeroBackground
+      Value: |
+        <image mediaid="{8F01ADD7-4800-4D2A-839D-7EE2AA58D13B}" />
+    - ID: "21f7b0ee-bc05-4276-ac55-095f64553e07"
+      Hint: HeroTitle
       Value: Best Practices
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
@@ -22,3 +51,6 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Best Practices
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: "<p>The recommended practices described in this section can help you work with SXA more efficiently:</p><p /><p />"

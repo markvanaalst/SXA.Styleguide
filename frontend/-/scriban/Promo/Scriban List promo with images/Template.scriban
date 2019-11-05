@@ -3,13 +3,19 @@
 {{ if i_item.has_children }}
 <div class="row item-list">
 {{ for i_child in i_datasource.children }}
+
 <div class="col-md-4 item">
-    {{ sc_field i_child 'PromoIcon' }}
+    {{ i_child.PromoIcon }}
+        
     <span class="description">
-        {{ sc_field i_child 'PromoText2' }}
-    </span>
-    <button type="button" class="btn btn-primary">{{ sc_field i_child 'PromoLink' }}</button>
+        {{ i_child.PromoText2 }}
+    </span> 
+    
+    {{ sc_field i_child 'PromoLink' [['data-attribute1','value1'],['data-attribute2','value2']] }}
+    
 </div>
+
+
 {{ end }}
 </div>
 {{ end }}

@@ -99,7 +99,7 @@ Languages:
     - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
       Hint: Image
       Value: |
-        <image mediaid="{727F9605-7C37-486A-BF38-A6A9B05B72E6}" ></image>
+        <image border="" height="96" mediaid="{A93A0F54-665B-440C-95A6-109FE5B1C524}" hspace="" class="" width="96" alt="" vspace="" linktype="" />
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: |

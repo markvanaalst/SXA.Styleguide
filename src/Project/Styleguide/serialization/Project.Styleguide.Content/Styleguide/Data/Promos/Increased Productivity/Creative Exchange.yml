@@ -4,6 +4,10 @@ Parent: "7ac2f826-62c2-4ab2-8343-cb81cab86d20"
 Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
 Path: /sitecore/content/Sitecore/Styleguide/Data/Promos/Increased Productivity/Creative Exchange
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
 Languages:
 - Language: en
   Versions:

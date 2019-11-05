@@ -69,10 +69,10 @@ Languages:
             <r
               uid="{4ECE695A-1FF0-4AB8-BF94-32387774D0E4}"
               p:after="r[@uid='{5B46B9AC-C756-4D6D-90C4-DDCF7C676DB5}']"
+              s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=10"
-              s:ph="/main/sxa-content-container/container-1/container-4"
-              s:ds="" />
+              s:ph="/main/sxa-content-container/container-1/container-4" />
             <r
               uid="{90A15B01-90FE-4F4A-84DD-2A8B670BF11C}"
               p:after="r[@uid='{4ECE695A-1FF0-4AB8-BF94-32387774D0E4}']"

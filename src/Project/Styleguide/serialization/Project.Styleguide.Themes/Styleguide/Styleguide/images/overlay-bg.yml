@@ -7,13 +7,13 @@ DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/EFE2342EDF594D7D93B0657FC40B57BB.ashx?h=16&thn=1&w=16"
+  Value: "-/media/6233749D1F524BB19F4392A00EE30C98.ashx?h=16&thn=1&w=16"
 - ID: "22eac599-f13b-4607-a89d-c091763a467d"
   Hint: Width
   Value: 1
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "48cd7cb9-2c3c-4a9c-9637-0849539ee18f"
+  BlobID: "cbe290bb-6f80-4f98-a4cd-748e5112e2e8"
   Value: iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAF0lEQVR4XgWAAQkAAACCelLg/yeOitB5AfoBL59IANEAAAAASUVORK5CYII=
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size

@@ -8,6 +8,14 @@ SharedFields:
 - ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
   Hint: Value
   Value: "position-center"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Type: TreelistEx
+  Value: |
+    {51C13F03-8364-4F61-B860-2EC6CA7439B3}
+    {8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}
+    {00C953FE-D508-4836-96A4-CF60887AE5F1}
+    {DCEE78E1-1843-4456-A13A-F10A12191630}
 - ID: "95579875-484e-41f0-b9c2-804eafaf3ccc"
   Hint: IsVerifiedStyle
   Type: Checkbox

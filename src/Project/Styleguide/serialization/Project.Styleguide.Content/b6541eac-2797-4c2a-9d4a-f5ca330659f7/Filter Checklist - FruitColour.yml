@@ -11,6 +11,9 @@ SharedFields:
 - ID: "af48c671-dd3e-41ed-95b3-534560bef882"
   Hint: RenderingParameters
   Value: "SortOrder=SortByNames&Data Source=%7b65C2E7CF-11D7-43DC-A856-3DA6AC710C4A%7d&HighlightThreshold=2&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
 Languages:
 - Language: en
   Versions:

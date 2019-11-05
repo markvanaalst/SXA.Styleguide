@@ -1,0 +1,22 @@
+﻿---
+ID: "83725388-44dd-4cc5-ac67-6e125a905b09"
+Parent: "56c83bca-0162-4a05-96ff-e14f3617d4ca"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: "/sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Promo/List promo with images - scriban"
+DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "scriban-list-promo-images"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T203803Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

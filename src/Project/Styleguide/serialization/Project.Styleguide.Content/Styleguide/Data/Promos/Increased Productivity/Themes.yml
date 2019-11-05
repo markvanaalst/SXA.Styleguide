@@ -4,6 +4,10 @@ Parent: "7ac2f826-62c2-4ab2-8343-cb81cab86d20"
 Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
 Path: /sitecore/content/Sitecore/Styleguide/Data/Promos/Increased Productivity/Themes
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
 Languages:
 - Language: en
   Versions:
@@ -15,7 +19,7 @@ Languages:
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{D1503DEE-6CAA-4AFA-B6EC-7437B77191E0}" />
+        <image border="" height="96" mediaid="{9D76333B-25FF-4077-84C1-D118CBED269D}" hspace="" class="" width="96" alt="" vspace="" linktype="" />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190424T120005Z

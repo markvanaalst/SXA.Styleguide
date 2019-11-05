@@ -116,18 +116,9 @@ h2 {
 /* 
     Main Navigation
 */
-.navigation.navigation-main.navigation-main-vertical li.rel-level1:hover {
-  /*background: #f6f6f6;*/
-}
-
 .navigation.navigation-main.navigation-main-vertical .rel-level1 > ul {
   min-width: 180px;
   border-top: 2px solid #fe2911;
-}
-
-li.level2.navigation-image, li.level3.navigation-image {
-  width: 33%;
-  float: left;
 }
 
 .navigation.navigation-main .rel-level2.show > ul {
@@ -150,4 +141,9 @@ li.level2.navigation-image, li.level3.navigation-image {
 .navigation.navigation-main .rel-level2.show > ul .rel-level3 div.navigation-title {
   float: left;
   padding: 10px 0px;
+}
+
+li.level2.navigation-image, li.level3.navigation-image {
+  width: 33%;
+  float: left;
 }

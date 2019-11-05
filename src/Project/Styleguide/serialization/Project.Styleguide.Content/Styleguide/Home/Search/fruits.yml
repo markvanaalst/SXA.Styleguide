@@ -41,7 +41,7 @@ SharedFields:
           uid="{3633B3D1-C0FF-4CAF-A8D1-0F1CF0185563}"
           p:before="*"
           s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
-          s:par="ListSignature&amp;PageSize&amp;Offset&amp;FieldNames={31672603-F0E6-4B49-A149-6DEA85A9B0B2}&amp;Styles&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
+          s:par="ListSignature&amp;PageSize&amp;Offset&amp;FieldNames=%7B31672603-F0E6-4B49-A149-6DEA85A9B0B2%7D&amp;Styles&amp;SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;DynamicPlaceholderId=1&amp;GridParameters"
           s:ph="/main/sxa-general-content/container-1/row-1-1" />
         <r
           uid="{FF55F2E3-865E-4665-B369-3818326040EA}"

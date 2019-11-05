@@ -14,7 +14,7 @@ SharedFields:
   Value: SortOrder=SortByNames&Data Source=query%3a%24site%2fData%2fSearch%2fChecklist+Filter%2fDefault&HighlightThreshold=2&HighlightBehaviour=5&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 150
+  Value: 0
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{F6C3B89C-B1B3-4CB5-ACC8-8894EAD1074E}"

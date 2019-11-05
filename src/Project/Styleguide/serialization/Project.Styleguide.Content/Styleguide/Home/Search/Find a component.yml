@@ -43,7 +43,7 @@ Languages:
               p:after="r[@uid='{67556913-C5FD-422A-AC27-F8DF2933C136}']"
               s:ds="{B07A3CBF-982E-4E43-A0A2-9C659B08EB1B}"
               s:id="{2B2EC80B-13E2-445D-BA1A-8B8F037DED66}"
-              s:par="Reset Caching Options&amp;SortOrder=SortByNames&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;SearchSignature&amp;Styles&amp;HighlightThreshold=2&amp;HighlightBehaviour&amp;CollapseOnSelection&amp;MultiSelection&amp;RenderingIdentifier"
+              s:par="Reset Caching Options&amp;SortOrder=SortByNames&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;Styles&amp;HighlightThreshold=2&amp;HighlightBehaviour&amp;CollapseOnSelection&amp;MultiSelection&amp;RenderingIdentifier"
               s:ph="/main/sxa-content-container/container-1/container-4/column-2-1" />
             <r
               uid="{2B2FC996-8515-4DE2-97C1-CDB7ED586BBC}"
@@ -64,7 +64,7 @@ Languages:
               p:after="r[@uid='{B0EBEEF7-4550-4FAE-96F2-04410B31BC7B}']"
               s:ds="{EFC03293-DADB-4801-A908-6698C3F517C0}"
               s:id="{C4060A7D-74EF-4998-9B8A-737EDB4E41B5}"
-              s:par="Reset Caching Options&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;SearchSignature&amp;Styles&amp;CollapsedModeTreshold&amp;RenderingIdentifier"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;Styles&amp;CollapsedModeTreshold&amp;RenderingIdentifier"
               s:ph="/main/sxa-content-container/container-1/container-4/column-1-1" />
             <r
               uid="{44BA15EE-5E54-4CC0-9F0C-57AFFE9A9734}"

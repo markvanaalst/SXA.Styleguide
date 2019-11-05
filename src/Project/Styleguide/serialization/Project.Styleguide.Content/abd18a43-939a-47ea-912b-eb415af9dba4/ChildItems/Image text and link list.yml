@@ -1,8 +1,8 @@
 ﻿---
-ID: "5a38df70-6b7b-459b-8ddb-834e199be358"
-Parent: "a687ee40-0793-4a0b-81e0-6257244ae21a"
+ID: "cf44354e-eefe-468b-a54c-9d60a1ffe831"
+Parent: "506eb0d1-afc3-413f-be00-fb6b9e728340"
 Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
-Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Promo/List promo with images/Row/ChildItems/Image text and link list
+Path: "/sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Promo/List promo with images - component/Row/ChildItems/Image text and link list"
 DB: master
 SharedFields:
 - ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"

@@ -1,0 +1,47 @@
+﻿---
+ID: "0e162a20-cd6f-429e-8e8a-3290e396a23e"
+Parent: "051b5ee3-4a62-460d-b239-aec6ca56add1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Icons/Components/log_out
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/3C79F2D6A848457F817948203817E57E.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "d8620c3c-db8a-4447-ba8d-83ad525c5322"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAclBMVEUAAADfeH3cKR7cKR7cKh/tyH7tyX7cKyDtyH7tyH/cKh/uyX3tyH/yy33//1vcKR7tx37tyH7tyH7tx37tx37tx37tyX7tyH7tyH3tyH7tyH3tyH7sx37tyX7sx37tyX7tyX3sx3zrxH/qyoDtyH7cKR7Y/aJXAAAAJHRSTlMAB7b3etqIq++mf1lFEwGrgPTj4dPKxcK5tKuae3FtYzkpGhiWRQqbAAAA4ElEQVRIx+2TWQ7DIAxEm2Yha5Pu+47vf8UCcRMkFE0k+lMp84GMNA+wsWeTPBSFImijoA4j7M+JaG6IYK7CHJ5PZAjj10J3hMQE+ykEgCAm2E8CAHwwi9OBhOvHhOvHBPZjwP9JOGn/stbOx/m3RnXZLuUqK8c2X5HKVsdqVHtfZaf4zQNUfwdIuANUSkv7BS56rI3pOdkZ4g6BQts2LxXdzKPgFSdte5owk4NKemCttoc2fMhh9YDFB78EPJ40Pmlc1s4OPs4FQGu4AGg+FwDtbQNN06gVDJAN8Drpz/UBc35M26iEPKwAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 455
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133043Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: "Log-out icon"

@@ -1,0 +1,47 @@
+﻿---
+ID: "6f6342f2-8006-460f-8a6b-a96e4ebfac2c"
+Parent: "051b5ee3-4a62-460d-b239-aec6ca56add1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Icons/Components/radar
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/C6C965566DBA4B21885C95D37CFAE73F.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "d9e196ec-9d70-442b-b520-d40b82037343"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAllBMVEUAAACAgICAgICAgIB/f3+AgICGnpJ3p5d2p5eAgICEjYp2p5d2p5Z3p5eAgICAgICAgICAgICAgICAgICAgIB/f3+AgICAgIB/f3+BgYGCgoKCgoKAgIB2pph3p5h2p5eAgIB8rZh1qJZ2p5d2qJd3p5d2ppd3p5d3pZp2p5d2p5d2p5d3ppd3qJh2pph2p5d2p5eAgIAwTYlaAAAAMHRSTlMAM/P7JrUHnXyREfgr8u3n29nUuqKeg2JYRTstCmwfxZIMsJO1j4RbFu7m39NPPLx4N8IGAAAB0klEQVRIx9SS6ZKCQAyEAyJyenKKoOAB3pn3f7ltqqZWcFi39ud+5S+TTtLN0H/ATKPxQh+N9MU4Sk36DS3URQc91D63r4TC6mfJxh4JMLeTzCFyssSeCzCyNzSIsWyrgRxo5fcCK4N2xtKgAdZTlMbfJQbXo0fGGH9P1wP9OizG9KJ55JXLlUdxW1EUBubPFHuOdXYt0mbYYbz5XaJ/6NIt86E0oFj2ne+wtT/fvTytghwIeFtquGrXyx9ZxNTjNLkxVwWdGDsoRn7dgSvkQwrFyfVryqGwCFmtOgugHzJQuOhtd7iegRteK0IhAnrDqhvycBXXrfGKAiFCkpi6VHfB2ElTPpn9xwEyT0MspqyleD/qK/eOfPHKGwNwJLyrVNYiIWxSgdtLY0nBtU0+khUkkJDK48yMn6RIXkkuhMje7tn7/t6sucM9E2Ihy/DsUI89g63PHXIHrmUZEVMfnxUswsf6s+DjSUA56ZPpr+rq0AAAEIaBoEQwAzuw/3TIc2+qiI+AJp99yaPrW9cl3+pw6XA40UiHaAhfO4RPvMMh3lUgDgWqinKoaEGAAwQaMxwwkyCjA2SFSoLKgjGBceCe4D4GhQzKdLJ6FMez28P+gR5bx26iqNELEAAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 745
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133045Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Radar icon

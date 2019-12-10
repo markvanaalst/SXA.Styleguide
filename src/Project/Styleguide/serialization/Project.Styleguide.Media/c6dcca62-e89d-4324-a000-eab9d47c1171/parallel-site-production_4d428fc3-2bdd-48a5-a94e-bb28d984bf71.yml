@@ -2,7 +2,7 @@
 ID: "4d428fc3-2bdd-48a5-a94e-bb28d984bf71"
 Parent: "c6dcca62-e89d-4324-a000-eab9d47c1171"
 Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
-Path: "/sitecore/media library/Project/Sitecore/Styleguide/Images/Screenshots/parallel-site-production"
+Path: "/sitecore/media library/Project/Sitecore/Styleguide/Screenshots/parallel-site-production"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"

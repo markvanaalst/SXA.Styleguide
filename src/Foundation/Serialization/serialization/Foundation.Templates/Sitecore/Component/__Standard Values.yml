@@ -1,0 +1,18 @@
+﻿---
+ID: "557a5d84-c6f2-44bb-9fd7-da69991fad0b"
+Parent: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
+Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
+Path: /sitecore/templates/Project/Sitecore/Component/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/objects.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T134221Z

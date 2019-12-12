@@ -14,7 +14,7 @@ SharedFields:
   Value: <ruleset />
 - ID: "af48c671-dd3e-41ed-95b3-534560bef882"
   Hint: RenderingParameters
-  Value: "GridParameters=%7b55FE3688-E76D-4B6B-8648-E1B802B9BDD7%7d%7c%7b878F0549-848F-4AF6-B18D-936AEF2590BE%7d&FieldNames=%7bE2112889-F13E-40BC-91F9-31D158765B35%7d&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
+  Value: "GridParameters=%7b55FE3688-E76D-4B6B-8648-E1B802B9BDD7%7d%7c%7b878F0549-848F-4AF6-B18D-936AEF2590BE%7d&FieldNames=%7b51C32ABE-147A-484C-87E9-5C1BAF0B4990%7d&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: "-100"

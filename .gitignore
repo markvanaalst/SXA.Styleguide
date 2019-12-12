@@ -339,3 +339,4 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 /frontend/client/Applications/HorizonCanvas
+/Docker

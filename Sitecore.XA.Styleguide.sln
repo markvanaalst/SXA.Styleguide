@@ -16,13 +16,15 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build Tools", "Build Tools", "{72C6705A-5AF4-4C9B-BBA5-44447B26378D}"
 	ProjectSection(SolutionItems) = preProject
 		build-tools\CreatePackage.ps1 = build-tools\CreatePackage.ps1
-		build-tools\publish.ps1 = build-tools\publish.ps1
+		build-tools\Deploy.ps1 = build-tools\Deploy.ps1
 		build-tools\publishsettings.targets = build-tools\publishsettings.targets
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.XA.Styleguide.Serialization", "src\Foundation\Serialization\code\Sitecore.XA.Styleguide.Serialization\Sitecore.XA.Styleguide.Serialization.csproj", "{1C0F6A76-E61A-4805-A493-A684B08458C8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.XA.Styleguide.Project.Website", "src\Project\Styleguide\code\Sitecore.XA.Styleguide.Project.Website\Sitecore.XA.Styleguide.Project.Website.csproj", "{7FD8AF5E-B636-436A-9E57-B677A351CECB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{85B1499A-143A-4668-82E1-0EE87BEF74CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,7 +45,10 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{13042F00-5A9E-45B2-8B65-7C65BBE64D5C} = {85B1499A-143A-4668-82E1-0EE87BEF74CA}
 		{90B4DFAB-3ACB-43EA-A5DB-FB7502382FFC} = {13042F00-5A9E-45B2-8B65-7C65BBE64D5C}
+		{4126CF27-F773-4C45-AD9B-6DFE386F9471} = {85B1499A-143A-4668-82E1-0EE87BEF74CA}
+		{DA617726-83CA-4025-BEF9-17653E0F4F54} = {85B1499A-143A-4668-82E1-0EE87BEF74CA}
 		{0E31368A-8483-4BA6-9B77-A83BE3766D19} = {DA617726-83CA-4025-BEF9-17653E0F4F54}
 		{1C0F6A76-E61A-4805-A493-A684B08458C8} = {90B4DFAB-3ACB-43EA-A5DB-FB7502382FFC}
 		{7FD8AF5E-B636-436A-9E57-B677A351CECB} = {0E31368A-8483-4BA6-9B77-A83BE3766D19}

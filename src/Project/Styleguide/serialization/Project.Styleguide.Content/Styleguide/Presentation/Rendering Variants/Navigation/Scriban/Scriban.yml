@@ -1,0 +1,25 @@
+﻿---
+ID: "8c716e0a-b1df-4e66-a0aa-4711c0904f85"
+Parent: "8fe95a1b-e08e-40b6-afd8-b0497cefb685"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Navigation/Scriban/Scriban
+DB: master
+SharedFields:
+- ID: "8a85a595-3298-4eb1-96dd-c882ee5802ae"
+  Hint: Tag
+  Value: "{36795C64-E060-4AEF-B209-A1F20A64FC3F}"
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: "{{ i_item.Name }}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191213T102911Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

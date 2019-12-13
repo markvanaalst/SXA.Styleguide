@@ -13,7 +13,7 @@ SharedFields:
   Value: 48px
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 75
+  Value: 0
 - ID: "df178dc4-b83d-46ec-8d4f-9de85e2c996c"
   Hint: FieldName
   Value: Image

@@ -33,6 +33,9 @@ Languages:
       Hint: Image
       Value: |
         <image mediaid="{AA58D2B1-56BC-4D19-B18F-4750ACD4BE98}" ></image>
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Pineapple
     - ID: "17bde557-4346-4003-bee4-856187377943"
       Hint: Taste
       Value: Juicy and sweet
@@ -41,7 +44,7 @@ Languages:
       Value: 50
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20160701T111800Z
+      Value: 20191213T143336Z
     - ID: "3fac038d-9a56-469c-b038-159fb029e20c"
       Hint: Price
       Value: 6

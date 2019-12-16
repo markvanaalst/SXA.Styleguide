@@ -8,10 +8,7 @@ SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Type: TreelistEx
-  Value: |
-    {CB70A797-E500-45A2-AFA1-F6022D8A12BB}
-    {553BDBD5-D78D-4643-9B9D-954198EC4285}
-    {BDA146E9-1CD3-4955-A2DA-6676F677562F}
+  Value: "{59563823-269C-4BD0-9080-B7430B59DD29}"
 - ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
   Hint: NavigationFilter
   Type: Checklist
@@ -29,29 +26,6 @@ SharedFields:
 - ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
   Hint: LocalData
   Value: 
-- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
-  Hint: __Renderings
-  Type: layout
-  Value: |
-    <r xmlns:p="p" xmlns:s="s"
-      p:p="1">
-      <d
-        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-        <r
-          uid="{3633B3D1-C0FF-4CAF-A8D1-0F1CF0185563}"
-          p:before="*"
-          s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
-          s:par="ListSignature&amp;PageSize&amp;Offset&amp;FieldNames=%7B31672603-F0E6-4B49-A149-6DEA85A9B0B2%7D&amp;Styles&amp;SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;DynamicPlaceholderId=1&amp;GridParameters"
-          s:ph="/main/sxa-general-content/container-1/row-1-1" />
-        <r
-          uid="{FF55F2E3-865E-4665-B369-3818326040EA}"
-          p:after="*[1=2]"
-          s:ds=""
-          s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
-          s:par="SplitterSize=2&amp;EnabledPlaceholders=1,2&amp;Styles1={2D92D14C-9B9C-4E3D-B6E3-57BFF023A664}&amp;Styles2={2D92D14C-9B9C-4E3D-B6E3-57BFF023A664}&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
-          s:ph="/main/sxa-general-content/container-1" />
-      </d>
-    </r>
 Languages:
 - Language: en
   Fields:

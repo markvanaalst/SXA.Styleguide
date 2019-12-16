@@ -2,7 +2,7 @@
 ID: "8fe95a1b-e08e-40b6-afd8-b0497cefb685"
 Parent: "83244795-8741-4f02-8a83-a4f7be8bb1ff"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
-Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Navigation/Scriban
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Navigation/Submenu
 DB: master
 Languages:
 - Language: en

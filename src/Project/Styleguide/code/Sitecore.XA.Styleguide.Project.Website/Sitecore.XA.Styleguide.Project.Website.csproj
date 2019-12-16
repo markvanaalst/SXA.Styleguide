@@ -65,7 +65,7 @@
     <Content Include="App_Config\Include\XA.Styleguide\Project.Styleguide.Dev.config" />
     <Content Include="App_Config\Include\z.Feature.Overrides\z.SPE.Sync.Enabler.Gulp.config" />
     <Content Include="App_Config\Include\XA.Styleguide\Project.Styleguide.Settings.config" />
-    <None Include="Properties\PublishProfiles\PublishToContainer.pubxml" />
+    <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

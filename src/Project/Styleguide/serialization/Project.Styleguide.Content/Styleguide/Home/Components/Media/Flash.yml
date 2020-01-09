@@ -32,6 +32,14 @@ Languages:
       Hint: Image
       Value: |
         <image mediaid="{A7FF3EDD-9690-4972-AAD0-6A8D2B24069D}" ></image>
+    - ID: "d5664c58-950f-468d-9752-6e5558c5bc1f"
+      Hint: Component Features
+      Value: |
+        <ul>
+            <li>Displaying SWF objects on the page. The easy way.</li>
+            <li>Configure whatever the object needs by passing custom parameters.</li>
+            <li>Support for different display modes (transparent, opaque, etc.).</li>
+        </ul>
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: Flash component is used to embed interactive objects and videos on your page

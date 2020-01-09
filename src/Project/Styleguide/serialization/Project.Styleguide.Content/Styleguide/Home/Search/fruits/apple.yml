@@ -32,7 +32,7 @@ Languages:
     - ID: "03ffda14-0476-4d90-8885-9b67372e0dee"
       Hint: Image
       Value: |
-        <image mediaid="{F15792DC-6F02-4E4D-828E-D64838BFE4FC}" ></image>
+        <image mediaid="{F15792DC-6F02-4E4D-828E-D64838BFE4FC}" alt="" height="200" width="300" hspace="" vspace=""></image>
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
       Hint: Title
       Value: Apple

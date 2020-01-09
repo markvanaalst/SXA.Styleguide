@@ -1,0 +1,22 @@
+﻿---
+ID: "032ea4a6-1ae9-462e-a246-b9e41002a87c"
+Parent: "167e3995-9e85-48dd-9db8-cc0ea112c4fe"
+Template: "f4218805-86dd-4a01-a94d-7342fc392bcc"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Promo/Extensible Promo/Placeholder
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T234255Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

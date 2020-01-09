@@ -8,6 +8,13 @@ SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: Office/32x32/objects.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {2C0F3F90-66F3-4585-B9DA-DA3CD8A26BF2}
+    {25D85D7B-44CA-4FE6-A1CC-FECCFFACA95C}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
 Languages:
 - Language: en
   Versions:

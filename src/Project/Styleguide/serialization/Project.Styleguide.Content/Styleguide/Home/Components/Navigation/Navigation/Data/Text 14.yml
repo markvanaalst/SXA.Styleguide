@@ -1,0 +1,21 @@
+﻿---
+ID: "53fb7bea-1920-4ddf-8f70-00b5b43abddb"
+Parent: "cee0a178-1780-4572-a53b-0029943d2bc1"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Navigation/Navigation/Data/Text 14
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191217T155206Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: If main navigation is not enough the users can be supported with context dependant sidebar navigation. With combination of dedicated CSS class, selecting appropriate level and showing parent page it is possible to build context navigation which will help users navigate on the lower levels of the site.

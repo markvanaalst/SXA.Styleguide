@@ -8,21 +8,104 @@ SharedFields:
 - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
   Hint: SxaTags
   Value: "{AF6BC2BD-E522-4402-9308-E6501BD192B6}|{E32F633C-E215-4153-B10A-DA8DFF837616}"
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{30580B56-1728-48FA-B614-7FFC37398DD2}"
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{DF04AEB1-D8D3-40E5-B299-B06C76B3755E}"
+              p:before="*"
+              s:ds="{52F1D952-A228-4A86-A3FD-FDAE7A3632C8}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D&amp;FieldNames=%7BD75A7202-2CBC-40DD-8839-8BE11FF7790B%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:ph="/main/sxa-full-article-details/container-5/container-4" />
+            <r
+              uid="{E4572100-DEC5-42E6-9C91-01D1BDE94F0D}"
+              p:after="r[@uid='{DF04AEB1-D8D3-40E5-B299-B06C76B3755E}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B48918248-0011-4F9C-81CD-49DD9A25C730%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B2EF06FFF-9C1A-4B4F-88AF-612CCFEF3714%7D%7C%7B93B61BD7-DD29-418F-8A1F-06FE51B0A538%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:ph="/main/sxa-full-article-details/container-5/container-4" />
+            <r
+              uid="{808F2FBB-E1C2-49E0-BEC5-CF9978BFF0AD}"
+              p:after="r[@uid='{E4572100-DEC5-42E6-9C91-01D1BDE94F0D}']"
+              s:ds="local:/Data/Text 3"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B48918248-0011-4F9C-81CD-49DD9A25C730%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
+              s:ph="/main/sxa-full-article-details/container-5/container-4" />
+            <r
+              uid="{48F96329-5E56-40A4-94B7-6A98E7FEC36A}"
+              p:after="r[@uid='{808F2FBB-E1C2-49E0-BEC5-CF9978BFF0AD}']"
+              s:ds="{3D6DC86F-3CDC-4FDE-B287-F108B7B8FD3B}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D&amp;FieldNames=%7BD75A7202-2CBC-40DD-8839-8BE11FF7790B%7D&amp;Styles=%7BE84C789F-DA32-4916-9E61-DEDD29F61394%7D%7C%7BEF36F3FD-2670-4309-A94D-8FA3E3CF08D7%7D%7C%7B839B45AF-FB7D-4385-B1CA-10A535ADF410%7D%7C%7BAA2E2FCC-2252-4BEA-A63B-CFA9C45E4D98%7D%7C%7B8554812D-E245-4DA1-A034-0997BCF4DE1A%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
+              s:ph="/main/sxa-full-article-details/container-5/container-4" />
+            <r
+              uid="{86ADBA4E-13C0-46FD-8B57-FD86241E1FA1}"
+              p:after="r[@uid='{48F96329-5E56-40A4-94B7-6A98E7FEC36A}']"
+              s:ds="local:/Data/Text 1"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B097B0256-9A50-4164-B4C9-934E3EAEDC7C%7D%7C%7BAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-full-article-details/container-5/container-1" />
+            <r
+              uid="{1FF7B7C0-CB5F-4FC6-B651-97AE76D287B1}"
+              p:after="r[@uid='{86ADBA4E-13C0-46FD-8B57-FD86241E1FA1}']"
+              s:ds="local:/Data/Image 1"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B0CA28D61-E2E5-45E3-AB09-67AB502F8DE9%7D&amp;Styles=%7B25CDBEA1-53EE-4470-89BF-EE8176260635%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="/main/sxa-full-article-details/container-5/container-1" />
+            <r
+              uid="{8B84C507-0939-464A-ACAF-310EBD4472A8}"
+              p:after="r[@uid='{1FF7B7C0-CB5F-4FC6-B651-97AE76D287B1}']"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B2EF06FFF-9C1A-4B4F-88AF-612CCFEF3714%7D%7C%7BE84C789F-DA32-4916-9E61-DEDD29F61394%7D%7C%7B839B45AF-FB7D-4385-B1CA-10A535ADF410%7D%7C%7B8554812D-E245-4DA1-A034-0997BCF4DE1A%7D%7C%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-full-article-details/container-5" />
+            <r
+              uid="{9E3D6FD8-7DE2-4197-A092-D0F4F01C0394}"
+              p:after="*[1=2]"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D%7C%7BA67D51DF-3A0A-4512-8C32-9936A562DEF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="/main/sxa-full-article-details/container-5" />
+          </d>
+        </r>
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
       Hint: Title
       Value: Title
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190509T091947Z
+    - ID: "35381ea8-84f8-4509-8495-2ac4e3acc4ad"
+      Hint: Full Article
+      Value: |
+        <span style="font-family: &quot;Open Sans&quot;, Helvetica, Verdana, Tahoma, sans-serif; font-size: 16px; font-style: normal; font-weight: 400;">Sitecore Experience Accelerator does not provide tools to create engaging titles but, of course, allows you to place your title on the page where you need using the drag and drop toolbox.</span>
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Title
     - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
       Hint: Image
       Value: |
-        <image mediaid="{3E50D985-6505-4010-94DF-3A6CF4B7726B}" />
+        <image mediaid="{3E50D985-6505-4010-94DF-3A6CF4B7726B}" ></image>
+    - ID: "d5664c58-950f-468d-9752-6e5558c5bc1f"
+      Hint: Component Features
+      Value: |
+        <ul>
+            <li>Displays the page's Title field wrapped in <strong class="dropcap">&lt;h1&gt;</strong> tag or e.g. subtitle wrapped in <strong class="dropcap">&lt;h2&gt;</strong></li>
+            <li>Supports <a href="~/link.aspx?_id=F6FED4CA7C8A4B6F9D4F1A492B32F734&amp;_z=z">Rendering Variants&nbsp;</a></li>
+            <li>Can be used anywhere on the page</li>
+        </ul>
+        More detailed information can be found in the documentation
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: The Title component is one of the most basic but also one of the most important components on a page. A title is the first thing noticed by a visitor when they open your page and is often the key to making the decision whether to read on or go somewhere else.

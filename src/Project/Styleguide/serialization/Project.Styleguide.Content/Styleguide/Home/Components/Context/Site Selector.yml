@@ -30,28 +30,27 @@ Languages:
               s:ds="local:/Data/Text 2"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B25CDBEA1-53EE-4470-89BF-EE8176260635%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
-              s:ph="/main/sxa-content-container/container-1/container-4" />
+              s:ph="/main/sxa-full-article-details/container-5/container-4" />
             <r
               uid="{B75A6AB1-B255-4DAE-B349-7FA191DAEA5C}"
               p:after="r[@uid='{1760B165-AB8E-4BA7-A67C-367D8154A3AD}']"
               s:ds="local:/Data/Text 1"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D%7C%7BC8CECAE8-533A-4527-99C3-B646B9125CB4%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B2EF06FFF-9C1A-4B4F-88AF-612CCFEF3714%7D%7C%7B93B61BD7-DD29-418F-8A1F-06FE51B0A538%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
-              s:ph="/main/sxa-content-container/container-1/container-4" />
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D%7C%7BC8CECAE8-533A-4527-99C3-B646B9125CB4%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B129D577C-DEB3-47AE-A5B5-4FEBD94663A0%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-full-article-details/container-5/container-4" />
             <r
               uid="{3D854B4F-DBB1-4615-9365-01232F86BA80}"
               p:after="r[@uid='{B75A6AB1-B255-4DAE-B349-7FA191DAEA5C}']"
               s:ds=""
               s:id="{7E905ED5-E2A7-41A4-90E4-1C5E4807074E}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D%7C%7B28E4A246-65A8-43A5-99DE-130B240E118C%7D&amp;Styles=%7BAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7D%7C%7BC5559A5F-CD20-4D3F-80A5-B6DEBE787ED0%7D%7C%7B4CE0B894-48F7-458F-A10D-907957171BD7%7D%7C%7B25CDBEA1-53EE-4470-89BF-EE8176260635%7D&amp;RenderingIdentifier"
-              s:ph="/main/sxa-content-container/container-1/container-4" />
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D%7C%7B51B4484B-CF7C-4AA2-B820-9FEBBA97F99F%7D&amp;Styles=%7BAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7D%7C%7BC5559A5F-CD20-4D3F-80A5-B6DEBE787ED0%7D%7C%7B4CE0B894-48F7-458F-A10D-907957171BD7%7D%7C%7B25CDBEA1-53EE-4470-89BF-EE8176260635%7D&amp;RenderingIdentifier"
+              s:ph="/main/sxa-full-article-details/container-5/container-4" />
             <r
-              uid="{B9553A00-5D26-476A-8086-30BCA46F951E}"
+              uid="{DB4F2364-79D5-4CC4-BF09-A19F17754BA9}"
               p:after="*[1=2]"
-              s:ds="local:/Data/Text 3"
-              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D%7C%7BC8CECAE8-533A-4527-99C3-B646B9125CB4%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B2EF06FFF-9C1A-4B4F-88AF-612CCFEF3714%7D%7C%7BE84C789F-DA32-4916-9E61-DEDD29F61394%7D%7C%7BEF36F3FD-2670-4309-A94D-8FA3E3CF08D7%7D%7C%7B839B45AF-FB7D-4385-B1CA-10A535ADF410%7D%7C%7BAA2E2FCC-2252-4BEA-A63B-CFA9C45E4D98%7D%7C%7B8554812D-E245-4DA1-A034-0997BCF4DE1A%7D%7C%7BAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
-              s:ph="/main/sxa-content-container/container-1/container-4" />
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="/main/sxa-full-article-details/container-5" />
           </d>
         </r>
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
@@ -70,6 +69,14 @@ Languages:
       Hint: Image
       Value: |
         <image mediaid="{8EFC9095-011D-4898-8477-5055DB31F01E}" ></image>
+    - ID: "d5664c58-950f-468d-9752-6e5558c5bc1f"
+      Hint: Component Features
+      Value: |
+        <ul>
+            <li>Integrates with Sitecore Experience Accelerator's multi-site support.</li>
+            <li>Users can easily navigate between sites within a tenant.</li>
+            <li>No configuration needed - component automatically includes all active sites within a tenant.</li>
+        </ul>
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: <p>Once your business has gone international, you will want to consider adding separate sites for each region in which your company is present.</p>

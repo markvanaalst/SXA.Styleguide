@@ -13,6 +13,56 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AB081084-0289-4944-BED9-E2EFB9669899}"
+              p:before="*"
+              s:ds="{8AD26FB8-D703-4D80-8AB5-58F4A3E6A251}"
+              s:id="{3C84ED23-7591-45E0-8850-1AE96D1342B1}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B7E888797-CB93-414E-8776-1ABA8C5C4A62%7D%7C%7B51B4484B-CF7C-4AA2-B820-9FEBBA97F99F%7D&amp;Styles&amp;RenderingIdentifier"
+              s:ph="/main/sxa-full-article-details/container-5/container-3" />
+            <r
+              uid="{2278A161-D972-4466-9429-2C6C8116206E}"
+              p:after="r[@uid='{AB081084-0289-4944-BED9-E2EFB9669899}']"
+              s:ds="{EDD70C90-7F76-4AD0-9833-FA6A6C539764}"
+              s:id="{F16CE601-EECF-4DFC-B278-DE5F9562551B}"
+              s:par="Autoplay&amp;AutoplaySelected&amp;PlayNext&amp;RepeatAfterAll&amp;ShowPrevNext=1&amp;Player&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D%7C%7BC8CECAE8-533A-4527-99C3-B646B9125CB4%7D&amp;FieldNames=%7B93791028-13F8-48B6-8F70-FF50BB88EFDA%7D&amp;Styles=%7B25CDBEA1-53EE-4470-89BF-EE8176260635%7D%7C%7BF940857D-8CFC-44E9-842C-E6FB1DF6B6AF%7D&amp;TitleHeadingLevel&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="/main/sxa-full-article-details/container-5/container-3" />
+            <r
+              uid="{DAE42F02-3B05-4730-80E3-D20382CD71EE}"
+              p:after="r[@uid='{2278A161-D972-4466-9429-2C6C8116206E}']"
+              s:ds="{8AD26FB8-D703-4D80-8AB5-58F4A3E6A251}"
+              s:id="{3C84ED23-7591-45E0-8850-1AE96D1342B1}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;Styles&amp;RenderingIdentifier"
+              s:ph="/main/sxa-full-article-details/container-5/container-1" />
+            <r
+              uid="{38E26697-71E4-4F51-ACB2-687FF864A9B6}"
+              p:after="r[@uid='{DAE42F02-3B05-4730-80E3-D20382CD71EE}']"
+              s:ds="{EDD70C90-7F76-4AD0-9833-FA6A6C539764}"
+              s:id="{F16CE601-EECF-4DFC-B278-DE5F9562551B}"
+              s:par="Autoplay&amp;AutoplaySelected=1&amp;PlayNext&amp;RepeatAfterAll&amp;ShowPrevNext&amp;Player=%7BE67C087A-3806-4235-960C-DFB68FEA8CEC%7D&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;FieldNames=%7B2D78E0F4-BEF4-49CA-8CD1-D09439373B3B%7D&amp;Styles&amp;TitleHeadingLevel=Heading%203&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-full-article-details/container-5/container-1" />
+            <r
+              uid="{B1DB43A2-9D92-49D6-9F91-88C7A0147A3D}"
+              p:after="r[@uid='{38E26697-71E4-4F51-ACB2-687FF864A9B6}']"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-full-article-details/container-5" />
+            <r
+              uid="{D8DFA67A-30EF-4503-B7ED-730D1C5E9FB8}"
+              p:after="*[1=2]"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B2EF06FFF-9C1A-4B4F-88AF-612CCFEF3714%7D%7C%7BE84C789F-DA32-4916-9E61-DEDD29F61394%7D%7C%7B839B45AF-FB7D-4385-B1CA-10A535ADF410%7D%7C%7B8554812D-E245-4DA1-A034-0997BCF4DE1A%7D%7C%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D%7C%7BC5559A5F-CD20-4D3F-80A5-B6DEBE787ED0%7D%7C%7B4CE0B894-48F7-458F-A10D-907957171BD7%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="/main/sxa-full-article-details/container-5" />
+          </d>
+        </r>
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
       Hint: Title
       Value: Playlist
@@ -26,6 +76,16 @@ Languages:
       Hint: Image
       Value: |
         <image mediaid="{3F3A905E-BABA-4F4E-B265-7886C4701E38}" ></image>
+    - ID: "d5664c58-950f-468d-9752-6e5558c5bc1f"
+      Hint: Component Features
+      Value: |
+        <ul>
+            <li>Multiple playlists on the same page - select the target video</li>
+            <li>Automatically play from the beginning or from selected video</li>
+            <li>Show 'Previous' and 'Next' buttons</li>
+            <li>Automatically repeat the playlist</li>
+            <li>Supports variants</li>
+        </ul>
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: The playlist component is an addition to the video component as it allows you to create a list of movies which will be played in a single player with switching options.&nbsp;

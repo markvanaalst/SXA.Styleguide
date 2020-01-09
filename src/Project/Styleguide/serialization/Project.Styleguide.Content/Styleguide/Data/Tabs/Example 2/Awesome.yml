@@ -8,38 +8,6 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 200
-- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
-  Hint: __Renderings
-  Type: layout
-  Value: |
-    <r xmlns:p="p" xmlns:s="s"
-      p:p="1">
-      <d
-        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-        <r
-          uid="{1292FC57-9F1D-48E4-943B-8B4A6EA865A1}">
-          <p:d />
-        </r>
-        <r
-          uid="{8D78A6A9-1A4A-438F-9951-03896182E1D1}">
-          <p:d />
-        </r>
-        <r
-          uid="{0D0766C3-29C2-4DA5-90DE-15FA784B5103}"
-          p:before="*"
-          s:ds=""
-          s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-          s:par="FieldNames=%7B5423143A-760D-4F0E-BA4D-0B02E649A778%7D&amp;Styles&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
-          s:ph="section-title" />
-        <r
-          uid="{9A44E23A-02DF-4E48-8B6C-C0516C319BCD}"
-          p:after="*[1=2]"
-          s:ds=""
-          s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-          s:par="FieldNames=%7B2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74%7D&amp;Styles&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
-          s:ph="section-content" />
-      </d>
-    </r>
 Languages:
 - Language: en
   Versions:

@@ -106,7 +106,7 @@ Languages:
               p:after="r[@uid='{59966542-494F-4E75-B94B-3C872FECF305}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7B79264089-5C78-4298-BFF9-ABE2D2B8168C%7D%22%20%2F%3E&amp;Styles=%7BAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7D%7C%7B51CB73D1-7A26-488F-97D6-A3111F812E60%7D%7C%7B702ED808-6F80-4442-AC2B-8A5796CE5461%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7B57C98660-FA90-476C-85B4-90B0537D330E%7D%22%20%2F%3E&amp;Styles=%7B51CB73D1-7A26-488F-97D6-A3111F812E60%7D%7C%7B702ED808-6F80-4442-AC2B-8A5796CE5461%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
               s:ph="main" />
             <r
               uid="{2A1E4C46-7AEF-4DBC-9656-1107B7907918}"
@@ -168,6 +168,10 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Styleguide
+    - ID: "4e612443-b8d3-4491-8ca2-0504392d7fea"
+      Hint: NavigationIcon
+      Value: |
+        <image mediaid="{801A6743-DA15-48A0-B2E3-F3573E308964}" alt="" height="24" width="24" hspace="" vspace=""></image>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

@@ -74,7 +74,7 @@ Languages:
               p:after="*[1=2]"
               s:ds="{8C853699-9B97-4F41-BD97-67E2F4667E46}"
               s:id="{EECE4E4B-4E5F-42FD-A934-7AFD048AFD03}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7BAE2CCEA5-0C87-4F48-A895-95B6090C8E59%7D&amp;SearchSignature&amp;FieldNames=%7BC8FCDC15-232A-4243-B8A6-7F3CE04928BF%7D&amp;Styles=%7BEF3989A2-84B6-4FDB-911B-30983AA65590%7D%7C%7BC4B5E438-CEE8-4785-B3AC-1EB9E1CCD0A2%7D&amp;Reset Caching Options&amp;TargetSignature&amp;Scope&amp;MaxPredictiveResultsCount=5&amp;DefaultLanguageFilter=%7B7AF59736-D91C-4AA1-8610-1202FDD31D68%7D&amp;SearchResultPage&amp;SearchTextBoxVisible=1&amp;SuggestionsMode=ShowSearchResults&amp;RenderingIdentifier&amp;DynamicPlaceholderId=10"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7BAE2CCEA5-0C87-4F48-A895-95B6090C8E59%7D&amp;SearchSignature&amp;FieldNames=%7BC8FCDC15-232A-4243-B8A6-7F3CE04928BF%7D&amp;Styles=%7BC634E08B-1779-4E01-B7C2-C8FE74196389%7D%7C%7BEF3989A2-84B6-4FDB-911B-30983AA65590%7D%7C%7BC4B5E438-CEE8-4785-B3AC-1EB9E1CCD0A2%7D&amp;Reset Caching Options&amp;TargetSignature&amp;Scope&amp;MaxPredictiveResultsCount=5&amp;DefaultLanguageFilter=%7B7AF59736-D91C-4AA1-8610-1202FDD31D68%7D&amp;SearchResultPage&amp;SearchTextBoxVisible=1&amp;SuggestionsMode=ShowSearchResults&amp;RenderingIdentifier&amp;DynamicPlaceholderId=10&amp;MinSuggestionsTriggerCharacterCount=2"
               s:ph="/header/container-4" />
           </d>
         </r>

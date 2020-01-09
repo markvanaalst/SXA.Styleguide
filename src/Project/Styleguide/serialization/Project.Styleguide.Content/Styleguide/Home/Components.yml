@@ -44,9 +44,16 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Components
+    - ID: "4e612443-b8d3-4491-8ca2-0504392d7fea"
+      Hint: NavigationIcon
+      Value: |
+        <image mediaid="{48E3E964-327A-496A-9677-9BB1AA3A5745}" alt="" height="24" width="24" hspace="" vspace="" />
     - ID: "53068854-cf44-4cf4-8e4d-c3e54ac90f56"
       Hint: HeroSubtitle
       Value: Learn how to use all the default SXA components
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: 
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: |

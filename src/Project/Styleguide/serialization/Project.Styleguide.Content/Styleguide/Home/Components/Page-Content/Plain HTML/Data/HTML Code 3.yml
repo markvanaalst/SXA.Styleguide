@@ -1,0 +1,22 @@
+﻿---
+ID: "4768a1df-0f00-4276-9295-9da5b089d48a"
+Parent: "69a81385-329f-406c-bde7-6bdfcc07dc8d"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/Sitecore/Styleguide/Home/Components/Page-Content/Plain HTML/Data/HTML Code 3"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <p data-notist="markvanaalst/vFRaTX">View <a href="https://noti.st/markvanaalst/vFRaTX">Three key improvements we made in SXA</a> on Notist.</p><script async src="https://on.notist.cloud/embed/002.js"></script>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T144036Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

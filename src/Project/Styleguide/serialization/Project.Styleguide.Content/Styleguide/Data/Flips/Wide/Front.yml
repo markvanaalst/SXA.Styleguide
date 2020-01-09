@@ -1,9 +1,13 @@
 ﻿---
-ID: "9137998a-ce41-4425-a601-51f3675d9a52"
+ID: "a5546026-3148-40f4-84d1-ef0149c717d0"
 Parent: "00901547-900d-4b19-b3b4-5889293a6c2e"
 Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
 Path: /sitecore/content/Sitecore/Styleguide/Data/Flips/Wide/Front
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
 Languages:
 - Language: en
   Versions:
@@ -11,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20161004T105934Z
+      Value: 20161004T105937Z
     - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
       Hint: Content
       Value: |

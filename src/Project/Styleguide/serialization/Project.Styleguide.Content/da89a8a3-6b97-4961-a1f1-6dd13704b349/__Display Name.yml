@@ -14,6 +14,10 @@ SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{AE9E81D3-7455-4D7D-96AF-EF9B7D638946}"
+- ID: "fe56eae5-d6a1-4703-92f7-4862da6deac8"
+  Hint: RenderIfEmpty
+  Type: Checkbox
+  Value: 0
 Languages:
 - Language: en
   Versions:

@@ -74,6 +74,39 @@
   border-bottom: 0px;
 }
 
+.page-list.page-list-scroller {
+  overflow: auto;
+  padding-top: 15px;
+}
+
+.page-list.page-list-scroller .items {
+  width: auto;
+  height: auto;
+  overflow: hidden;
+  list-style-type: none;
+  white-space: nowrap;
+  -webkit-transition: 2s;
+  transition: 2s;
+}
+
+.page-list.page-list-scroller .items .item {
+  display: inline-block;
+  vertical-align: middle;
+  box-sizing: border-box;
+  width: 33%;
+  margin: 0;
+  border: none;
+  padding: 10px;
+  text-align: center;
+  background: transparent;
+  overflow: hidden;
+}
+
+.page-list.page-list-scroller .items .item img {
+  max-width: 100%;
+  height: auto;
+}
+
 .page-list.page-list-thumbs-small .item {
   display: inline-block;
   vertical-align: middle;

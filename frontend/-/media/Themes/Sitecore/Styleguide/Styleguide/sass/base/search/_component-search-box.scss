@@ -15,6 +15,9 @@
             display: none;
         }
     }
+    &.hide-label .component-content > label {
+        display: none;
+    }
     .component-content {
         display: flex;
         >label, >input, >button {

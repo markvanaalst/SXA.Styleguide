@@ -1,0 +1,29 @@
+&.page-list-scroller {
+    overflow: auto;
+    padding-top: 15px;
+    .items {
+        width: auto;
+        height: auto;
+        overflow: hidden;
+        list-style-type: none;
+        white-space: nowrap;
+        -webkit-transition: 2s;
+        transition: 2s;
+        .item {
+            display: inline-block;
+            vertical-align: middle;
+            box-sizing: border-box;
+            width: 33%;
+            margin: 0;
+            border: none;
+            padding: 10px;
+            text-align: center;
+            background: transparent;
+            overflow: hidden;
+            img {
+                max-width: 100%;
+                height: auto;
+            }
+        }
+    }
+} 

@@ -83,14 +83,14 @@
 }
 
 .tag-list span.field-title.tag-links {
-  font-size: 1em;
+  font-size: 0.9em;
   display: block;
   float: left;
   border-radius: 20px;
   position: relative;
   margin-right: 5px;
   padding: 5px 5px;
-  margin-top: 5px;
+  /*margin-top: $default-padding;*/
 }
 
 .tag-list span.field-title.tag-links > a {

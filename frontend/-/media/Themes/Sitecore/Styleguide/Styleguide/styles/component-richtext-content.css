@@ -233,6 +233,10 @@
   padding-bottom: 10px;
 }
 
+.content.centered-page-intro.boxed {
+  margin-bottom: 0px;
+}
+
 .content.centered-page-intro .text-wrapper {
   width: 75%;
   margin: 0 auto;

@@ -135,3 +135,12 @@
 .container.indent-bottom {
   margin-bottom: 40px;
 }
+
+.container.disable-equalized-content > .component-content > .row {
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}

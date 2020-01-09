@@ -28,12 +28,11 @@ h1 {
   font-size: 4.5em !important;
 }
 
-h2 {
-  font-size: 3em;
-  color: #333;
-  margin-bottom: 30px;
-}
-
+/*h2  {
+    font-size: 3em;
+    color: #333;
+    margin-bottom: 30px;
+}*/
 .field-promotext2 {
   font-weight: normal;
 }
@@ -50,6 +49,10 @@ h2 {
 .navigation.navigation-main .rel-level1 > .navigation-title > a {
   font-weight: lighter;
   font-size: 20px;
+}
+
+.navigation.navigation-main .rel-level2 {
+  display: block;
 }
 
 .rich-text.col-12.large {

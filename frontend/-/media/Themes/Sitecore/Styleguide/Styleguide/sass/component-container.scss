@@ -12,4 +12,10 @@
     &.indent-bottom {
         margin-bottom: 40px;
     }
+    &.disable-equalized-content {
+        > .component-content > .row {
+            align-items: flex-start;
+            display: flex;
+        }
+    }
 }

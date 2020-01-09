@@ -1289,6 +1289,10 @@
   display: none;
 }
 
+.search-box.hide-label .component-content > label {
+  display: none;
+}
+
 .search-box .component-content {
   display: -webkit-box;
   display: -ms-flexbox;

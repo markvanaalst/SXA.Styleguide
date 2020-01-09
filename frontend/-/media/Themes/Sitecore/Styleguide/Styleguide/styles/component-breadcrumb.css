@@ -2,6 +2,7 @@
 /* breakpoints */
 .breadcrumb.component {
   background: transparent;
+  padding-top: 5px;
 }
 
 .breadcrumb.component:after {
@@ -16,7 +17,7 @@
 
 .breadcrumb.component a {
   text-decoration: none;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 400;
   color: #747474;
 }
@@ -42,6 +43,10 @@
   float: left;
 }
 
+.breadcrumb.component li.breadcrumb-item {
+  margin-left: 0;
+}
+
 .breadcrumb.component li > .navigation-title {
   display: inline-block;
   vertical-align: middle;
@@ -52,7 +57,7 @@
 }
 
 .breadcrumb.component li.last {
-  top: 8px;
+  /*top: 8px;*/
 }
 
 .breadcrumb.component li.last .separator {

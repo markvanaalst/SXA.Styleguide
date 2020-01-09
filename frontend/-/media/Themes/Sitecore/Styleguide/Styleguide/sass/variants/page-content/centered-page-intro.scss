@@ -4,7 +4,9 @@
     border-bottom: 1px solid #ebebeb;
     padding-top: 10px;
     padding-bottom: 10px;
-    
+    &.boxed {
+        margin-bottom: 0px;
+    }
     .text-wrapper {
         width: 75%;
         margin: 0 auto;

@@ -76,6 +76,11 @@ h6 {
     pointer-events: none;
 }
 
+.img-responsive img {
+    max-width: 100%;
+    height: auto;
+}
+
 //Navigation Bar fix 
 #breadcrumbMenuSubcontrol_context_menu * {
     box-sizing: initial;

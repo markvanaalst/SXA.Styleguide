@@ -5,6 +5,9 @@ Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
 Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Site Delivery Workflow
 DB: master
 SharedFields:
+- ID: "0d83e59a-c3f1-41be-81b2-762d35e0799f"
+  Hint: NavigationClass
+  Value: "{935CF54C-5D42-49FD-AF60-92679C884F44}"
 - ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
   Hint: LocalData
   Value: "{6D8ECBDB-5FC9-43D2-BD11-C143BF4AE722}"
@@ -76,6 +79,10 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Site Delivery Workflow
+    - ID: "4e612443-b8d3-4491-8ca2-0504392d7fea"
+      Hint: NavigationIcon
+      Value: |
+        <image mediaid="{2CF80B07-580B-4D21-954F-050AA7D39D00}" ></image>
     - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
       Hint: Image
       Value: |

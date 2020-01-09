@@ -16,6 +16,13 @@ Languages:
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
       Hint: Title
       Value: Resources
+    - ID: "0c944f44-73d3-4348-b3df-3cef1c4d5619"
+      Hint: HeroBackground
+      Value: |
+        <image mediaid="{8F01ADD7-4800-4D2A-839D-7EE2AA58D13B}" />
+    - ID: "21f7b0ee-bc05-4276-ac55-095f64553e07"
+      Hint: HeroTitle
+      Value: Available SXA Resources online
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191216T142557Z

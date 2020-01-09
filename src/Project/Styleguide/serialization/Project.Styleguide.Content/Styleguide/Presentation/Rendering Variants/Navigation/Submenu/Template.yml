@@ -11,11 +11,12 @@ SharedFields:
 - ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
   Hint: Template
   Value: |
-    {{ if ( i_item.Image.media_url != null ) }}
-    {{ sc_field i_item 'Image' [['h', '48'], ['w', '48'], ['data-purpose', 'Promo Icon']] }}
+    <a href="{{ i_item.url}}" class="navigation-title">
+    
+    {{ if ( i_item.NavigationIcon.media_url != null ) }}
+    {{ sc_field i_item 'Image' [['h', '48'], ['w', '48'], ['data-purpose', 'NavigationIcon']] }}
     {{ end }}
     
-    <a href="{{ i_item.url}}" class="navigation-title">
         <div class="navigation-title position-center">{{ i_item.Name }}</div>
     </a>
 Languages:

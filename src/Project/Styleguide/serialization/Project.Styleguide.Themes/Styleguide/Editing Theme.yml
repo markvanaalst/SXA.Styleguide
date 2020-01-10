@@ -5,6 +5,9 @@ Template: "78086ca4-8985-45eb-8aa7-b2948d2a0e06"
 Path: /sitecore/media library/Themes/Sitecore/Styleguide/Editing Theme
 DB: master
 SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
 - ID: "e0367cd6-e333-4625-9993-baa4f1c0c92b"
   Hint: BaseLayout
   Type: Multilist

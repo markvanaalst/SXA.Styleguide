@@ -29,3 +29,6 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Resources
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: <p>Apart from the official Sitecore documentation there are a lot of resources available for you to learn SXA. On this section we try to highlight some of the resource we think will help you learn SXA and/or improve your knowledge</p>

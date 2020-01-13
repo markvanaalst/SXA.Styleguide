@@ -1,0 +1,18 @@
+﻿---
+ID: "8c99e2ce-0798-4fd4-9c34-dec41c61650e"
+Parent: "ada94783-329a-4b3f-83c8-43be8841e253"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Navigation/Breadcrumb/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191217T120025Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

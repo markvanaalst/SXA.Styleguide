@@ -1,0 +1,31 @@
+﻿---
+ID: "4f55ab09-1ce8-424c-87ab-7dfd4e242366"
+Parent: "36b88aad-212e-4ed3-af84-b67443e7c789"
+Template: "b27059e6-1190-4273-92a0-d22af3c440b4"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Tabs/Example 2/Awesome
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191007T210750Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "70181515-2aab-4710-91f4-52a08151693e"
+      Hint: Heading
+      Value: |
+        <p><em class="fa fa-thumbs-o-up"></em> <strong>Awesome</strong></p>
+    - ID: "99f62656-1f3e-4f98-9eac-a596fb174ba0"
+      Hint: Content
+      Value: |
+        Sed tempus lorem ac enim tincidunt maximus. Mauris auctor lectus quis erat tristique tincidunt at a libero. Vivamus sit amet enim elementum, congue tellus at, hendrerit ipsum. Nam ornare porta elit vel ultrices. Donec justo magna, euismod vel felis sed, tincidunt lobortis dui. Praesent efficitur euismod nulla in scelerisque.
+        Sed ante quam, sagittis nec faucibus at, commodo nec velit. Integer vitae lorem vel mi maximus semper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis congue vel velit.

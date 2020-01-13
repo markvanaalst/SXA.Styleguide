@@ -1,0 +1,14 @@
+﻿---
+ID: "f174bd9e-9d2b-4d3d-9ec5-f2563e7c760d"
+Parent: "b488ee31-74a1-4fc5-8c35-f498a09a1a18"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Snippets/Latest updates/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190417T215716Z

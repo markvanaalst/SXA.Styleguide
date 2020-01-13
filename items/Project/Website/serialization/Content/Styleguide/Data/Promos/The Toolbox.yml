@@ -1,0 +1,28 @@
+﻿---
+ID: "c159cb3f-87bf-49bc-b711-6b9687df2097"
+Parent: "06052d30-c08c-4c58-afb4-8862af11271a"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Promos/The Toolbox
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: <p>The Toolbox</p>
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{611A0CDA-271B-4200-8B02-69E4E885E71F}" alt="" height="400" width="158" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190729T184555Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: Sitecore Experience Accelerator (SXA) introduces a set of reusable components which are presented to the author in the Experience Editor. You simply pick them up and place them on the page using the Drag &amp; Drop functionality.

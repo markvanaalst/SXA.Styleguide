@@ -1,0 +1,18 @@
+﻿---
+ID: "2f99c7df-aa75-450d-8a3a-2785621ff22a"
+Parent: "cfe0b462-9f6b-4ba3-937d-133c1695d16c"
+Template: "3d55c326-3353-48cd-bedc-e8ae0cb9ef4d"
+Path: /sitecore/content/Sitecore/Styleguide/Settings/Site Grouping/Styleguide/CORS
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B6DAB7A0-4F89-4FF1-A1F8-683C1077162A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190408T214344Z

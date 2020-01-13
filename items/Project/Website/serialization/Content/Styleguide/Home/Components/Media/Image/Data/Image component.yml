@@ -1,0 +1,18 @@
+﻿---
+ID: "7c2b3b9c-e235-44c0-b0df-ac9fbbbd1a7b"
+Parent: "7944f43f-d488-4291-9bbe-7bdb6da62ff5"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Media/Image/Data/Image component
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191216T231336Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

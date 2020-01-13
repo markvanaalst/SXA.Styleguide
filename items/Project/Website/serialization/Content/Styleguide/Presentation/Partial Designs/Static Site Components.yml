@@ -1,0 +1,14 @@
+﻿---
+ID: "4174811d-c2fe-49fb-b1a6-2823940b90e4"
+Parent: "0e4f09a8-12e8-4fe0-8239-3349531f8bd5"
+Template: "84c1de3c-e162-4e76-a355-72e7cf67d148"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Partial Designs/Static Site Components
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190412T123516Z

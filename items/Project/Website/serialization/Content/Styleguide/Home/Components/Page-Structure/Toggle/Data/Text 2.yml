@@ -1,0 +1,23 @@
+﻿---
+ID: "ae7524fd-2b6e-41e8-8386-9bd9c0b697cd"
+Parent: "2820a4c6-8e23-4d69-9d5f-480b42050072"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Sitecore/Styleguide/Home/Components/Page-Structure/Toggle/Data/Text 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191219T141621Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>SXA is a set of tools which you can use to easily create your site in Sitecore without writing any code. All you need to do, is to hire an agency to style the site for you (which you would do anyway).</p>
+        <p>In other words - SXA is super-cool site builder for Sitecore.</p>

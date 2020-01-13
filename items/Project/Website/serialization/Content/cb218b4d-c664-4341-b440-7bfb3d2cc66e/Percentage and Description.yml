@@ -1,0 +1,28 @@
+﻿---
+ID: "88b8eec1-6137-4d58-8a16-c103f3864c47"
+Parent: "cb218b4d-c664-4341-b440-7bfb3d2cc66e"
+Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Promo/List promo/Row/ChildItems/Percentage and Description
+DB: master
+SharedFields:
+- ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"
+  Hint: RenderingItem
+  Value: "{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+- ID: "af48c671-dd3e-41ed-95b3-534560bef882"
+  Hint: RenderingParameters
+  Value: "GridParameters=%7b55FE3688-E76D-4B6B-8648-E1B802B9BDD7%7d%7c%7b5D74AF38-1A37-491A-A4BB-A9E251D862F3%7d&FieldNames=%7b65D67B12-DDF0-488C-9682-9DD1E79A2D5A%7d&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190424T103207Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

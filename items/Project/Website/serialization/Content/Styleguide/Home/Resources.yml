@@ -1,0 +1,34 @@
+﻿---
+ID: "826e1400-c728-4184-80f3-4dd46a57e547"
+Parent: "2497d56c-9047-432c-9887-c6e80f7d956f"
+Template: "81ccd286-99e8-494f-918b-b04006680aa9"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Resources
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 225
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Resources
+    - ID: "0c944f44-73d3-4348-b3df-3cef1c4d5619"
+      Hint: HeroBackground
+      Value: |
+        <image mediaid="{8F01ADD7-4800-4D2A-839D-7EE2AA58D13B}" />
+    - ID: "21f7b0ee-bc05-4276-ac55-095f64553e07"
+      Hint: HeroTitle
+      Value: Available SXA Resources online
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191216T142557Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Resources
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: <p>Apart from the official Sitecore documentation there are a lot of resources available for you to learn SXA. On this section we try to highlight some of the resource we think will help you learn SXA and/or improve your knowledge</p>

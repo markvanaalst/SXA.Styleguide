@@ -1,0 +1,21 @@
+﻿---
+ID: "09e7945e-3098-41c3-9e17-40e2103ff494"
+Parent: "23655bec-712b-4f56-b5bf-af95f9180b2b"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Navigation/Link/Data/Text 10
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191217T140409Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "Looking for more? Here you are: anchors to other sections of your page, mailto links that open the local e-mail client and even links that run JavaScript code once they are clicked."

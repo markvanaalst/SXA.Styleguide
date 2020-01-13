@@ -1,0 +1,14 @@
+﻿---
+ID: "033dab9e-1a2f-45e4-b670-b3816e9c8a15"
+Parent: "037e5116-53d2-414c-b428-f65af474387c"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Files
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191216T234223Z

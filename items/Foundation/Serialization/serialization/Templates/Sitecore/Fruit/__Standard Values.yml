@@ -1,0 +1,14 @@
+﻿---
+ID: "f003998f-2401-4576-951a-f8d3314b3893"
+Parent: "59563823-269c-4bd0-9080-b7430b59dd29"
+Template: "59563823-269c-4bd0-9080-b7430b59dd29"
+Path: /sitecore/templates/Project/Sitecore/Fruit/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191213T143310Z

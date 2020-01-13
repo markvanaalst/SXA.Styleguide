@@ -146,6 +146,29 @@
   border-bottom-width: 0;
 }
 
+.breadcrumb.component.hero-navigation-title li {
+  float: left;
+  font-size: 14px;
+}
+
+.breadcrumb.component.hero-navigation-title li .hero-navigation-title {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.breadcrumb.component.hero-navigation-title li .hero-navigation-title a {
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.breadcrumb.component.hero-navigation-title li .hero-navigation-title > a:hover {
+  color: #15909c;
+}
+
+.breadcrumb.component.hero-navigation-title li span.separator {
+  font-size: 16px;
+}
+
 /* breakpoints */
 .breadcrumb.breadcrumb-hide li {
   white-space: nowrap;

@@ -1,0 +1,14 @@
+﻿---
+ID: "73127f18-ad2d-473b-8172-eb9694f84cf4"
+Parent: "3d066b08-9616-4708-8e0c-2b24003d605c"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Media/Gallery/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T130528Z

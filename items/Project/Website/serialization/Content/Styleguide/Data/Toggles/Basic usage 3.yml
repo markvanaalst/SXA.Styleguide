@@ -1,0 +1,21 @@
+﻿---
+ID: "4f0cc480-8e18-422c-99c7-d378c9199ce5"
+Parent: "18ef6a4c-54a7-4111-8c2a-a7eac2d50e0f"
+Template: "a2cb73c7-0054-4461-aab8-0969fdd2e094"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Toggles/Basic usage 3
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191219T141808Z
+    - ID: "2d36cf85-84be-42d2-b710-8d13b8844cdd"
+      Hint: Text
+      Value: "Wow, it must be hard to install and configure all this?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

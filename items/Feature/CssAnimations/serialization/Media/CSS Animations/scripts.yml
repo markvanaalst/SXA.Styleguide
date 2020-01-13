@@ -1,0 +1,19 @@
+﻿---
+ID: "cc302bc1-9af2-40cf-9c61-9000a8d53a11"
+Parent: "878f4b35-f39f-4ea9-94e8-24579b588117"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Extension Themes/CSS Animations/scripts
+DB: master
+BranchID: "ffd203c6-cb3e-4a27-9c05-4a9aeb121810"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A0E5B7EA-9665-4F17-A867-2B535728EBF7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200110T094832Z

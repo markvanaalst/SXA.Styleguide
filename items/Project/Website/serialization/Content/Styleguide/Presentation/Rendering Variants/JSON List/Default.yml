@@ -1,0 +1,18 @@
+﻿---
+ID: "9de0d1ae-79f8-4f56-97ea-aeef2248fb21"
+Parent: "20882886-08e7-408c-8243-c5804e3d148d"
+Template: "2e1d7985-0bf1-469b-a00b-4f2ac443940c"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/JSON List/Default
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{6E634FCA-8F4D-43E1-ADDD-5A26706605DF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190408T214345Z

@@ -1,0 +1,21 @@
+﻿---
+ID: "46db4986-e153-4706-a12a-c6e1592ec799"
+Parent: "0d4e09dd-73c9-4ce9-80e2-e2506e1f9da3"
+Template: "a6ddac75-7d24-4bdb-b3f6-5f47fbb21379"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Composites/Accordion/Data/Components/Accordion Item 3
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T143820Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
+      Hint: Heading
+      Value: YouTube video

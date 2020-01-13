@@ -48,6 +48,24 @@
   padding-left: 10px;
 }
 
+.navigation .image-nav-item ul {
+  width: 400px;
+}
+
+.navigation .image-nav-item ul li {
+  width: 33%;
+  float: left;
+  text-align: center;
+}
+
+.navigation .image-nav-item ul li a {
+  display: block;
+}
+
+.navigation .image-nav-item ul li a:link {
+  text-decoration: none;
+}
+
 /* breakpoints */
 .navigation.navigation-fat {
   background: #FFFFFF;

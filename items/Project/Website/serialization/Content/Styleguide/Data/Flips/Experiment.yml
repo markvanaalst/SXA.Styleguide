@@ -1,0 +1,14 @@
+﻿---
+ID: "8b910994-e4ab-40dd-ba84-fb8e9e4187de"
+Parent: "e555fb96-0363-4b14-98f3-f71905c061b9"
+Template: "5ef07850-4c04-4b83-9daf-efd752cfaba8"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Flips/Experiment
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T102746Z

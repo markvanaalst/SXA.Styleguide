@@ -1,0 +1,22 @@
+﻿---
+ID: "9e35fc18-e2fb-4fb2-beb4-12eb2aff1a71"
+Parent: "c9ddf99f-c1fa-4788-837a-ed6b68139e60"
+Template: "142e5fc1-ec62-4540-bad9-cd88f337cd2e"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Composites/Carousel/Data/Hero/City
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T124300Z
+    - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{976B0B62-3DDF-4B5A-A2DF-118B883841F1}" />

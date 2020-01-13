@@ -1,0 +1,18 @@
+﻿---
+ID: "4b263e3b-cfc0-4ee9-9c14-76b286717332"
+Parent: "f72a5ee9-2966-4aa0-98e9-25fd38443474"
+Template: "142e5fc1-ec62-4540-bad9-cd88f337cd2e"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Composites/Carousel/Data/Mixed/Image
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T130356Z
+    - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{62699D6B-8153-4401-8F09-781404DCF96C}" />

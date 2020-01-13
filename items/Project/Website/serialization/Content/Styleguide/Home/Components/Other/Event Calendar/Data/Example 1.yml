@@ -1,0 +1,21 @@
+﻿---
+ID: "132a0fc6-7e59-47f1-8dff-4f9c326eaf64"
+Parent: "47acd5b9-75ae-467d-9d8d-132e991ebb09"
+Template: "311e5f53-cf27-4a85-b887-b84bee5d3ba3"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Other/Event Calendar/Data/Example 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T130735Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c08b42e9-c147-47d1-b50c-6274eb3a8baa"
+      Hint: Title
+      Value: Example Calendar

@@ -20,11 +20,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build Tools", "Build Tools"
 		build-tools\publishsettings.targets = build-tools\publishsettings.targets
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.XA.Styleguide.Serialization", "src\Foundation\Serialization\code\Sitecore.XA.Styleguide.Serialization\Sitecore.XA.Styleguide.Serialization.csproj", "{1C0F6A76-E61A-4805-A493-A684B08458C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Styleguide.Foundation.Serialization", "src\Foundation\Serialization\code\Sitecore.XA.Styleguide.Serialization\Styleguide.Foundation.Serialization.csproj", "{1C0F6A76-E61A-4805-A493-A684B08458C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.XA.Styleguide.Project.Website", "src\Project\Styleguide\code\Sitecore.XA.Styleguide.Project.Website\Sitecore.XA.Styleguide.Project.Website.csproj", "{7FD8AF5E-B636-436A-9E57-B677A351CECB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Styleguide.Project.Website", "src\Project\Styleguide\code\Sitecore.XA.Styleguide.Project.Website\Styleguide.Project.Website.csproj", "{7FD8AF5E-B636-436A-9E57-B677A351CECB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{85B1499A-143A-4668-82E1-0EE87BEF74CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CssAnimations", "CssAnimations", "{AE59C11D-648A-4D01-975B-1FF3FD095C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Styleguide.Feature.CssAnimations", "src\Feature\CssAnimations\code\Styleguide.Feature.CssAnimations\Styleguide.Feature.CssAnimations.csproj", "{61B1AE42-826E-4D66-A899-3F85EC4344D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,6 +44,10 @@ Global
 		{7FD8AF5E-B636-436A-9E57-B677A351CECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FD8AF5E-B636-436A-9E57-B677A351CECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FD8AF5E-B636-436A-9E57-B677A351CECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B1AE42-826E-4D66-A899-3F85EC4344D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B1AE42-826E-4D66-A899-3F85EC4344D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B1AE42-826E-4D66-A899-3F85EC4344D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B1AE42-826E-4D66-A899-3F85EC4344D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +60,8 @@ Global
 		{0E31368A-8483-4BA6-9B77-A83BE3766D19} = {DA617726-83CA-4025-BEF9-17653E0F4F54}
 		{1C0F6A76-E61A-4805-A493-A684B08458C8} = {90B4DFAB-3ACB-43EA-A5DB-FB7502382FFC}
 		{7FD8AF5E-B636-436A-9E57-B677A351CECB} = {0E31368A-8483-4BA6-9B77-A83BE3766D19}
+		{AE59C11D-648A-4D01-975B-1FF3FD095C78} = {4126CF27-F773-4C45-AD9B-6DFE386F9471}
+		{61B1AE42-826E-4D66-A899-3F85EC4344D8} = {AE59C11D-648A-4D01-975B-1FF3FD095C78}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B9F2643B-1A92-450B-A533-15250AE8D3D3}

@@ -340,3 +340,4 @@ ASALocalRun/
 healthchecksdb
 /frontend/client/Applications/HorizonCanvas
 /Docker
+/theme/-/media/*.ashx

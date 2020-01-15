@@ -3233,3 +3233,31 @@ article.field-full-article {
   margin-top: 50px;
   margin-bottom: 50px;
 }
+
+/* Page Status */
+#header .component.content {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#page-status {
+  padding-left: 0px !important;
+}
+
+#page-status.warning {
+  background: #fad76d;
+  color: #000;
+}
+
+#page-status.review {
+  background: #7acdda;
+  color: #000;
+}
+
+#page-status #message {
+  max-width: 1170px;
+  margin: 0 auto !important;
+  text-align: center;
+  font-size: 0.8em;
+  padding: 2px 0px;
+}

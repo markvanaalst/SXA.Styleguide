@@ -131,6 +131,9 @@ Languages:
       Hint: Image
       Value: |
         <image mediaid="{B0E63D3D-6715-45D9-8002-DBE67D2BFE00}" ></image>
+    - ID: "9aff080b-19ea-4519-91e2-97f5940279de"
+      Hint: Page Status
+      Value: Finished
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: "Functionality built once: skinnable, configurable, and reusable"

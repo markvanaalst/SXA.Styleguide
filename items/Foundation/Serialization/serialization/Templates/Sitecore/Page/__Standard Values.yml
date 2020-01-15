@@ -38,3 +38,6 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
+    - ID: "9aff080b-19ea-4519-91e2-97f5940279de"
+      Hint: Page Status
+      Value: Under Construction

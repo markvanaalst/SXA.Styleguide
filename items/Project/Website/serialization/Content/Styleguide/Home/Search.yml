@@ -16,9 +16,24 @@ Languages:
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
       Hint: Title
       Value: Search
+    - ID: "0c944f44-73d3-4348-b3df-3cef1c4d5619"
+      Hint: HeroBackground
+      Value: |
+        <image mediaid="{8F01ADD7-4800-4D2A-839D-7EE2AA58D13B}" />
+    - ID: "21f7b0ee-bc05-4276-ac55-095f64553e07"
+      Hint: HeroTitle
+      Value: Search
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190409T215644Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Search
+    - ID: "53068854-cf44-4cf4-8e4d-c3e54ac90f56"
+      Hint: HeroSubtitle
+      Value: "<p>Find what you are looking for!</p>"
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: |
+        <p>Search features can be found on nearly all sites, enabling visitors to quickly get to the content they seek. It is not only important to bring up results matching the search query the user has entered. On websites loaded with a large number of content items (like articles, or products), you should enable the visitor to easily navigate through the search results, filter and apply ordering so they can find exactly what they need with minimum effort.</p>
+        <p>With SXA, you get flexible and powerful search functionality out-of-the-box. Any piece of your content can be included in or excluded from search results. You can define search scopes dedicated to particular areas or aspects of your content. For example, you can define one search page for general content, another one dedicated to product database and perhaps a separate one for news archive.</p>

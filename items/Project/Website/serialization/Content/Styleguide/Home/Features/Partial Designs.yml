@@ -121,6 +121,9 @@ Languages:
       Hint: Image
       Value: |
         <image mediaid="{1CF830C2-8F05-4506-9E6E-1AF7ED9C5E76}" ></image>
+    - ID: "9aff080b-19ea-4519-91e2-97f5940279de"
+      Hint: Page Status
+      Value: Finished
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: <p>Manage and reuse your design elements on platform</p><p />

@@ -54,6 +54,9 @@ Languages:
     - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
       Hint: Image
       Value: 
+    - ID: "9aff080b-19ea-4519-91e2-97f5940279de"
+      Hint: Page Status
+      Value: Pending Review
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: |

@@ -17,7 +17,7 @@ SharedFields:
 - ID: "5f32188e-d73c-47b8-97d4-7097070d8f46"
   Hint: Destination Path
   Value: |
-    $(projectFolder)\frontend
+    $(projectFolder)\theme
 - ID: "e648b9bd-e1a8-4786-95c4-829f722ddcd3"
   Hint: Remove Directory
   Type: Checkbox

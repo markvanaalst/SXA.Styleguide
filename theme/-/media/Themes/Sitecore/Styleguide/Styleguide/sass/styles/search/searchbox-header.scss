@@ -1,0 +1,41 @@
+@import "../../abstracts/vars";
+@import "../../abstracts/mixins";
+
+.searchbox-header {
+    padding-top: 7px;
+    margin-top: 7px;
+    .component-content > .twitter-typeahead {
+        margin: 0;
+    }
+    input[type="text"], 
+    input[type="email"], 
+    input[type="password"],
+    textarea,
+    select {
+        box-shadow: none;
+        padding-right: 30px;
+    }
+    .search-box-button {
+        background: $red !important;
+        color: #fff;
+        border: 0;
+        cursor: pointer;
+        &:hover {
+            color: $red;
+            border: 1px solid $red;
+        }
+        
+    }
+    &:after {
+        @include fa-icon();
+        transform: translate(-50%, -50%);
+        position: absolute;
+        content: $fa-var-search;
+        top: 45%;
+        right: 10px;
+        font-size: 16px;
+        text-indent: 0;
+        font-size: 18px;
+        color: #000;
+    }
+}

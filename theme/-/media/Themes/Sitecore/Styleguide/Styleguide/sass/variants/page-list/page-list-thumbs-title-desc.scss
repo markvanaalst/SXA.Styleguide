@@ -1,0 +1,15 @@
+&.page-list-thumbs-title-desc {
+    .field-image {
+        width: 40%;
+        float: left;
+        margin-right: 15px;
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+    .title-desc {
+        width: 50%;
+        float: left;
+    }
+}

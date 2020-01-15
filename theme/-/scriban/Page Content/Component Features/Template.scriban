@@ -1,0 +1,3 @@
+<h3>Features and Options</h2>
+
+{{ sc_field i_item 'Component Features' }}

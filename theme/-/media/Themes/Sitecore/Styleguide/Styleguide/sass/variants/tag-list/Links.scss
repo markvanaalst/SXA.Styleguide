@@ -1,0 +1,30 @@
+span.field-title {
+    &.tag-links {
+        font-size: 0.9em;
+        display: block;
+        float: left;
+        border-radius: 20px;
+        position: relative;
+        margin-right: $default-padding;
+        padding: 5px $default-padding;
+        /*margin-top: $default-padding;*/
+        >a {
+            text-decoration: none;
+            padding-left: 20px;
+            position: relative;
+            font-size: 0.8em;
+            &:before {
+                @include fa-icon();
+                content: $fa-var-circle;
+                display: block;
+                font-size: 8px;
+                text-align: center;
+                color: #fff;
+                position: absolute;
+                top: 48%;
+                left: 5px;
+                transform: translateY(-50%);
+            }
+        }
+    }
+}

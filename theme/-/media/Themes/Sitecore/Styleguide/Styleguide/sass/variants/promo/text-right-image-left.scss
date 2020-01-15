@@ -1,0 +1,21 @@
+&.text-right-image-left {
+    background: transparent !important;
+    
+    > .component-content {
+        border: 0;
+/*
+        h1 {
+            font-size: 4em;
+        }
+        .field-promoicon img {
+            height: auto;
+            width: auto;
+        }
+
+        div.text {
+            width: 45%;
+            margin-right: 15px;
+        }
+        */
+    }
+} 

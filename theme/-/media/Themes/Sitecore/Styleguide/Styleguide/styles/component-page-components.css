@@ -1,0 +1,12 @@
+.component.content.page-hero .page-hero-text-container {
+  top: -200px;
+  padding: 20px 0px;
+}
+
+.component.content.page-hero .page-hero-text-container h1 {
+  font-size: 48px;
+}
+
+.component.content.page-hero .page-hero-text-container span {
+  font-size: 24px;
+}

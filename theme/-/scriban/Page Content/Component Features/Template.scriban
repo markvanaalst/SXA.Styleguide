@@ -1,3 +1,7 @@
-<h3>Features and Options</h2>
+{{ if i_item["Component Features"].raw != '' || o_pagemode.is_experience_editor }}
+
+<h3>Features and Options</h3>
 
 {{ sc_field i_item 'Component Features' }}
+
+{{ end }}

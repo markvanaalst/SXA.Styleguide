@@ -117,16 +117,6 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Maps
-    - ID: "d5664c58-950f-468d-9752-6e5558c5bc1f"
-      Hint: Component Features
-      Value: |
-        <ul>
-            <li>Point the map to chosen coordinates and set initial zoom</li>
-            <li>Can work with search components to geo-visualize the results.</li>
-            <li>Use Google or Bing as your map provider</li>
-            <li>Switch interface options like street view mode, zoom controls, etc.</li>
-            <li>Add location markers and shapes, format their tooltips using <a href="/showcase/features/rendering-variants">rendering variants</a></li>
-        </ul>
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: Embed an interactive map using Google or Bing maps.

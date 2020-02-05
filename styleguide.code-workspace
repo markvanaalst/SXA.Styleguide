@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "theme\\-\\media\\Themes\\Sitecore\\Styleguide\\Styleguide"
+		},
+		{
+			"path": "theme\\-\\scriban"
+		}
+	],
+	"settings": {}
+}

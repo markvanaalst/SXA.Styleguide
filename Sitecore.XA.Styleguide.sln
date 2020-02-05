@@ -1,34 +1,51 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.28729.10
+VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{13042F00-5A9E-45B2-8B65-7C65BBE64D5C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{3FDE4019-7549-45E2-97C4-8D6D148FA76E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{90B4DFAB-3ACB-43EA-A5DB-FB7502382FFC}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{0CF05B0A-62EF-4332-85DF-5D7BF3DE40B2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{4126CF27-F773-4C45-AD9B-6DFE386F9471}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{E43C00A3-FA53-429E-B718-D0E3AE1646E1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{DA617726-83CA-4025-BEF9-17653E0F4F54}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{87468E3A-57D7-4E6B-BAB6-097B4CD7338B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Styleguide", "Styleguide", "{0E31368A-8483-4BA6-9B77-A83BE3766D19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Website", "src\Project\Website\website\Project.Website.csproj", "{A06B5824-54A0-42D1-8D95-07CAEAC6AD63}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build Tools", "Build Tools", "{72C6705A-5AF4-4C9B-BBA5-44447B26378D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{25A8F9CC-2A35-4E4D-929F-CF862FE468CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation.Serialization", "src\Foundation\Serialization\website\Foundation.Serialization.csproj", "{5E6B8590-3A8B-42A7-8EBD-E3133F51F7D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CssAnimation", "CssAnimation", "{6ECFBE62-6EE4-4750-9E75-F36C4776E036}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Feature.CssAnimation", "src\Feature\CssAnimation\website\Feature.CssAnimation.csproj", "{5FF37AFC-28B7-4247-B17B-EEC56FD7E27C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "props", "props", "{09AAFBEF-B279-4E8F-B3DD-0ED1FB7015E6}"
 	ProjectSection(SolutionItems) = preProject
-		build-tools\CreatePackage.ps1 = build-tools\CreatePackage.ps1
-		build-tools\Deploy.ps1 = build-tools\Deploy.ps1
-		build-tools\publishsettings.targets = build-tools\publishsettings.targets
+		build\props\Website.BuildProperties.props = build\props\Website.BuildProperties.props
+		build\props\Website.PackageReferences.props = build\props\Website.PackageReferences.props
+		build\props\Website.ProjectContent.props = build\props\Website.ProjectContent.props
+		build\props\Website.Publishing.props = build\props\Website.Publishing.props
+		build\props\Website.References.props = build\props\Website.References.props
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Styleguide.Foundation.Serialization", "src\Foundation\Serialization\code\Sitecore.XA.Styleguide.Serialization\Styleguide.Foundation.Serialization.csproj", "{1C0F6A76-E61A-4805-A493-A684B08458C8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "targets", "targets", "{6A934D87-C473-42E2-8B2E-A6D0B1631C4E}"
+	ProjectSection(SolutionItems) = preProject
+		build\targets\Website.AutoPublish.targets = build\targets\Website.AutoPublish.targets
+		build\targets\Website.DoNotPublishAssembly.props = build\targets\Website.DoNotPublishAssembly.props
+		build\targets\Website.PublishSingleItem.targets = build\targets\Website.PublishSingleItem.targets
+		build\targets\Website.RemoveDoNotPublishAssembly.targets = build\targets\Website.RemoveDoNotPublishAssembly.targets
+		build\targets\Website.TransformXml.targets = build\targets\Website.TransformXml.targets
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Styleguide.Project.Website", "src\Project\Styleguide\code\Sitecore.XA.Styleguide.Project.Website\Styleguide.Project.Website.csproj", "{7FD8AF5E-B636-436A-9E57-B677A351CECB}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{85B1499A-143A-4668-82E1-0EE87BEF74CA}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CssAnimations", "CssAnimations", "{AE59C11D-648A-4D01-975B-1FF3FD095C78}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Styleguide.Feature.CssAnimations", "src\Feature\CssAnimations\code\Styleguide.Feature.CssAnimations\Styleguide.Feature.CssAnimations.csproj", "{61B1AE42-826E-4D66-A899-3F85EC4344D8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{A8D6462C-D639-49B9-8177-4631B2DF032B}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		Directory.Build.targets = Directory.Build.targets
+		nuget.config = nuget.config
+		build\Solution.config = build\Solution.config
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,34 +53,33 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1C0F6A76-E61A-4805-A493-A684B08458C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1C0F6A76-E61A-4805-A493-A684B08458C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1C0F6A76-E61A-4805-A493-A684B08458C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1C0F6A76-E61A-4805-A493-A684B08458C8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7FD8AF5E-B636-436A-9E57-B677A351CECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7FD8AF5E-B636-436A-9E57-B677A351CECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7FD8AF5E-B636-436A-9E57-B677A351CECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7FD8AF5E-B636-436A-9E57-B677A351CECB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{61B1AE42-826E-4D66-A899-3F85EC4344D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{61B1AE42-826E-4D66-A899-3F85EC4344D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{61B1AE42-826E-4D66-A899-3F85EC4344D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{61B1AE42-826E-4D66-A899-3F85EC4344D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06B5824-54A0-42D1-8D95-07CAEAC6AD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06B5824-54A0-42D1-8D95-07CAEAC6AD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06B5824-54A0-42D1-8D95-07CAEAC6AD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06B5824-54A0-42D1-8D95-07CAEAC6AD63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6B8590-3A8B-42A7-8EBD-E3133F51F7D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6B8590-3A8B-42A7-8EBD-E3133F51F7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6B8590-3A8B-42A7-8EBD-E3133F51F7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6B8590-3A8B-42A7-8EBD-E3133F51F7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF37AFC-28B7-4247-B17B-EEC56FD7E27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF37AFC-28B7-4247-B17B-EEC56FD7E27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF37AFC-28B7-4247-B17B-EEC56FD7E27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF37AFC-28B7-4247-B17B-EEC56FD7E27C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{13042F00-5A9E-45B2-8B65-7C65BBE64D5C} = {85B1499A-143A-4668-82E1-0EE87BEF74CA}
-		{90B4DFAB-3ACB-43EA-A5DB-FB7502382FFC} = {13042F00-5A9E-45B2-8B65-7C65BBE64D5C}
-		{4126CF27-F773-4C45-AD9B-6DFE386F9471} = {85B1499A-143A-4668-82E1-0EE87BEF74CA}
-		{DA617726-83CA-4025-BEF9-17653E0F4F54} = {85B1499A-143A-4668-82E1-0EE87BEF74CA}
-		{0E31368A-8483-4BA6-9B77-A83BE3766D19} = {DA617726-83CA-4025-BEF9-17653E0F4F54}
-		{1C0F6A76-E61A-4805-A493-A684B08458C8} = {90B4DFAB-3ACB-43EA-A5DB-FB7502382FFC}
-		{7FD8AF5E-B636-436A-9E57-B677A351CECB} = {0E31368A-8483-4BA6-9B77-A83BE3766D19}
-		{AE59C11D-648A-4D01-975B-1FF3FD095C78} = {4126CF27-F773-4C45-AD9B-6DFE386F9471}
-		{61B1AE42-826E-4D66-A899-3F85EC4344D8} = {AE59C11D-648A-4D01-975B-1FF3FD095C78}
+		{87468E3A-57D7-4E6B-BAB6-097B4CD7338B} = {E43C00A3-FA53-429E-B718-D0E3AE1646E1}
+		{A06B5824-54A0-42D1-8D95-07CAEAC6AD63} = {87468E3A-57D7-4E6B-BAB6-097B4CD7338B}
+		{25A8F9CC-2A35-4E4D-929F-CF862FE468CE} = {0CF05B0A-62EF-4332-85DF-5D7BF3DE40B2}
+		{5E6B8590-3A8B-42A7-8EBD-E3133F51F7D3} = {25A8F9CC-2A35-4E4D-929F-CF862FE468CE}
+		{6ECFBE62-6EE4-4750-9E75-F36C4776E036} = {3FDE4019-7549-45E2-97C4-8D6D148FA76E}
+		{5FF37AFC-28B7-4247-B17B-EEC56FD7E27C} = {6ECFBE62-6EE4-4750-9E75-F36C4776E036}
+		{09AAFBEF-B279-4E8F-B3DD-0ED1FB7015E6} = {A8D6462C-D639-49B9-8177-4631B2DF032B}
+		{6A934D87-C473-42E2-8B2E-A6D0B1631C4E} = {A8D6462C-D639-49B9-8177-4631B2DF032B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B9F2643B-1A92-450B-A533-15250AE8D3D3}
+		SolutionGuid = {54DAD990-0C82-45DF-8FD1-535600678D97}
 	EndGlobalSection
 EndGlobal

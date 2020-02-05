@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <RootNamespace>Project.Website</RootNamespace>
+    <AssemblyName>Project.Website</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Remove="App_Config\Include\z.Feature.Overrides\z.SPE.Sync.Enabler.Gulp.config" />
+    <Content Remove="App_Data\packages\styleguide-1.0.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="App_Config\Include\Project\Styleguide.Project.Website\Styleguide.Project.Development.config" />
+  </ItemGroup>
+<!-- Uncomment as needed; f.ex. if Sitecore package references not defined on solution scope - see .\build\props\Build.PackageReferences.props
+  <ItemGroup>
+    <PackageReference Include="Sitecore.Kernel" Version="[9.3.0]">
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Sitecore.Mvc" Version="[9.3.0]">
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+-->  
+</Project>

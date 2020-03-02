@@ -3,6 +3,7 @@
 .facet-component, .facet-summary {
     box-sizing: border-box;
     background: transparent;
+    margin-bottom: 10px;
     @import "base/reset/inputs";
     @include clearfix();
     .bottom-filter-button {
@@ -18,12 +19,13 @@
             vertical-align: middle;
             color: $search-title-color;
             padding-right: 25px;
+            font-weight: bold;
         }
         .clear-filter {
-            display: inline-block;
+            display: none;
             vertical-align: middle;
-            border-radius: 15px;
-            font-size: 10px;
+            border-radius: 0px;
+            font-size: 12px;
             text-align: center !important;
             width: 15px;
             cursor: pointer;
@@ -42,6 +44,7 @@
             &.has-active-facet {
                 background: $search-btn-active-bg;
                 color: $search-filter;
+                display: block;
                 &:hover {
                     background: $search-btn-active-bg;
                     color: $search-filter;

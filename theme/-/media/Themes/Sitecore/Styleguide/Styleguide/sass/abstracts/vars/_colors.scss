@@ -19,7 +19,7 @@ $bg-black-active:#3d3d3d;
 //Text colors
 $text-white:#fff !default;
 $text-heading-color: #222 !default;
-$text-basic:#747474 !default;
+$text-basic:#232323 !default;
 $text-basic-active:#878787 !default;
 $text-blue:#89C6CC !default;
 $text-blue-active:#15909c !default;
@@ -27,11 +27,11 @@ $text-submenu-active: #222 !default;
 $text-disabled: #aaa !default;
 $text-black: #000 !default;
 $text-red:#de232f;
-//Border colors
-$border-gray: #d2d2d2 !default;
+//Border colors 
+$border-gray: #f0f0f0 !default;
 $border-white: #ffffff !default;
-$border-basic-color: #89C6CC !default;
-$border-basic-active:#15909c !default;
+$border-basic-color: #fe2911 !default;
+$border-basic-active:#cc0000 !default;
 $border-nav-submenu:#e1e1e1;
 //Styles for each component separately
 //Accordion
@@ -174,7 +174,7 @@ $menu-active-color:#176f89;
 //Navigation
 $nav-bg:transparent;
 $nav-color-root:$black;
-$nav-color-root-active:$teal;
+$nav-color-root-active:$red;
 $nav-border-root:$border-basic-color;
 $nav-border-root-active:$border-basic-color;
 $nav-color-submenu:$text-submenu-active;
@@ -250,7 +250,7 @@ $search-filter-radius-border:$border-gray;
 $search-filter-radius-bg:$border-gray;
 //
 $search-filter-slider-border-active:$border-basic-color;
-$search-filter-slider-bg-active:$bg-blue;
+$search-filter-slider-bg-active:$red;
 $search-filter-slider-btn-border:$border-gray;
 $search-filter-slider-btn-bg:$bg-light-gray;
 $search-filter-slider-btn-bg-active:$bg-light-gray-active;
@@ -262,7 +262,7 @@ $search-pagination-hover-color:$text-blue;
 $search-pagination-hover-bg:$bg-submenu-active;
 $search-pagination-hover-border:$border-basic-active;
 //Search selector
-$serach-selector-variant-color-active: $text-blue-active;
+$serach-selector-variant-color-active: $red;
 //Typehead
 $tt-color:$text-basic;
 $tt-color-active:$text-blue;

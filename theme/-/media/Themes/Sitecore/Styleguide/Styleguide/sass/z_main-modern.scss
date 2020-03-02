@@ -1,17 +1,43 @@
+@import "abstracts/vars";
+@import "abstracts/mixins";
+
 .cover-background .promo.title-subtitle {
     margin-top: 100px;
     margin-bottom: 50px;
 
     span.field-promotext2 p {
         font-size: 2em;
+        @include respond-to(mobile-large) {
+            font-size: 1em;
+        }
     }
 
-    h1 {
-        font-size: 4.5em;
+    @include respond-to(mobile-large) { 
+        margin-top: 10px;
+        margin-bottom: 5px;
+        span.field-promotext2 p { 
+            font-size: 1em;
+        }
+        h1 {
+            font-size: 1.2em;
+        }
+    }
+    @include respond-to(mobile) {
+        margin-top: 10px;
+        margin-bottom: 5px;
+        span.field-promotext2 p { 
+            font-size: 1em;
+        }
+        h1 {
+            font-size: 1.2em;
+        }
     }
 }
 .promo.col-12.title-subtitle p {
     font-size: 1.3em;
+    @include respond-to(mobile-large) { 
+        font-size: 1em;
+    }
 }
 
 h1,
@@ -24,9 +50,16 @@ h6 {
 }
 
 h1 {
-    font-size: 4.5em !important;
-    
+    font-size: 4.5em;
+    @include respond-to(mobile) {
+        font-size: 2.5em;
+    }
+    @include respond-to(mobile-large) {
+        font-size: 2.5em;
+    }
+   
 }
+
 
 /*h2  {
     font-size: 3em;
@@ -43,6 +76,12 @@ h1 {
 #header-navigation.boxed {
     margin-top: 50px;
     margin-bottom: -10px !important;
+    @include respond-to(tablet) {
+        margin-top: 0px;
+    }
+    @include respond-to(mobile) {
+        margin-top: 0px;
+    }
 }
 
 .navigation.navigation-main {

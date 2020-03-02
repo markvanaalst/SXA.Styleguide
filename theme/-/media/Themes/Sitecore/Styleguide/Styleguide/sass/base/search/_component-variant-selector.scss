@@ -16,6 +16,7 @@
     }
     .variant-option {
         @include fa-icon();
+        color: #ccc;
         &:before {
             content: $fa-var-th;
             display: block;

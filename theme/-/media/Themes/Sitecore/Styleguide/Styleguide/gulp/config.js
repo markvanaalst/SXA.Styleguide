@@ -5,7 +5,7 @@ const {configUtils} = require('@sxa/celt');
 module.exports = {
 
     // Change to TRUE if you want add source map for sass files
-    sassSourceMap: false,
+    sassSourceMap: true,
     // Please configure
     serverOptions: {
         server: 'https://sxa.sc93.local', //need to be changed
@@ -30,8 +30,8 @@ module.exports = {
     excludedPath: [
         'styles/has.css', // can be a string
         ///[\\\/][\w-]*.css$/g   //exclude all css files
-        /[\\\/]test.css$/g, //exclude test.css files
-        /[\\\/][\w-]*.css.map$/g //exclude css.map files
+        /[\\\/]test.css$/g //exclude test.css files
+        ///[\\\/][\w-]*.css.map$/g //exclude css.map files
         ///styles[\\\/][\w-]*.css$/g //exclude all css files from style folder
     ],
     //Server check all items names with this rule. It is not recommended to change
@@ -102,7 +102,7 @@ module.exports = {
         minificationPath: ['styles/*.css'],
         cssOptimiserFilePath: 'styles/',
         cssOptimiserFileName: 'pre-optimized-min.css',
-        cssSourceMap: false,
+        cssSourceMap: true,
         enableMinification: true,
         disableSourceUploading: true
     },

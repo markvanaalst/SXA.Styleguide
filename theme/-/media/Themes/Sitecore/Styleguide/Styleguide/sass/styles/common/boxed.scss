@@ -2,7 +2,7 @@
 @import "../../abstracts/mixins";
 .boxed {
     box-sizing: border-box;
-    margin: 40px 0;
+    margin: 20px 0 20px 0px;
     @include respond-to(tablet) {
         padding: 0px;
     }

@@ -90,7 +90,7 @@ $break-mobile-large: 786px;
     @else {
         border-width: $border-width;
             border-style: solid;
-            border-color: $border-color;
+            border-color: $border-color; 
     }
 }
 @mixin fixed-bg($pos, $min-height:240px) {

@@ -6,5 +6,5 @@
     {{ sc_field i_item 'Image' [['h', '48'], ['w', '48'], ['data-purpose', 'Promo Icon']] }}
     {{ end }}
 
-    <div class="navigation-title position-center">{{ i_item.Name }}</div>
+    <div class="navigation-title position-center">{{ sc_field i_item ['NavigationTitle', 'Title', 'Name'] }}</div>
 </a>

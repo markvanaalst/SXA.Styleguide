@@ -6,7 +6,9 @@
     }
     nav>ul {
         .rel-level1 {
+            margin-bottom: 10px;
             >.navigation-title {
+                
                 margin-bottom: 0;
                 >a {
                     padding: 5px 10px;
@@ -14,10 +16,13 @@
                     position: relative;
                     z-index: 1;
                     margin-right: 0;
+                    font-weight: 500;
+                    border-width: 0 0 0 5px;
+                    background: #f9f9f9;
                 }
             }
             >ul {
-                margin-left: $small-margin;
+                margin-left: $extrasmall-margin;
                 margin-top: $extrasmall-margin;
             }
         }

@@ -2,12 +2,13 @@
 @import "abstracts/vars";
 @import "base/fontawesome/font-awesome-mix-var";
 .carousel {
-    @include border-basic();
+    /*@include border-basic();*/
     position: relative;
     box-sizing: border-box;
     padding: 10px;
     text-align: center;
     background: $carousel-bg;
+    overflow: hidden;
     .wrapper {
         padding-bottom: 30px;
     }
@@ -17,6 +18,13 @@
             content: "";
             display: block;
             clear: both;
+        }
+        li {
+            .field-slideimage {
+                img {
+                    height: auto;
+                }
+            }
         }
     }
     .nav {

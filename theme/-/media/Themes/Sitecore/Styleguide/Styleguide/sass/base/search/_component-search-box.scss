@@ -4,6 +4,7 @@
         padding: 2px 10px 0 10px;
     }
 }
+
 .search-box {
     @import "../reset/inputs";
     @import "../typehead/typehead";
@@ -17,6 +18,15 @@
     }
     &.hide-label .component-content > label {
         display: none;
+    }
+    &.horizontal {
+        label {
+            width: 45%;
+            text-align: left;
+        }
+        input {
+            border-bottom: 1px solid #000;
+        }
     }
     .component-content {
         display: flex;

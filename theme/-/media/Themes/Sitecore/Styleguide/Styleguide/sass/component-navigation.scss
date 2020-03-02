@@ -12,6 +12,7 @@
             padding-right: 3px;
             margin-right: 5px;
             &:hover {
+                color: #fe2911;
                 text-decoration: none;
             }
         }
@@ -35,6 +36,7 @@
                 display: block;
                 color: $nav-color-root;
                 text-decoration: none;
+
             }
         }
         >ul a {
@@ -43,6 +45,12 @@
     }
     .submenu>ul {
         padding-left: 10px;
+        li a {
+            text-decoration: none;
+            &:hover {
+                color: #fe2911;
+            }
+        }
     }
     @import "variants/navigation/*";
 }

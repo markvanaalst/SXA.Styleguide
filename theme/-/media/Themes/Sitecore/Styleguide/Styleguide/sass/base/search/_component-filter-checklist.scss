@@ -30,7 +30,8 @@
       label,
       .facet-count.highlighted,
       span {
-        color: $text-blue;
+        /*color: $text-blue;*/
+        font-weight: bold;
       }
     }
   }

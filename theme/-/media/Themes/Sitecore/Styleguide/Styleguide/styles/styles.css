@@ -1,7 +1,7 @@
 /* breakpoints */
 .boxed {
   box-sizing: border-box;
-  margin: 40px 0;
+  margin: 20px 0 20px 0px;
 }
 
 @media only screen and (min-width: 381px) and (max-width: 1169px) {
@@ -45,7 +45,7 @@
 .highlighted-top {
   /*background: #ffffff;*/
   border-top-width: 3px;
-  border-top-color: #15909c;
+  border-top-color: #cc0000;
   border-style: solid;
   padding: 25px;
   margin: 0;
@@ -58,7 +58,7 @@
 .highlighted-bottom {
   /*background: #ffffff;*/
   border-bottom-width: 3px;
-  border-bottom-color: #15909c;
+  border-bottom-color: #cc0000;
   border-style: solid;
   padding: 25px;
   margin: 0;
@@ -71,7 +71,7 @@
 .highlighted-left {
   /*background: #ffffff;*/
   border-left-width: 3px;
-  border-left-color: #15909c;
+  border-left-color: #cc0000;
   border-style: solid;
   padding: 25px;
   margin: 0;
@@ -84,7 +84,7 @@
 .highlighted-right {
   /*background: #ffffff;*/
   border-right-width: 3px;
-  border-right-color: #15909c;
+  border-right-color: #cc0000;
   border-style: solid;
   padding: 25px;
   margin: 0;
@@ -110,7 +110,7 @@
 .link-button .button-default, .link-button .default {
   border-width: 1px;
   border-style: solid;
-  border-color: #d2d2d2;
+  border-color: #f0f0f0;
   font-size: 12px;
   font-size: 1.2rem;
   display: inline-block;
@@ -121,12 +121,12 @@
   text-align: center;
   text-decoration: none;
   background: #f6f6f6;
-  color: #747474;
+  color: #232323;
   font-weight: bold;
 }
 
 .link-button .button-default:hover, .link-button .default:hover {
-  color: #747474;
+  color: #232323;
   background: #f7f7f7;
 }
 
@@ -135,7 +135,7 @@
   font-size: 1.2rem;
   border-width: 1px;
   border-style: solid;
-  border-color: #d2d2d2;
+  border-color: #f0f0f0;
   display: inline-block;
   vertical-align: middle;
   box-sizing: border-box;
@@ -158,7 +158,7 @@
   font-size: 1.2rem;
   border-width: 1px;
   border-style: solid;
-  border-color: #d2d2d2;
+  border-color: #f0f0f0;
   display: inline-block;
   vertical-align: middle;
   box-sizing: border-box;
@@ -239,3 +239,5 @@
 .container-contain-background > .component-content {
   background-size: contain;
 }
+
+/*# sourceMappingURL=styles.css.map */

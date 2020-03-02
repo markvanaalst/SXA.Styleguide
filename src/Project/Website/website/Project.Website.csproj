@@ -3,13 +3,12 @@
     <TargetFramework>net472</TargetFramework>
     <RootNamespace>Project.Website</RootNamespace>
     <AssemblyName>Project.Website</AssemblyName>
+    <Configurations>Debug;Release;Docker</Configurations>
   </PropertyGroup>
   <ItemGroup>
-    <Content Remove="App_Config\Include\z.Feature.Overrides\z.SPE.Sync.Enabler.Gulp.config" />
-    <Content Remove="App_Data\packages\styleguide-1.0.xml" />
-  </ItemGroup>
-  <ItemGroup>
     <None Remove="App_Config\Include\Project\Styleguide.Project.Website\Styleguide.Project.Development.config" />
+    <None Remove="App_Config\Include\z.Feature.Overrides\z.SPE.Sync.Enabler.Gulp.config" />
+    <None Remove="App_Data\packages\styleguide-1.0.xml" />
   </ItemGroup>
 <!-- Uncomment as needed; f.ex. if Sitecore package references not defined on solution scope - see .\build\props\Build.PackageReferences.props
   <ItemGroup>

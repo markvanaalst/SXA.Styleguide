@@ -47,6 +47,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{A8D6462C
 		build\Solution.config = build\Solution.config
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{353F6E15-9C8A-4806-9DC1-AC68DC890FFA}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docker", "Docker", "{5027F0CC-A8AF-4B22-9859-876ACA15F7C7}"
+	ProjectSection(SolutionItems) = preProject
+		Docker\.env = Docker\.env
+		Docker\Clean-Data.ps1 = Docker\Clean-Data.ps1
+		Docker\docker-compose.yml = Docker\docker-compose.yml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

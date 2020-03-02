@@ -3,5 +3,6 @@
     <TargetFramework>net472</TargetFramework>
     <RootNamespace>Feature.CssAnimation</RootNamespace>
     <AssemblyName>Feature.CssAnimation</AssemblyName>
+    <Configurations>Debug;Release;Docker</Configurations>
   </PropertyGroup>
 </Project>

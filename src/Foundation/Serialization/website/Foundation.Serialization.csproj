@@ -3,6 +3,7 @@
     <TargetFramework>net472</TargetFramework>
     <RootNamespace>Foundation.Serialization</RootNamespace>
     <AssemblyName>Foundation.Serialization</AssemblyName>
+    <Configurations>Debug;Release;Docker</Configurations>
   </PropertyGroup>
   <ItemGroup>
     <Content Include="$(NuGetPackageRoot)\Unicorn\4.0.8\content\**\*">

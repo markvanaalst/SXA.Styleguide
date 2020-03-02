@@ -341,3 +341,4 @@ healthchecksdb
 /frontend/client/Applications/HorizonCanvas
 /Docker
 /theme/-/media/*.ashx
+/deploy/App_Config/Include

@@ -46,12 +46,12 @@ Website.Properties.props
           WARNING: Can cause race conditions in rare cases, if so just comment out or remove. 
           Also note, this is for website builds only - ensure props are different dependent on target instance  
           -->
-    <OutputPath>$(SolutionDir)\bin\website\$(Configuration)\</OutputPath>
+    <!--<OutputPath>$(SolutionDir)\bin\website\$(Configuration)\</OutputPath>
     <OutDir>$(OutputPath)</OutDir>
-    <UseCommonOutputDirectory>True</UseCommonOutputDirectory>
+    <UseCommonOutputDirectory>True</UseCommonOutputDirectory>-->
 
     <!-- Set solution-wide config file for binding redirects -->
-    <AppConfig>$(SolutionDir)\build\Solution.config</AppConfig>
+    <!--<AppConfig>$(SolutionDir)\build\Solution.config</AppConfig>-->
 
     <!-- TransformWebConfigEnabled
           Disables the default msbuild webconfig transformation target, 
@@ -64,7 +64,7 @@ Website.Properties.props
     <IgnoreTargetFrameworkAttributeVersionMismatch>true</IgnoreTargetFrameworkAttributeVersionMismatch>
     <PackageAsSingleFile>false</PackageAsSingleFile>
   </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)' == 'Debug'">
+  <!--<PropertyGroup Condition="'$(Configuration)' == 'Debug'">
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
-  </PropertyGroup>
+  </PropertyGroup>-->
 </Project>

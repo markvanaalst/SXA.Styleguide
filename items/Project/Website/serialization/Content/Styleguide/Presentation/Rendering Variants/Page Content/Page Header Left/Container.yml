@@ -1,16 +1,19 @@
 ﻿---
-ID: "f5336106-d332-4074-80ac-3ab3b9485706"
-Parent: "22adcbba-5c83-4fc2-a5b9-e7f7b5f59b25"
+ID: "93355201-060f-4561-90d3-52b11b6bfd2e"
+Parent: "41911fdb-d0f7-4b7e-97dc-f20a65137ba0"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: "/sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Page Content/Page Header Center/text-wrapper/Row"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Page Content/Page Header Left/Container
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 150
+  Value: 0
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: row
+  Value: "page-hero-image-container"
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -18,7 +21,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191216T201639Z
+      Value: 20190424T211057Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

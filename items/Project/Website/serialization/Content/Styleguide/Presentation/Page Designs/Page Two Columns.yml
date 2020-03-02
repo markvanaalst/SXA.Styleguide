@@ -1,0 +1,21 @@
+﻿---
+ID: "26cfeb9c-47d5-4240-a6aa-a2bb4d3dd959"
+Parent: "94aa6ae2-f6a6-4c16-baa0-aace818c7862"
+Template: "8c51b30b-2e73-4f23-b556-4df8bc2be77a"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Page Designs/Page Two Columns
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{CA0DF243-4A4C-475C-9991-2C7D2835754A}|{C449E2B0-EB69-474E-BA87-5637FDF644EE}|{F8BD286A-1680-4F7F-BB52-FE7155144A4F}|{B33E125E-0BF5-4463-AA20-ACE1486E4912}|{3315DB9B-EB36-4F21-981D-E1353B778528}|{5B54EE0F-4821-4737-B15D-6F0A8841168E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200226T133247Z

@@ -8,13 +8,17 @@ SharedFields:
 - ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
   Hint: Template
   Value: |
-    {{ if i_item["Component Features"].raw != '' || o_pagemode.is_experience_editor }}
-    
-    <h3>Features and Options</h3>
-    
-    {{ sc_field i_item 'Component Features' }}
-    
+    {{ if i_item.template_name == 'Component' && (i_item["Component Features"].raw ) != "" }}
+        <div class="features-options">
+            <div class="header">
+                Features and Options
+            </div>
+            <div class="body">
+                {{ sc_field i_item 'Component Features' }}
+            </div>
+        </div>
     {{ end }}
+    
 Languages:
 - Language: en
   Versions:

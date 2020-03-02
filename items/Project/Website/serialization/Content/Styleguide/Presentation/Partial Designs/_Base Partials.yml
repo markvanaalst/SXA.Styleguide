@@ -1,0 +1,18 @@
+﻿---
+ID: "21a28a52-ebbb-47c5-a489-c0ee8c49152e"
+Parent: "0e4f09a8-12e8-4fe0-8239-3349531f8bd5"
+Template: "84c1de3c-e162-4e76-a355-72e7cf67d148"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Partial Designs/_Base Partials
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200226T154140Z

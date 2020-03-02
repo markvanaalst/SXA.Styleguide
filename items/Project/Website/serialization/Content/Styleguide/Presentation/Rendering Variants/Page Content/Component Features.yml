@@ -4,6 +4,14 @@ Parent: "d7bc5a87-e41f-492f-a8d4-14adec9829fa"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Page Content/Component Features
 DB: master
+SharedFields:
+- ID: "696c70e2-eb4e-425d-81e4-802bab6a03cf"
+  Hint: AllowedInTemplates
+  Type: Multilist
+  Value: "{BF680756-B2FA-4CAE-8B69-EE361080616F}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
 Languages:
 - Language: en
   Versions:

@@ -5,19 +5,18 @@ Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
 Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Navigation/Submenu/Template
 DB: master
 SharedFields:
-- ID: "8a85a595-3298-4eb1-96dd-c882ee5802ae"
-  Hint: Tag
-  Value: 
 - ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
   Hint: Template
   Value: |
+    
+    
     <a href="{{ i_item.url}}" class="navigation-title">
     
-    {{ if ( i_item.NavigationIcon.media_url != null ) }}
-    {{ sc_field i_item 'Image' [['h', '48'], ['w', '48'], ['data-purpose', 'NavigationIcon']] }}
-    {{ end }}
+        {{ if ( i_item.Image.media_url != null ) }}
+        {{ sc_field i_item 'Image' [['h', '48'], ['w', '48'], ['data-purpose', 'Promo Icon']] }}
+        {{ end }}
     
-        <div class="navigation-title position-center">{{ i_item.Name }}</div>
+        <div class="navigation-title position-center">{{ sc_field i_item ['NavigationTitle', 'Title', 'Name'] }}</div>
     </a>
 Languages:
 - Language: en

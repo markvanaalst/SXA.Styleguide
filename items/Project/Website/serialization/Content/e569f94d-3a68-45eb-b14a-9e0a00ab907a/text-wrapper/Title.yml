@@ -2,7 +2,7 @@
 ID: "1b392b6b-37dc-4167-8539-bb3df758c7ac"
 Parent: "22adcbba-5c83-4fc2-a5b9-e7f7b5f59b25"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: "/sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Page Content/Centered Page Header/text-wrapper/Title"
+Path: "/sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Page Content/Page Header Center/text-wrapper/Title"
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"

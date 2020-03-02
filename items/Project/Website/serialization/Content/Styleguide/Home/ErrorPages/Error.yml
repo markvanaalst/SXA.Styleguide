@@ -1,8 +1,8 @@
 ﻿---
-ID: "78057051-f6de-4c83-bdca-78962bad58ff"
-Parent: "2497d56c-9047-432c-9887-c6e80f7d956f"
+ID: "c6df807f-351c-4261-af68-9e60cd0219cb"
+Parent: "533a25c4-8e1e-4e59-9f8c-b62c7169d3b5"
 Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
-Path: /sitecore/content/Sitecore/Styleguide/Home/NotFound
+Path: /sitecore/content/Sitecore/Styleguide/Home/ErrorPages/Error
 DB: master
 SharedFields:
 - ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
@@ -16,7 +16,7 @@ SharedFields:
     {A0E7FF57-6994-4B09-AA21-104239628D5A}
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 400
+  Value: 500
 Languages:
 - Language: en
   Versions:
@@ -24,13 +24,13 @@ Languages:
     Fields:
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
       Hint: Title
-      Value: Not Found
+      Value: Error
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20200218T083739Z
+      Value: 20200218T124237Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: NotFound
+      Value: Error
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
-      Value: <p>Sorry, we couldn't find the page you requested</p>
+      Value: Oops, something went wrong here

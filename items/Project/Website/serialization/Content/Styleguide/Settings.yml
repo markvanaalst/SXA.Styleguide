@@ -23,7 +23,7 @@ SharedFields:
     {041C1F9F-99A4-4EE6-8308-985499F91032}
 - ID: "96e5e297-6fd1-46d6-8e92-b03e33a9376c"
   Hint: Error404Page
-  Value: /sitecore/content/Sitecore/Styleguide/Home/NotFound
+  Value: /sitecore/content/Sitecore/Styleguide/Home/ErrorPages/NotFound
 - ID: "ad84cc6b-32ef-49d8-9326-916976cb2520"
   Hint: Grid Mapping
   Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257BFDFEE3CD-14DA-4485-B311-79F21BDE952D%257D"
@@ -36,7 +36,7 @@ SharedFields:
   Value: "{3434B982-BB5C-43E0-AA91-766EF7A8D25C}"
 - ID: "d91bf82c-0e2b-4b79-ae85-e54b9afd5026"
   Hint: Error500Page
-  Value: /sitecore/content/Sitecore/Styleguide/Home/Error
+  Value: /sitecore/content/Sitecore/Styleguide/Home/ErrorPages/Error
 - ID: "e81e1f9e-8b87-495b-9cb7-84a2a23133be"
   Hint: MediaLibrary
   Value: "{037E5116-53D2-414C-B428-F65AF474387C}"

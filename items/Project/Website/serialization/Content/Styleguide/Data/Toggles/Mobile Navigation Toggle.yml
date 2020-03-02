@@ -15,7 +15,7 @@ Languages:
     - ID: "2d36cf85-84be-42d2-b710-8d13b8844cdd"
       Hint: Text
       Value: |
-        <img alt="Sitecore" src="-/media/AE26EB293C304290A5E86F6A81ABCE98.ashx?h=48&amp;w=221" style="height: 48px; width: 221px;" />
+        <a href="~/link.aspx?_id=2497D56C9047432C9887C6E80F7D956F&amp;_z=z"><img alt="Styleguide" src="-/media/A93F1264C7F9450CBEF48ED91D617873.ashx?h=48&amp;w=221" style="height: 48px; width: 221px;" /></a>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

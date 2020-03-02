@@ -29,7 +29,7 @@ Languages:
               s:ds="local:/Data/Text 1"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
-              s:ph="/main/sxa-content-container/container-1/container-4" />
+              s:ph="/main/sxa-page-body/container-1" />
           </d>
         </r>
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"

@@ -30,35 +30,35 @@ Languages:
               s:ds="local:/Data/Components xDB ready"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
               s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B41F03221-4FBA-4139-8EFA-F23984F201B7%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
-              s:ph="/main/sxa-content-container/container-1/container-4" />
+              s:ph="/main/sxa-page-body/container-1" />
             <r
               uid="{9D08A9E8-5263-4C86-9867-DF6C8B52C63A}"
               p:after="r[@uid='{8635D641-B525-436A-8CAE-E9AA48E3CA09}']"
               s:ds="local:/Data/Optimization through testing"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
               s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B577C7E85-A2F4-4D85-9DD1-959A8E22133F%7D&amp;Styles=%7BC5559A5F-CD20-4D3F-80A5-B6DEBE787ED0%7D%7C%7B4CE0B894-48F7-458F-A10D-907957171BD7%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
-              s:ph="/main/sxa-content-container/container-1/container-4" />
+              s:ph="/main/sxa-page-body/container-1" />
             <r
               uid="{31864395-609A-420A-B73C-B7F1B4792C85}"
               p:after="r[@uid='{9D08A9E8-5263-4C86-9867-DF6C8B52C63A}']"
               s:ds="local:/Data/Personalisation"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
               s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D&amp;FieldNames=%7B51C32ABE-147A-484C-87E9-5C1BAF0B4990%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
-              s:ph="/main/sxa-content-container/container-1/container-4" />
+              s:ph="/main/sxa-page-body/container-1" />
             <r
               uid="{C0CD663A-C9A5-4137-BFCE-7C3AD2FB0FEA}"
               p:after="r[@uid='{31864395-609A-420A-B73C-B7F1B4792C85}']"
               s:ds="local:/Data/A-B Testing"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
               s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D&amp;FieldNames=%7B51C32ABE-147A-484C-87E9-5C1BAF0B4990%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
-              s:ph="/main/sxa-content-container/container-1/container-4" />
+              s:ph="/main/sxa-page-body/container-1" />
             <r
               uid="{AC8AA742-2946-4D3E-80DD-4D60C2F608F4}"
               p:after="*[1=2]"
               s:ds="local:/Data/Multivariate Testing"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
               s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D&amp;FieldNames=%7B51C32ABE-147A-484C-87E9-5C1BAF0B4990%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
-              s:ph="/main/sxa-content-container/container-1/container-4" />
+              s:ph="/main/sxa-page-body/container-1" />
           </d>
         </r>
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"

@@ -30,41 +30,41 @@ Languages:
               s:ds="local:/Data/Text 1"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B097B0256-9A50-4164-B4C9-934E3EAEDC7C%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
-              s:ph="/main/sxa-full-article-details/container-5/container-1" />
+              s:ph="/main/sxa-page-body/container-1/container-1" />
             <r
               uid="{CFE976DC-5CE0-4E3B-A553-F68D2BBC9518}"
               p:after="r[@uid='{D7AB342E-2337-4157-B3CC-624AFCE6185A}']"
               s:ds="local:/Data/Text 2"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B5D74AF38-1A37-491A-A4BB-A9E251D862F3%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B2EF06FFF-9C1A-4B4F-88AF-612CCFEF3714%7D%7C%7B93B61BD7-DD29-418F-8A1F-06FE51B0A538%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
-              s:ph="/main/sxa-full-article-details/container-5/container-1" />
+              s:ph="/main/sxa-page-body/container-1/container-1" />
             <r
               uid="{4A7B75A2-ADB8-4E7A-8CF3-BE30B74756C7}"
               p:after="r[@uid='{CFE976DC-5CE0-4E3B-A553-F68D2BBC9518}']"
               s:ds="{7846405E-493C-4D16-A30B-564C726A4515}"
               s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
               s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B48918248-0011-4F9C-81CD-49DD9A25C730%7D%7C%7B51B4484B-CF7C-4AA2-B820-9FEBBA97F99F%7D&amp;FieldNames=%7B750C2683-751A-4865-A0C2-6463F8DE483B%7D&amp;Styles&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
-              s:ph="/main/sxa-full-article-details/container-5/container-1" />
+              s:ph="/main/sxa-page-body/container-1/container-1" />
             <r
               uid="{23FBF3CF-7FC0-4DD6-A694-A53E84F030D9}"
               p:after="r[@uid='{4A7B75A2-ADB8-4E7A-8CF3-BE30B74756C7}']"
               s:ds="local:/Data/Text 3"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B5D74AF38-1A37-491A-A4BB-A9E251D862F3%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B2EF06FFF-9C1A-4B4F-88AF-612CCFEF3714%7D%7C%7BAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7D%7C%7B93B61BD7-DD29-418F-8A1F-06FE51B0A538%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
-              s:ph="/main/sxa-full-article-details/container-5/container-1" />
+              s:ph="/main/sxa-page-body/container-1/container-1" />
             <r
               uid="{4E5132B3-56B9-4B15-877B-72BC0F8984A4}"
               p:after="r[@uid='{23FBF3CF-7FC0-4DD6-A694-A53E84F030D9}']"
               s:ds="{7846405E-493C-4D16-A30B-564C726A4515}"
               s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
               s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B48918248-0011-4F9C-81CD-49DD9A25C730%7D%7C%7B51B4484B-CF7C-4AA2-B820-9FEBBA97F99F%7D&amp;FieldNames=%7BD1395D7F-9D04-4305-8997-68FBBE52A990%7D&amp;Styles=%7BAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7D%7C%7B75CE1EFA-B704-4E58-85FA-19F6E0F0AB6D%7D&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
-              s:ph="/main/sxa-full-article-details/container-5/container-1" />
+              s:ph="/main/sxa-page-body/container-1/container-1" />
             <r
               uid="{66EC7903-B802-4BB7-8512-648122D1FBF3}"
               p:after="*[1=2]"
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
               s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
-              s:ph="/main/sxa-full-article-details/container-5" />
+              s:ph="/main/sxa-page-body/container-1" />
           </d>
         </r>
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"

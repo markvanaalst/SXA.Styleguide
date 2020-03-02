@@ -23,9 +23,10 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{1786A66C-C62E-4ED1-AF4E-BB296D7AF205}"
+              s:ds=""
               s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
-              s:par="ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B8DCD17EE-AA62-48D3-93DC-C04FD0C0D8C4%7D&amp;Styles&amp;SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
-              s:ph="/main/sxa-content-container/container-1/container-4" />
+              s:par="SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B8DCD17EE-AA62-48D3-93DC-C04FD0C0D8C4%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-page-body/container-1" />
           </d>
         </r>
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"

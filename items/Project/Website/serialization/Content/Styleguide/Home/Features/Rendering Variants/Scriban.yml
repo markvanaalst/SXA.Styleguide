@@ -27,21 +27,21 @@ Languages:
               s:ds="local:/Data/Text 1"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=1&amp;Reset Caching Options"
-              s:ph="/main/sxa-content-container/container-1/container-4" />
+              s:ph="/main/sxa-page-body/container-1" />
             <r
               uid="{FE3C0199-934A-4BAF-A24C-2CCA1A28C73B}"
               p:after="r[@uid='{6521422C-7CBC-4043-8AB6-62C1325BB33D}']"
               s:ds="local:/Data/Example Scriban Promo"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
               s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7bC8D99217-FE05-478D-961F-8632A239B396%7d&amp;FieldNames=%7bD75A7202-2CBC-40DD-8839-8BE11FF7790B%7d&amp;DynamicPlaceholderId=3&amp;Reset Caching Options"
-              s:ph="/main/sxa-content-container/container-1/container-4" />
+              s:ph="/main/sxa-page-body/container-1" />
             <r
               uid="{99213150-65AD-4106-A758-0D794654C7E3}"
               p:after="*[1=2]"
               s:ds="local:/Data/Example Scriban Promo"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
               s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7bC8D99217-FE05-478D-961F-8632A239B396%7d%7c%7bB7763EC7-8E04-4A2C-917B-49BCBA67992B%7d&amp;FieldNames&amp;DynamicPlaceholderId=4&amp;Reset Caching Options"
-              s:ph="/main/sxa-content-container/container-1/container-4" />
+              s:ph="/main/sxa-page-body/container-1" />
           </d>
         </r>
     - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"

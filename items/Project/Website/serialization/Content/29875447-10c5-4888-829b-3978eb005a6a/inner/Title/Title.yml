@@ -1,16 +1,16 @@
 ﻿---
-ID: "609db9db-30b8-42c0-bf23-4644e98e397f"
-Parent: "11005fb6-1e33-4c33-8446-965a5baa3c4f"
+ID: "c4196c50-efdd-4a4a-8d33-ebfb0faecd62"
+Parent: "db50c3dc-e86a-4bd8-b2f5-349b8412d6c3"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Page List/Page title and image/Full Article
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Page Content/Page Header Left/Container/Text Wrapper/inner/Title/Title
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: Full Article
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 200
+  Value: Title
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{7FF0B09B-8AAA-469B-8A56-4743E61705EC}"
 Languages:
 - Language: en
   Versions:
@@ -18,7 +18,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191031T133012Z
+      Value: 20200227T130638Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

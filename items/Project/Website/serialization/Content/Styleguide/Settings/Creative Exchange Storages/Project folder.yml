@@ -17,11 +17,11 @@ SharedFields:
 - ID: "5f32188e-d73c-47b8-97d4-7097070d8f46"
   Hint: Destination Path
   Value: |
-    $(projectFolder)\theme
+    C:\Projects\Sitecore.XA.Styleguide\theme
 - ID: "e648b9bd-e1a8-4786-95c4-829f722ddcd3"
   Hint: Remove Directory
   Type: Checkbox
-  Value: 0
+  Value: 1
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{A2F805C7-0D57-47F0-B67E-D9FA8AE3E664}"

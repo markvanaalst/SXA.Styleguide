@@ -32,12 +32,20 @@ Languages:
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: |
-        This website has been created by Mark van Aalst and Adam Najmanowicz for educational purposes. It should not be considered as a demo environment for SXA or Sitecore in general. For demo purposes we like to refer you to Habitat Home, the official demo environment maintained by Sitecore and available as open-source.<br /><br /><p>The site may contain free stock photographs and illustrations downloaded from the following sites:</p>
+        This website has been created by Mark van Aalst and Adam Najmanowicz for educational purposes. It should not be considered as a demo environment for SXA or Sitecore in general. For demo purposes we like to refer you to Habitat Home, the official demo environment maintained by Sitecore and available as open-source.<br />
+        <br />
+        The site contains free stock photographs and illustrations downloaded from the following sites:
         <ul>
             <li><a rel="noopener noreferrer" href="https://pixabay.com/" target="_blank">Pixabay</a></li>
             <li><a rel="noopener noreferrer" href="https://compfight.com/" target="_blank">Compfight</a></li>
             <li><a rel="noopener noreferrer" href="https://www.pexels.com/" target="_blank">PEXELS</a></li>
             <li><a rel="noopener noreferrer" href="https://www.unsplash.com" target="_blank">Unsplash</a></li>
             <li><a rel="noopener noreferrer" href="https://www.morguefile.com/" target="_blank">morgueFile</a></li>
-            <li><a rel="noopener noreferrer" href="https://icons8.com/" target="_blank">Icons8</a></li>
+            <li><a rel="noopener noreferrer" href="https://icons8.com/" target="_blank">Icons8<br /><br />
+            </a></li>
+        </ul>
+        Additionaly this site includes the following open-source libraries:<br />
+        <ul>
+            <li><a href="https://daneden.github.io/animate.css/">Animate.css</a></li>
+            <li><a href="https://github.com/graingert/wow">Wow.js</a></li>
         </ul>

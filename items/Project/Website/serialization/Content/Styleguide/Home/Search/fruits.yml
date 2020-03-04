@@ -9,23 +9,9 @@ SharedFields:
   Hint: __Masters
   Type: TreelistEx
   Value: "{59563823-269C-4BD0-9080-B7430B59DD29}"
-- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
-  Hint: NavigationFilter
-  Type: Checklist
-  Value: |
-    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
-    {61BD64D6-809E-40AE-9297-2724A19329B3}
-    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
-    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
-- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
-  Hint: Page Design
-  Value: 
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 425
-- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
-  Hint: LocalData
-  Value: 
 Languages:
 - Language: en
   Fields:
@@ -35,19 +21,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
-      Hint: Title
-      Value: Fruits
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161006T085339Z
-    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
-      Hint: NavigationTitle
-      Value: Fruits
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\Admin
-    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
-      Hint: Content
-      Value: <p>Nothing to see here, just some fruits. Move along.</p>

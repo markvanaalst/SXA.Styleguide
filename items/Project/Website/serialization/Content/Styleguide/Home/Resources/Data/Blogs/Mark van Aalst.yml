@@ -1,13 +1,13 @@
 ﻿---
-ID: "fc656e44-df7e-4651-bff4-9654f73239fc"
+ID: "b3926930-b30b-4693-8f60-03138fe0b383"
 Parent: "e9706c39-c513-4ce2-b79c-261ea710380e"
 Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
-Path: /sitecore/content/Sitecore/Styleguide/Home/Resources/Data/Blogs/Barend Emmerzaal
+Path: /sitecore/content/Sitecore/Styleguide/Home/Resources/Data/Blogs/Mark van Aalst
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 600
+  Value: 2400
 Languages:
 - Language: en
   Versions:
@@ -15,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20200227T155550Z
+      Value: 20200304T104223Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
@@ -23,4 +23,4 @@ Languages:
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
       Value: |
-        <link text="Barend Emmerzaal" linktype="external" url="https://www.linkedin.com/in/barendemmerzaal/detail/recent-activity/posts/" anchor="" target="_blank" />
+        <link linktype="external" text="Mark van Aalst" url="https://www.markvanaalst.com" anchor="" target="_blank" />

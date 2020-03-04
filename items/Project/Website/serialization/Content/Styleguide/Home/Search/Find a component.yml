@@ -43,7 +43,7 @@ Languages:
               p:after="r[@uid='{D86F5892-2760-40DA-9B42-AABD0D195159}']"
               s:ds="{90A00547-F8B5-4C55-956D-A3BE624310A5}"
               s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature=components&amp;FieldNames=%7B65143321-6E3C-45D5-97AC-75EC2C5822B8%7D&amp;Styles&amp;Scope=%7BC80C70D1-661E-406B-9BF1-BFEAF80F5E0B%7D&amp;PageSize=20&amp;DefaultLanguageFilter&amp;DefaultSortOrder&amp;AutoFireSearchWhenNoCriteriaSet=1&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature=components&amp;FieldNames=%7BDEA3EF73-B7CD-46D3-ADC8-7B0EE2A0BC01%7D&amp;Styles&amp;Scope=%7BC80C70D1-661E-406B-9BF1-BFEAF80F5E0B%7D&amp;PageSize=20&amp;DefaultLanguageFilter&amp;DefaultSortOrder&amp;AutoFireSearchWhenNoCriteriaSet=1&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
               s:ph="/main/sxa-page-body/container-1/column-1-1" />
             <r
               uid="{B0EBEEF7-4550-4FAE-96F2-04410B31BC7B}"

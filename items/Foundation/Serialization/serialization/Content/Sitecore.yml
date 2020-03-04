@@ -5,6 +5,12 @@ Template: "977eda35-7dc5-4e34-817d-3817cbdc6dc0"
 Path: /sitecore/content/Sitecore
 DB: master
 SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {C0CBBC66-4EF0-4660-A0D3-91E862FCCB65}
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
 - ID: "1230d2cb-4948-4d43-8a3b-b39978f6f1b3"
   Hint: Modules
   Type: Treelist
@@ -32,7 +38,7 @@ SharedFields:
 - ID: "7d29b525-8118-45c6-a89b-773a6a576ec7"
   Hint: SharedSites
   Type: Treelist
-  Value: "{480EF83C-FBBB-4856-9AE9-9F41EE8995A1}"
+  Value: 
 - ID: "800dc4ed-0846-45ba-b112-19902af240f6"
   Hint: SharedMediaLibrary
   Value: "{4509B970-D237-4071-B6E1-4CC64EAFC765}"

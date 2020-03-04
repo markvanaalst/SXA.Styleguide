@@ -6,6 +6,9 @@ Path: /sitecore/content/Sitecore/Styleguide/Home/Resources/Data/Blogs/Gert Gulle
 DB: master
 BranchID: "6fe30845-72fc-4a2b-93e8-64b8eaff3152"
 SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{194F150F-8626-4AEC-80C0-8F2529826D30}"

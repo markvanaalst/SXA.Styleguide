@@ -52,13 +52,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docker", "Docker", "{5027F0CC-A8AF-4B22-9859-876ACA15F7C7}"
-	ProjectSection(SolutionItems) = preProject
-		Docker\.env = Docker\.env
-		Docker\Clean-Data.ps1 = Docker\Clean-Data.ps1
-		Docker\docker-compose.yml = Docker\docker-compose.yml
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

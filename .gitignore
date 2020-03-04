@@ -342,3 +342,4 @@ healthchecksdb
 /Docker
 /theme/-/media/*.ashx
 /deploy/App_Config/Include
+/deploy.ps1

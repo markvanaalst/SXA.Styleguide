@@ -1,5 +1,5 @@
 
-<img width="500px" src="img/styleguide.svg">
+<img width="500px" src=".img/styleguide.svg">
 
 # Introduction
 The SXA Styleguide is an education site based on SXA that helps explaining the inner working and illustrating best practices. 

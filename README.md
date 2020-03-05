@@ -5,6 +5,8 @@ The SXA Styleguide is an education site based on SXA that helps explaining the i
 
 It should not be considered as a demo environment for SXA or Sitecore in general. For demo purposes we like to refer you to [Habitat Home](https://github.com/Sitecore/Sitecore.HabitatHome.Platform), the official demo environment maintained by Sitecore and available as open-source.
 
+![](/.docs/img/home.png)
+
 ## Important Notice
 
 ### Requirements

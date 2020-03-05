@@ -57,6 +57,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{7DFEAD5C-D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".img", ".img", "{F6EEFA96-4A22-459B-B655-9C8448AB5EF8}"
 	ProjectSection(SolutionItems) = preProject
+		.docs\img\home.png = .docs\img\home.png
 		.docs\img\styleguide.svg = .docs\img\styleguide.svg
 	EndProjectSection
 EndProject

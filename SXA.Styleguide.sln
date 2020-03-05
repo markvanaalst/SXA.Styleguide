@@ -50,6 +50,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{353F6E15-9C8A-4806-9DC1-AC68DC890FFA}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
+		.docs\img\styleguide.svg = .docs\img\styleguide.svg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{7DFEAD5C-D9AD-4F08-93C1-88BAB9167965}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".img", ".img", "{F6EEFA96-4A22-459B-B655-9C8448AB5EF8}"
+	ProjectSection(SolutionItems) = preProject
+		.docs\img\styleguide.svg = .docs\img\styleguide.svg
 	EndProjectSection
 EndProject
 Global
@@ -83,6 +91,8 @@ Global
 		{5FF37AFC-28B7-4247-B17B-EEC56FD7E27C} = {6ECFBE62-6EE4-4750-9E75-F36C4776E036}
 		{09AAFBEF-B279-4E8F-B3DD-0ED1FB7015E6} = {A8D6462C-D639-49B9-8177-4631B2DF032B}
 		{6A934D87-C473-42E2-8B2E-A6D0B1631C4E} = {A8D6462C-D639-49B9-8177-4631B2DF032B}
+		{7DFEAD5C-D9AD-4F08-93C1-88BAB9167965} = {353F6E15-9C8A-4806-9DC1-AC68DC890FFA}
+		{F6EEFA96-4A22-459B-B655-9C8448AB5EF8} = {7DFEAD5C-D9AD-4F08-93C1-88BAB9167965}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {54DAD990-0C82-45DF-8FD1-535600678D97}

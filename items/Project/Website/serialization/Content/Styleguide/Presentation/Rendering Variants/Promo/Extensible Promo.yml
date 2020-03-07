@@ -4,6 +4,11 @@ Parent: "56c83bca-0162-4a05-96ff-e14f3617d4ca"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Promo/Extensible Promo
 DB: master
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{EA3B8736-E9AC-491D-B121-D234C073BFE5}" />
 Languages:
 - Language: en
   Versions:

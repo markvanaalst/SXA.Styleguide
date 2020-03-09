@@ -1,9 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
-    <RootNamespace>Foundation.Serialization</RootNamespace>
-    <AssemblyName>Foundation.Serialization</AssemblyName>
-    <Configurations>Debug;Release;Docker</Configurations>
   </PropertyGroup>
   <ItemGroup>
     <Content Include="$(NuGetPackageRoot)\Unicorn\4.0.8\content\**\*">
@@ -19,6 +16,7 @@
     <None Remove="App_Config\Include\Unicorn\Unicorn.Roles.DataProvider.config" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="MSBuild.Microsoft.VisualStudio.Web.targets" Version="14.0.0.3" />
     <PackageReference Include="Unicorn" Version="4.1.1" />
     <PackageReference Include="Unicorn.Roles" Version="4.1.1" />
   </ItemGroup>

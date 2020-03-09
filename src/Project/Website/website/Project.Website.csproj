@@ -1,9 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
-    <RootNamespace>Project.Website</RootNamespace>
-    <AssemblyName>Project.Website</AssemblyName>
-    <Configurations>Debug;Release;Docker</Configurations>
   </PropertyGroup>
   <ItemGroup>
     <None Remove="App_Config\Include\Project\Styleguide.Project.Website\Styleguide.Project.Development.config" />

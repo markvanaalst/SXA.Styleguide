@@ -14,14 +14,16 @@ The Styleguide is built to support **[Sitecore Experience Platform 9.3](https://
 ## Installation
 You can install the styleguide on a Sitecore 9.3 instance with SXA 9.3 installed. Installation can be done using the package you can download from the [releases page](https://github.com/markvanaalst/SXA.Styleguide/releases).
 
-### Docker Prerequisites
+### Docker support
+
+#### Requirements
 
 1. Windows 1809 or higher, but prefer version 1909  
 2. The latest Docker Desktop **[Docker Desktop](https://docs.docker.com/docker-for-windows/install/)** 
 3. From the Docker Desktop menu, you can toggle which daemon (Linux or Windows) the Docker CLI talks to. Select Switch to Windows containers to use `Windows containers`
 4. Pre-build [docker-images](https://github.com/Sitecore/docker-images/blob/master/README.md) local or taken from your own `ACR` 
 
-### Starting the Styleguide
+#### Starting the Styleguide
 
 1. Clone or copy the repository
 2. Open `SXA.Styleguide.sln` in Visual Studio 2019

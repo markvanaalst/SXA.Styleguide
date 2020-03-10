@@ -1,0 +1,42 @@
+﻿---
+ID: "d98fa314-b340-4855-956e-b9ab9bb6ce38"
+Parent: "76102aca-3c46-4afb-9df3-a2b8ab679c3f"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Styleguide/Toolbox/SXA Styleguide/Create package from Unicorn configs
+DB: master
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    $Version = [DateTime]::Now.ToString("yyMMdd")
+    
+    # Create package
+    $package = new-package "SXA Styleguide";
+    
+    # Set package metadata
+    $package.Sources.Clear();
+    $package.Metadata.Author = "Mark van Aalst, Adam Najmanowicz";
+    $package.Metadata.Publisher = "Mark van Aalst, Adam Najmanowicz";
+    $package.Metadata.Version =  $Version;
+    $package.Metadata.Readme = 'Please rebuild the SXA search indexes after installation of this package'
+    
+    # Get the Unicorn Configuration(s) we want to package
+    $configs = Get-UnicornConfiguration
+    
+    # Pipe the configs into New-UnicornItemSource 
+    $configs | New-UnicornItemSource -Project $package
+    
+    # Export the package to a zip file on disk
+    Export-Package -Project $package -Path "$($package.Name)-$($package.Metadata.Version).zip" -Zip
+    
+    # Offer the user to download the package
+    Download-File "$SitecorePackageFolder\$($package.Name)-$($package.Metadata.Version).zip"
+    
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200310T153113Z

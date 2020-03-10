@@ -1,0 +1,14 @@
+﻿---
+ID: "76102aca-3c46-4afb-9df3-a2b8ab679c3f"
+Parent: "2af04e64-23e1-48db-a0dc-1fb57fd195b1"
+Template: "ab154d3d-1126-4ab4-ac21-8b86e6bd70ea"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Styleguide/Toolbox/SXA Styleguide
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200310T153002Z

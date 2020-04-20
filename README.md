@@ -23,7 +23,7 @@ You can install the styleguide on a Sitecore 9.3 instance with SXA 9.3 installed
 2. The latest Docker Desktop **[Docker Desktop](https://docs.docker.com/docker-for-windows/install/)** 
 3. From the Docker Desktop menu, you can toggle which daemon (Linux or Windows) the Docker CLI talks to. Select Switch to Windows containers to use `Windows containers`
 4. Pre-build [docker-images](https://github.com/Sitecore/docker-images/blob/master/README.md) local or taken from your own `ACR` 
-
+5. Optional: [whales-names NPM module](https://www.npmjs.com/package/whales-names) to sync hosts file
 #### Starting the Styleguide
 
 1. Clone or copy the repository
@@ -34,7 +34,7 @@ You can install the styleguide on a Sitecore 9.3 instance with SXA 9.3 installed
 6. Browse to [http://localhost:44001/sitecore](http://localhost:44001/sitecore) and log in user the admin user
 7. Open [http://localhost:44001/unicorn.aspx](http://localhost:44001/unicorn.aspx) and run the Unicorn sync
 
-> You could also use the [whales-names NPM module](https://www.npmjs.com/package/whales-names) to sync the container with your local hosts file which enables you to browser the site by the container name
+> You could also use the [whales-names NPM module](https://www.npmjs.com/package/whales-names) to sync the container with your local hosts file which enables you to browser the site by the container name (defaults to sxa.sc.local)
 
 ## Development: Installing local develop environment
 

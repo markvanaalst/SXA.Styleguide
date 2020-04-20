@@ -11,15 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{E43C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{87468E3A-57D7-4E6B-BAB6-097B4CD7338B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Website", "src\Project\Website\website\Project.Website.csproj", "{A06B5824-54A0-42D1-8D95-07CAEAC6AD63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Styleguide.Project.Website", "src\Project\Website\website\Styleguide.Project.Website.csproj", "{A06B5824-54A0-42D1-8D95-07CAEAC6AD63}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{25A8F9CC-2A35-4E4D-929F-CF862FE468CE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation.Serialization", "src\Foundation\Serialization\website\Foundation.Serialization.csproj", "{5E6B8590-3A8B-42A7-8EBD-E3133F51F7D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Styleguide.Foundation.Serialization", "src\Foundation\Serialization\website\Styleguide.Foundation.Serialization.csproj", "{5E6B8590-3A8B-42A7-8EBD-E3133F51F7D3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CssAnimation", "CssAnimation", "{6ECFBE62-6EE4-4750-9E75-F36C4776E036}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Feature.CssAnimation", "src\Feature\CssAnimation\website\Feature.CssAnimation.csproj", "{5FF37AFC-28B7-4247-B17B-EEC56FD7E27C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Styleguide.Feature.CssAnimation", "src\Feature\CssAnimation\website\Styleguide.Feature.CssAnimation.csproj", "{5FF37AFC-28B7-4247-B17B-EEC56FD7E27C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "props", "props", "{09AAFBEF-B279-4E8F-B3DD-0ED1FB7015E6}"
 	ProjectSection(SolutionItems) = preProject
@@ -27,6 +27,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "props", "props", "{09AAFBEF
 		build\props\Website.PackageReferences.props = build\props\Website.PackageReferences.props
 		build\props\Website.ProjectContent.props = build\props\Website.ProjectContent.props
 		build\props\Website.Publishing.props = build\props\Website.Publishing.props
+		build\props\Website.Publishing.props.user.example = build\props\Website.Publishing.props.user.example
 		build\props\Website.References.props = build\props\Website.References.props
 	EndProjectSection
 EndProject
@@ -70,7 +71,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{A7F56D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{67CB644C-93C0-4FB4-BB05-18F48F986D87}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project.Common", "src\Project\Common\website\Project.Common.csproj", "{04050A6A-4ACC-4921-81FC-C94C98E0E702}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Styleguide.Project.Common", "src\Project\Common\website\Styleguide.Project.Common.csproj", "{04050A6A-4ACC-4921-81FC-C94C98E0E702}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

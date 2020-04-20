@@ -34,17 +34,6 @@ SharedFields:
   Hint: Height
   Value: 428
 Languages:
-- Language: "de-DE"
-  Versions:
-  - Version: 1
-    Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: "20141106T111934:635508695745258284"
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\dawidr
 - Language: en
   Versions:
   - Version: 1
@@ -59,47 +48,3 @@ Languages:
     - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
       Hint: Alt
       Value: "beneficios-da-jabuticaba-1"
-- Language: "es-ES"
-  Versions:
-  - Version: 1
-    Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: "20141106T111935:635508695750107769"
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\dawidr
-- Language: "ja-JP"
-  Versions:
-  - Version: 1
-    Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: "20141106T111935:635508695751515684"
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\dawidr
-- Language: "pl-PL"
-  Versions:
-  - Version: 1
-    Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: "20141106T111934:635508695747291939"
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\dawidr
-- Language: "ru-RU"
-  Versions:
-  - Version: 1
-    Fields:
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: "20141106T111934:635508695748699854"
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\dawidr

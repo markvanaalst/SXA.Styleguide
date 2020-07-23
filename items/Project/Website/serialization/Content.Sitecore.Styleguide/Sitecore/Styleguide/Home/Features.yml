@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "0d83e59a-c3f1-41be-81b2-762d35e0799f"
   Hint: NavigationClass
-  Value: "{935CF54C-5D42-49FD-AF60-92679C884F44}"
+  Value: 
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: 

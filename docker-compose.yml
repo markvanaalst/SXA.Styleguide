@@ -1,39 +1,58 @@
 version: "2.4"
 
 services:
+  traefik:
+    isolation: default
+    image: traefik:v2.2.0-windowsservercore-1809
+    command:
+      - "--providers.docker.endpoint=npipe:////./pipe/docker_engine"
+      - "--providers.docker.exposedByDefault=false"
+      - "--api.insecure=true"      
+      - "--log.level=DEBUG"      
+      - "--entryPoints.web.address=:80"
+      - "--entryPoints.web-secure.address=:443"      
+      - "--providers.file.directory=C:/etc/traefik/config/dynamic"
+    ports:
+      - "8080:80"
+      - "443:443"
+      - "8079:8080"
+    volumes:
+        - source: \\.\pipe\docker_engine
+          target: \\.\pipe\docker_engine
+          type: npipe      
+        - ./.docker/traefik:C:/etc/traefik
+    depends_on:
+      - solr
+      - cm
+    container_name: sxa_styleguide_traefik  
   sql:
     image: ${REGISTRY}sitecore-xm-sxa-sqldev:${SITECORE_VERSION}-windowsservercore-${WINDOWSSERVERCORE_VERSION}
     volumes:
-      - .\data\sql:C:\Data
+      - .\.docker\data\sql:C:\Data
     mem_limit: 2GB
-    ports:
-      - "44010:1433"
     environment:
       SA_PASSWORD: ${SQL_SA_PASSWORD}
       ACCEPT_EULA: "Y"
-    container_name: sxa.sc.local_sql
+    container_name: sxa_styleguide_sql
 
   solr:
     image: ${REGISTRY}sitecore-xm-sxa-solr:${SITECORE_VERSION}-nanoserver-${NANOSERVER_VERSION}
-    volumes:
-      - .\data\solr:C:\Data
-    mem_limit: 1GB
     ports:
-      - "44011:8983"
+      - "8984:8983"
+    volumes:
+      - .\.docker\data\solr:C:\Data
+    mem_limit: 1GB
     environment:
       SOLR_LOG_LEVEL: ERROR
-    container_name: sxa.sc.local_solr
+    container_name: sxa_styleguide_solr
 
   cm:
     image: ${REGISTRY}sitecore-xm-sxa-cm:${SITECORE_VERSION}-windowsservercore-${WINDOWSSERVERCORE_VERSION}
-    entrypoint: powershell.exe -NoLogo -NoProfile -File C:\\tools\\entrypoints\\iis\\Development.ps1
+    entrypoint: powershell.exe -Command "& C:\\tools\\entrypoints\\iis\\Development.ps1"
     volumes:
       - .\deploy:C:\src
       - .\items:C:\inetpub\wwwroot\App_Data\Unicorn\sxa-styleguide
-      - C:\license:C:\license:ro 
-    ports:
-      - "44001:80"
-      - "44002:443"
+      - C:\license:C:\license:ro
     environment:
       SITECORE_LICENSE_LOCATION: C:\license\license.xml
       SITECORE_APPSETTINGS_SXAXM:DEFINE: sxaxmonly
@@ -43,7 +62,7 @@ services:
       SITECORE_CONNECTIONSTRINGS_MASTER: Data Source=sql;Initial Catalog=Sitecore.Master;User ID=sa;Password=${SQL_SA_PASSWORD}
       SITECORE_CONNECTIONSTRINGS_WEB: Data Source=sql;Initial Catalog=Sitecore.Web;User ID=sa;Password=${SQL_SA_PASSWORD}
       SITECORE_CONNECTIONSTRINGS_EXPERIENCEFORMS: Data Source=sql;Initial Catalog=Sitecore.ExperienceForms;User ID=sa;Password=${SQL_SA_PASSWORD}
-      SITECORE_CONNECTIONSTRINGS_SOLR.SEARCH: http://solr:8983/solr
+      SITECORE_CONNECTIONSTRINGS_SOLR.SEARCH: http://sxa_styleguide_solr:8983/solr
       SITECORE_APPSETTINGS_TELERIK.ASYNCUPLOAD.CONFIGURATIONENCRYPTIONKEY: ${TELERIK_ENCRYPTION_KEY}
       SITECORE_APPSETTINGS_TELERIK.UPLOAD.CONFIGURATIONHASHKEY: ${TELERIK_ENCRYPTION_KEY}
       SITECORE_APPSETTINGS_TELERIK.WEB.UI.DIALOGPARAMETERSENCRYPTIONKEY: ${TELERIK_ENCRYPTION_KEY}
@@ -55,9 +74,12 @@ services:
         condition: service_healthy
       solr:
         condition: service_started
-    container_name: sxa.sc.local
-
-networks:
-  default:
-    external:
-      name: nat
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.middlewares.force-STS-Header.headers.forceSTSHeader=true"
+      - "traefik.http.middlewares.force-STS-Header.headers.stsSeconds=31536000"
+      - "traefik.http.routers.cm-secure.middlewares=force-STS-Header"
+      - "traefik.http.routers.cm-secure.entrypoints=web-secure"
+      - "traefik.http.routers.cm-secure.rule=Host(`${HOSTNAME}`)"                  
+      - "traefik.http.routers.cm-secure.tls=true"
+    container_name: sxa_styleguide_cm

@@ -9,11 +9,10 @@ It should not be considered as a demo environment for SXA or Sitecore in general
 
 
 ## Prerequisites
-The Styleguide is built to support **[Sitecore Experience Platform 9.3](https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/93/Sitecore_Experience_Platform_93_Initial_Release.aspx)** using **[Sitecore Experience Accelerator (SXA) 9.3](https://dev.sitecore.net/Downloads/Sitecore_Experience_Accelerator/9x/Sitecore_Experience_Accelerator_930.aspx)**.
+The Styleguide is built to support **[Sitecore Experience Platform 10](https://dev.sitecore.net/en/Downloads/Sitecore_Experience_Platform/100/Sitecore_Experience_Platform_100.aspx)** using **[Sitecore Experience Accelerator (SXA) 10.0](https://dev.sitecore.net/en/Downloads/Sitecore_Experience_Accelerator/10x/Sitecore_Experience_Accelerator_1000.aspx)**.
 
 ## Quickstart (recommended approach)
-You can install the styleguide on a Sitecore 9.3 instance with SXA 9.3 installed. Installation can be done using the package you can download from the [releases page](https://github.com/markvanaalst/SXA.Styleguide/releases).
-
+You can install the styleguide on a Sitecore 10 instance with SXA 10 installed. Installation can be done using the package you can download from the [releases page](https://github.com/markvanaalst/SXA.Styleguide/releases).
 
 ## Development: Running the Stylguide on Docker
 
@@ -22,52 +21,20 @@ You can install the styleguide on a Sitecore 9.3 instance with SXA 9.3 installed
 1. Windows 1809 or higher, but prefer version 1909  
 2. The latest Docker Desktop **[Docker Desktop](https://docs.docker.com/docker-for-windows/install/)** 
 3. From the Docker Desktop menu, you can toggle which daemon (Linux or Windows) the Docker CLI talks to. Select Switch to Windows containers to use `Windows containers`
-4. Pre-build [docker-images](https://github.com/Sitecore/docker-images/blob/master/README.md) local or taken from your own `ACR` 
+4. More information about running Sitecore on Docker can be found [here](https://containers.doc.sitecore.com/docs/intro)
 
 #### Starting the Styleguide
 
 1. Clone or copy the repository
-2. Open `SXA.Styleguide.sln` in Visual Studio 2019
-3. Build solution
-4. Make sure your license file is located under `C:\License\license.xml`
-5. Run `docker-compose up -d`
+2. Open a powershell console (in administrator mode) and run `.\Init.ps1 -LicenseXmlPath C:\PATH\TO\YOUR\License.xml`
 
-6. If your local IIS is listening on port 443, you'll need to stop it for now.
-    ```
-    iisreset /stop
-    ```
-
-7. Add host file entries for the following
-    ```
-    127.0.0.1 mvp-cd.sc.localhost
-    127.0.0.1 mvp-cm.sc.localhost
-    127.0.0.1 mvp-id.sc.localhost
-    127.0.0.1 mvp.sc.localhost
-    ```
-
-8. Create a wildcard cert for the solution. Run this PowerShell script from the solution root:
-    ```ps1
-    Push-Location docker\traefik\certs
-    mkcert "*.sc.localhost"
-    Pop-Location
-    ```
-
-9. Browse to [https://sxa.sc.local/sitecore](https://sxa.sc.local/sitecore) and log in user the admin user
-10. Open [https://sxa.sc.local/unicorn.aspx](https://sxa.sc.local/unicorn.aspx) and run the Unicorn sync
-
-> You could also use the [whales-names NPM module](https://www.npmjs.com/package/whales-names) to sync the container with your local hosts file which enables you to browser the site by the container name (defaults to dev.sc.local/styleguide)
-
-## Development: Installing local develop environment
-
-1. Clone or copy the repository
-2. Open `SXA.Styleguide.sln` in Visual Studio 2019
-3. Set local publish target
-   1. Remove .example from the filename `build\props\Website.Publishing.props.user.example`
-   2. Set PublishRootDirectory variable in the file to path your local Sitecore instance
-4. Change Unicorn serialization folder location
-   1. Open `src\Project\Website\website\App_Config\Include\Project\Styleguide.Project.Website\Styleguide.Project.Website.config`
-   2. Change `serializationFolder` to your local folder e.g. `C:\inetpub\wwwroot\INSTANCENAME\App_Data\Unicorn\sxa-styleguide`
-5. Rebuild solution
+The script will
+- Retrieve and import SitecoreDockerTools module
+- Populate the environment file
+- Configure TLS/HTTPS certificates
+- Add Windows hosts file entries
+- Run the docker containers
+- Login to Sitecore and push serialized items
 
 ## Acknowledgements
 

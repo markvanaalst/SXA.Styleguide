@@ -143,3 +143,8 @@ dotnet sitecore ser push
 if ($LASTEXITCODE -ne 0) {
     Write-Error "Serialization push failed, see errors above."
 }
+
+dotnet sitecore publish
+if ($LASTEXITCODE -ne 0) {
+    Write-Error "Publishing failed, see errors above."
+}

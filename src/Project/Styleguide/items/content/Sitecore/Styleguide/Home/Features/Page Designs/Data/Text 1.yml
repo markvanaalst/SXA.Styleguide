@@ -1,0 +1,44 @@
+﻿---
+ID: "7541550d-674d-4585-9eb1-c105805aa133"
+Parent: "bf866706-f668-4731-95af-dc6ffea07e83"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Page Designs/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T112030Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "82da09f4-c8e7-4059-9402-8a96784de0fa"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Designs map your content types to your page layouts</h2>
+        <div class="row">
+        <div class="col-md-3">
+        Define your content types in the standard Sitecore way. This initial information architecture work is critical to the success of any website.
+        </div>
+        <div class="col-md-6"><img height="150" alt="designs-mappings" width="600" _languageinserted="true" src="-/media/6AA9F8314C7A4013B8909B61366E4859.ashx" /><br /></div>
+        <div class="col-md-3">
+        Using SXA, you then map these content types to Page Designs - providing them with layout.
+        </div>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194632Z

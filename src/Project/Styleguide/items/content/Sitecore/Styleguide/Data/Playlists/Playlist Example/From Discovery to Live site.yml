@@ -1,0 +1,49 @@
+﻿---
+ID: "eb9cd501-b182-4d79-ba9f-b294b6ec9937"
+Parent: "edd70c90-7f76-4ad0-9833-fa6a6c539764"
+Template: "75746d59-692e-47db-a87c-b5d4b756a1ee"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Playlists/Playlist Example/From Discovery to Live site
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22379a66-606e-4205-abee-f9ac597084dd"
+      Hint: PosterImage
+      Value: |
+        <image mediaid="{36D5996F-A1C2-4D18-A468-0DE64266FE26}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191217T084041Z
+    - ID: "4e3a41dd-afb7-4763-ba20-ff27e0beeddf"
+      Hint: MovieThumbnail
+      Value: |
+        <image mediaid="{36D5996F-A1C2-4D18-A468-0DE64266FE26}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48b10a19-7703-4b06-91b5-245710216551"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "c4a0614e-5a4a-4ecf-b49b-b0d82e5eee7e"
+      Hint: MovieCaption
+      Value: From Discovery to Live site
+    - ID: "c7abdb60-3f28-4d17-b457-2056710e384f"
+      Hint: YoutubeMovie
+      Value: _TcPDvEXl_0
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194550Z

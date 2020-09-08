@@ -1,0 +1,48 @@
+&.title-subtitle {
+    background: transparent !important;
+    
+    > .component-content {
+        border: 0;
+    }
+}
+
+/* Homepage promo */
+.cover-background &.title-subtitle {
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+    span.field-promotext2 p {
+        font-size: 2em;
+        @include respond-to(mobile-large) {
+            font-size: 1em;
+        }
+    }
+
+    @include respond-to(mobile-large) { 
+        margin-top: 10px;
+        margin-bottom: 5px;
+        span.field-promotext2 p { 
+            font-size: 1em;
+        }
+        h1 {
+            font-size: 1.2em;
+        }
+    }
+    @include respond-to(mobile) {
+        margin-top: 10px;
+        margin-bottom: 5px;
+        span.field-promotext2 p { 
+            font-size: 1em;
+        }
+        h1 {
+            font-size: 1.2em;
+        }
+    }
+}
+
+&.col-12.title-subtitle p {
+    font-size: 1.3em;
+    @include respond-to(mobile-large) { 
+        font-size: 1em;
+    }
+}

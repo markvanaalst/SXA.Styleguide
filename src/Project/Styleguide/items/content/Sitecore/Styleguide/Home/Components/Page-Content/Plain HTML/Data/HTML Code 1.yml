@@ -1,0 +1,36 @@
+﻿---
+ID: "740757ba-b781-44d6-8e2c-eb5a93389dbe"
+Parent: "69a81385-329f-406c-bde7-6bdfcc07dc8d"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/Sitecore/Styleguide/Home/Components/Page-Content/Plain HTML/Data/HTML Code 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <script type="text/javascript" src="https://host1.easypolls.net/ext/scripts/emPoll.js?p=5440e459e4b0e6fe7d54c4a8"></script><a class="OPP-powered-by" href="https://www.murvey.com" style="text-decoration:none;"><div style="font: 9px arial; color: gray;">survey solutions</div></a>
+        <noscript>JavaScript is disabled!</noscript>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T144036Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b643a2a4-d03d-490a-a93c-c0d7955060bd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194654Z

@@ -1,0 +1,45 @@
+﻿---
+ID: "d3dc9d03-ba4e-443c-a45e-7d2be1c0903a"
+Parent: "224739d6-4327-41bb-bb68-ec5f20ba2dff"
+Template: "b27059e6-1190-4273-92a0-d22af3c440b4"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Tabs/Example/Tabs
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 12
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T072408Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "70181515-2aab-4710-91f4-52a08151693e"
+      Hint: Heading
+      Value: |
+        <p><em class="fa fa-folder-o"></em> <strong>Tabs</strong></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d178b7b-79fc-4b6f-8944-d2dd0f73c063"
+    - ID: "99f62656-1f3e-4f98-9eac-a596fb174ba0"
+      Hint: Content
+      Value: Integer luctus ante eu metus posuere, quis tincidunt tellus malesuada. Vestibulum pulvinar nisi metus, a congue turpis tempus sed. Vestibulum sagittis odio tortor. Pellentesque gravida lacus at lorem tristique suscipit. Nullam congue lorem lectus, ac euismod nisi maximus in. Aenean lectus lorem, pretium eget leo nec, commodo condimentum est. Integer sed ligula quam. Proin ut aliquam justo. Curabitur mollis porttitor nisl, fringilla rhoncus nunc pellentesque vel. Mauris posuere tortor ac mauris blandit.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194554Z

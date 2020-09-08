@@ -1,0 +1,35 @@
+﻿---
+ID: "33a44e7a-6da8-4d84-b4f2-e6518bb47bcd"
+Parent: "3621f1a1-6b6f-4658-ad80-3255cb731b7c"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Link Lists/SXA Buttons/Regular SXA JS Docs
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191217T145721Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a730f6d-33eb-40de-9a75-62dc343de985"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194550Z
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link linktype="external" text="Regular SXA JS Docs" class="button-warning" url="https://doc.sitecore.com/developers/sxa/93/components-theme-jsdoc/en/index.html" anchor="" target="" />

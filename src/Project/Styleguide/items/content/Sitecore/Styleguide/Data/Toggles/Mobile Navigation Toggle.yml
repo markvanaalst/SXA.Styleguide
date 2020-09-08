@@ -1,0 +1,35 @@
+﻿---
+ID: "9473b8ea-a9b4-46b3-ae9e-ab8972c2a638"
+Parent: "18ef6a4c-54a7-4111-8c2a-a7eac2d50e0f"
+Template: "a2cb73c7-0054-4461-aab8-0969fdd2e094"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Toggles/Mobile Navigation Toggle
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190412T132942Z
+    - ID: "2d36cf85-84be-42d2-b710-8d13b8844cdd"
+      Hint: Text
+      Value: |
+        <a href="~/link.aspx?_id=2497D56C9047432C9887C6E80F7D956F&amp;_z=z"><img alt="Styleguide" src="-/media/A93F1264C7F9450CBEF48ED91D617873.ashx?h=48&amp;w=221" style="height: 48px; width: 221px;" /></a>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "467d410e-e828-4eec-b0b8-48965a2122b1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194533Z

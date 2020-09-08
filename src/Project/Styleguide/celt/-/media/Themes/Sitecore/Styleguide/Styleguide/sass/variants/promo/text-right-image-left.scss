@@ -1,0 +1,26 @@
+&.text-image {
+    background: transparent !important;
+    
+    > .component-content {
+        border: 0;
+
+        div.text {
+            width: 65%;
+            h2 {
+                font-weight: 400;
+            }
+        }
+    }
+}
+&.text-image.image-right {
+    .field-promoicon {
+        margin-right: 40px;
+        width: auto;
+    }
+}
+&.text-image.image-left {
+    .field-promoicon {
+        margin-right: 40px;
+        width: auto;
+    }
+}

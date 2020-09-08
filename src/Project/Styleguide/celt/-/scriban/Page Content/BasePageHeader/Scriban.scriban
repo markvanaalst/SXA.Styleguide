@@ -1,0 +1,9 @@
+{{ if i_item.template_name == 'Site Section' }}
+    <div class="page-hero-container image-background" style="background: url( {{ i_item.HeroBackground.media_url }} )">
+{{ else }}
+    <div class="page-hero-container static-background">
+{{ end }}
+    <div class="page-hero-text-container boxed">
+        {{ sc_placeholder "page-hero" }}
+    </div>
+</div>

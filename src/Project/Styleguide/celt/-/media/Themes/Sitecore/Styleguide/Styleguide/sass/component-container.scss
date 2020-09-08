@@ -1,0 +1,21 @@
+@import "styles/container/*";
+@import "abstracts/mixins";
+@import "abstracts/vars";
+.container {
+    padding: 0;
+	.component-content {
+        @include clearfix();
+    }
+    &.indent-top {
+        margin-top: 40px;
+    }
+    &.indent-bottom {
+        margin-bottom: 40px;
+    }
+    &.disable-equalized-content {
+        > .component-content > .row {
+            align-items: flex-start;
+            display: flex;
+        }
+    }
+}

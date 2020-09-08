@@ -1,0 +1,42 @@
+﻿---
+ID: "cd1f1d45-80a7-43e5-b45b-c1106646b548"
+Parent: "4a72e2cd-3df8-4b64-8d00-e5502cfc84f7"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Flips/Fast/Front
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T103836Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23d97b6c-92b9-4604-9f21-aa6fe5742b96"
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <div style="text-align: center;">
+        <span class="fa-stack fa-2x"> <em class="fa fa-square-o fa-stack-2x"></em> <em class="fa fa-database fa-stack-1x"></em> </span>
+        </div>
+        <h2 style="text-align: center;">Assets Optimizer</h2>
+        <p style="text-align: center;">All the scripts and styles from a theme are optimized into a single files to reduce the number of assets sent to the browser.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194548Z
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

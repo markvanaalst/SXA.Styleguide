@@ -1,0 +1,35 @@
+﻿---
+ID: "f62f66b2-9ac8-4cd6-b1d8-bf3a92e4fd03"
+Parent: "23655bec-712b-4f56-b5bf-af95f9180b2b"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Navigation/Link/Data/Text 20
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191217T144008Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bad0ed0f-7da2-4439-a005-186b194fc33d"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        You can even point to documents in your media library, but this is something we'd <br />recommend using the <a href="~/link.aspx?_id=A45C1323BA8C4437928CB80C4097DAFC&amp;_z=z">Media Link</a>&nbsp;or <a href="~/link.aspx?_id=41B9EBCF6A9E417CAF84BD28208CB42A&amp;_z=z">File List</a>&nbsp;components for.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194651Z

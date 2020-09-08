@@ -1,0 +1,52 @@
+﻿---
+ID: "7cdd6f95-80f4-480b-b4b2-9615b409bee9"
+Parent: "051b5ee3-4a62-460d-b239-aec6ca56add1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Icons/Components/twitter
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/6013F329B76C466E9C1CAF10D28D5A5E.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "cfbe20c5-a8bd-44cd-883d-b3c1f47f2411"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAj5JREFUeNrsWN1twjAQThADeISMABOQvPWlapigeALKAgW6AHSCtBO0VV/6FjoBMAEZgRF6V10kFBHb8TlJpfqTLAeU2He+7/4cBB4eHh4e/xlh1xvePn1FMMUwoou/D5+PN+/OFYDNBCx8diS4gGkDY1bzCu6zhv22le9SmObwf2KjwB6mZ/j4hSn8CKYchjB4Hfd6hXEHIyVLoWKrRgrQpnv6mcACO8bJnwyFv4YCxriOCQPFh/HFcw6CzCwF2DCFl2gJ2P+tqQLVTTNYZGXhsDMG+wRRL0MqN1XgGpboF0QvE6RM3y8PUdZReKAx3zX8+gYokdEJBw2saAOpCiIqBXROi9Q4kSJp0A6mugioC6N5xZlVwCiByeiIiYnGA9KOoYA2+g01CywaxG/BdFgrDBSnXyaRRY+ljrYKUFlgdGH+olK7dAKgz8HaApUoFPVw+gWLQuSQfWLHUoBqj22PCnxzLYBYUzjsA0YM0DY0VE3m5NSdCQ8MmLqwQEmlhKxx7kiBZ3YeqBZxMCYd0WnXpPcYGr53pLKgC6xbaeqpvRz9Fe7b9AOJaXJhlA3SWS1U48zjFhPc1OYGxOpeiDqye6JU7EB4aXvzYX2xRd1Y5kABybm2CS0FXzqq/SX3zimso0hZysJzTM3KhE7bRSQqiPPsvFKXB2JqJ0ULzopxfuvqyjLU1ECYvOYOFCn7ZbwidBqKQ0PeY3tZ3lWKBkJjSfBBCaqVOsrWiSNF9EFeFy747eHh4eHhocOPAAMA9Lm967zoSvoAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 668
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180405T083539Z
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Twitter logo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93e2365e-bb43-4267-b3d9-d8240f3dddb0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194432Z

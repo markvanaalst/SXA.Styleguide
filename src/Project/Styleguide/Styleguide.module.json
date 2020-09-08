@@ -1,0 +1,38 @@
+{
+    "namespace": "Project.Styleguide",
+    "items": {
+      "includes": [
+        {
+            "name": "templates",
+            "path": "/sitecore/templates/Project/Sitecore",
+            "scope": "DescendantsOnly"
+        },
+        {
+            "name": "forms",
+            "path": "/sitecore/Forms/Sitecore/Styleguide",
+            "scope": "itemAndDescendants"
+        },
+        {
+            "name": "media",
+            "path": "/sitecore/media library/Project/Sitecore/Styleguide",
+            "scope": "itemAndDescendants"
+        },
+        {
+            "name": "themes",
+            "path": "/sitecore/media library/Themes/Sitecore/Styleguide",
+            "scope": "itemAndDescendants"
+        },
+        {
+            "name": "settings-foundation",
+            "path": "/sitecore/system/Settings/Foundation/Sitecore/Styleguide",
+            "scope": "itemAndDescendants"
+        },
+        {
+            "name": "content",
+            "path": "/sitecore/content/Sitecore",
+            "scope": "itemAndDescendants"
+        }
+      ]
+    },
+    "references": ["Feature.*"]
+  }

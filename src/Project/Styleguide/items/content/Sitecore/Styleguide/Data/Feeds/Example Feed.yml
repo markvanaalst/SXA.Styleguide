@@ -1,0 +1,46 @@
+﻿---
+ID: "4a8bced8-ecab-49ae-b4c9-28eff2b69fe4"
+Parent: "2cf0f7f7-ff47-4d66-ad74-4c19aacb1c08"
+Template: "b7f764a3-ad45-4666-a169-0c5a836d8ae2"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Feeds/Example Feed
+SharedFields:
+- ID: "ce0fae5a-7e2c-48be-aa15-12f0d55c582f"
+  Hint: ItemsNumber
+  Value: 10
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200203T103946Z
+    - ID: "2d52a3f9-29c6-4ac1-a0a4-5693acb3db48"
+      Hint: FeedUrl
+      Value: |
+        <link linktype="external" text="Sitecore Documentation" url="https://doc.sitecore.com/developers-rss-feed.xml" anchor="" target="" />
+    - ID: "383e3e76-5688-4138-942b-4f9f6749056c"
+      Hint: ReadMoreLink
+      Value: |
+        <link linktype="external" text="Sitecore Documentation" url="https://doc.sitecore.com" anchor="" target="_blank" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9d91d73-73b3-4c69-9b73-f99391fb46da"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194528Z
+    - ID: "fefb37df-0883-4714-b7fc-607b5ada8908"
+      Hint: Title
+      Value: Sitecore Documentation

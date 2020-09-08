@@ -1,0 +1,66 @@
+﻿---
+ID: "b7542d99-efe1-4cd1-9596-24de93a3c029"
+Parent: "f6fed4ca-7c8a-4b6f-9d4f-1a492b32f734"
+Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Rendering Variants/Scriban
+SharedFields:
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{5DC09687-FAA5-4746-A7DA-635F433404C2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6521422C-7CBC-4043-8AB6-62C1325BB33D}"
+              p:before="*"
+              s:ds="local:/Data/Text 1"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=1&amp;Reset Caching Options"
+              s:ph="/main/sxa-page-body/container-1" />
+            <r
+              uid="{FE3C0199-934A-4BAF-A24C-2CCA1A28C73B}"
+              p:after="r[@uid='{6521422C-7CBC-4043-8AB6-62C1325BB33D}']"
+              s:ds="local:/Data/Example Scriban Promo"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7bC8D99217-FE05-478D-961F-8632A239B396%7d&amp;FieldNames=%7bD75A7202-2CBC-40DD-8839-8BE11FF7790B%7d&amp;DynamicPlaceholderId=3&amp;Reset Caching Options"
+              s:ph="/main/sxa-page-body/container-1" />
+            <r
+              uid="{99213150-65AD-4106-A758-0D794654C7E3}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Example Scriban Promo"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7bC8D99217-FE05-478D-961F-8632A239B396%7d%7c%7bB7763EC7-8E04-4A2C-917B-49BCBA67992B%7d&amp;FieldNames&amp;DynamicPlaceholderId=4&amp;Reset Caching Options"
+              s:ph="/main/sxa-page-body/container-1" />
+          </d>
+        </r>
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Scriban
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191015T142206Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Scriban
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "200ed4d5-aa8d-4f91-8574-0f5d652e2ff2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194600Z
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: A fast, powerful, safe and lightweight text templating language and engine for .NET

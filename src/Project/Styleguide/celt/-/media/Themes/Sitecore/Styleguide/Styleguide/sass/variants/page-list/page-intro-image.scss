@@ -1,0 +1,32 @@
+&.page-intro-image {
+
+    li.item {
+        &:nth-child(odd) img {
+            float: left;
+            margin: 10px 15px 15px 0px;
+        }
+          
+        &:nth-child(even) img {
+            float: right;
+            margin: 10px 0px 15px 15px;
+        }
+        .col {
+            padding-left: 0px;
+            padding-right: 0px;
+            display: block;
+        }
+        .field-content {
+            padding-top: 10px;
+        }
+    }
+    
+    
+    h2 {
+        margin: 10px 0px;
+        
+        &.field-title a {
+            border-bottom: 0px;
+        }
+    }
+
+}

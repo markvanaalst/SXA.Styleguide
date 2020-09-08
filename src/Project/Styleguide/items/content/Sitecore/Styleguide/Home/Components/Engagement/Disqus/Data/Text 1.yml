@@ -1,0 +1,34 @@
+﻿---
+ID: "7ad0fb5e-2441-44a8-bd7d-10806d220b24"
+Parent: "bbe06ff7-b224-4687-9a0d-7846f6aa2073"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Engagement/Disqus/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170416T054336Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77feeb7c-fae1-4ed3-bc03-726d7c59292e"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "Disqus is one of the most popular blog commenting service for websites and online communities that uses a networked platform. Disqus component is used for displaying comments. The Disqus comments component lets people comment on content on your site using their Social network profiles and shows this activity to their friends in news feed. It also contains built-in moderation tools and special social relevance ranking."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194645Z

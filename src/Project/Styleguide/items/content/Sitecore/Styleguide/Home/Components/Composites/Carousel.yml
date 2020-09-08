@@ -1,0 +1,162 @@
+﻿---
+ID: "39f2ce17-f974-4174-8ccc-d2c3ae75e99f"
+Parent: "8a28d18b-e5c1-4365-b376-4dedad3c2643"
+Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Composites/Carousel
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{D7FA3E59-F919-4EC0-AFAB-0A61CD553765}|{AF6BC2BD-E522-4402-9308-E6501BD192B6}"
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{655EE77B-F3A7-4C2F-80AE-F8E12A4C43C4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7739F08F-35FA-449A-856A-16DF3160EA0B}"
+              p:before="*"
+              s:ds="local:/Data/Hero"
+              s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles=%7B1E02B843-29E7-4DFD-A4FE-2787A126A418%7D%7C%7B292F6AFC-B68E-47B4-8ABC-E2FB0970F0CB%7D&amp;Navigation=%7BED3CC49D-B9DD-4956-882A-1E23EDF52509%7D&amp;Transition=%7BB0EFE255-B28D-452F-9C89-791D6C014D18%7D&amp;Timeout=2000&amp;PauseOnHover=1&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-page-body/container-1" />
+            <r
+              uid="{6A9C250E-5FB9-45E3-932C-7069F63C8FC8}"
+              p:after="r[@uid='{7739F08F-35FA-449A-856A-16DF3160EA0B}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=15"
+              s:ph="/main/sxa-page-body/container-1" />
+            <r
+              uid="{3668E2F8-324B-4407-B68C-F892CB91A513}"
+              p:after="r[@uid='{6A9C250E-5FB9-45E3-932C-7069F63C8FC8}']"
+              s:ds="{418D89F5-58DA-44AF-B4C8-2A27C4A91F27}"
+              s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
+              s:par="Navigation&amp;Transition=%7BC33D1C03-14B9-4683-835E-8E517A18CC41%7D&amp;Timeout=2000&amp;PauseOnHover=1&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
+              s:ph="/main/sxa-page-body/container-1/container-15/column-2-5" />
+            <r
+              uid="{D1CCF8FE-2EB9-4DEB-A0E8-D24E775DD9B9}"
+              p:after="r[@uid='{3668E2F8-324B-4407-B68C-F892CB91A513}']"
+              s:ds="{418D89F5-58DA-44AF-B4C8-2A27C4A91F27}"
+              s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
+              s:par="Navigation&amp;Transition=%7BD4B706CC-7EEC-4DB9-A87D-123B29803490%7D&amp;Timeout=2000&amp;PauseOnHover=1&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=9"
+              s:ph="/main/sxa-page-body/container-1/container-15/column-2-5" />
+            <r
+              uid="{7E3C9B51-62FF-43C7-96A2-678ADC3CBAE9}"
+              p:after="r[@uid='{D1CCF8FE-2EB9-4DEB-A0E8-D24E775DD9B9}']"
+              s:ds="{418D89F5-58DA-44AF-B4C8-2A27C4A91F27}"
+              s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
+              s:par="Navigation=%7BF5A400A0-C183-4A46-892A-F4DE38A5ECDE%7D&amp;Transition=%7BD4B706CC-7EEC-4DB9-A87D-123B29803490%7D&amp;Timeout=2000&amp;PauseOnHover=1&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=11"
+              s:ph="/main/sxa-page-body/container-1/container-15/column-2-5" />
+            <r
+              uid="{0A4ED61E-179F-4CD4-AD29-2DCA275EE488}"
+              p:after="r[@uid='{7E3C9B51-62FF-43C7-96A2-678ADC3CBAE9}']"
+              s:ds="{418D89F5-58DA-44AF-B4C8-2A27C4A91F27}"
+              s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
+              s:par="Navigation=%7B9416AFE5-2A95-4AF4-AE13-7F6127B19B5E%7D&amp;Transition=%7BD4B706CC-7EEC-4DB9-A87D-123B29803490%7D&amp;Timeout=2000&amp;PauseOnHover=1&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles=%7BB6A04483-46CE-4A6F-8D15-24D221B69479%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=13"
+              s:ph="/main/sxa-page-body/container-1/container-15/column-2-5" />
+            <r
+              uid="{B83A2D77-F955-46ED-92DD-F31360B129C1}"
+              p:after="r[@uid='{0A4ED61E-179F-4CD4-AD29-2DCA275EE488}']"
+              s:ds="{418D89F5-58DA-44AF-B4C8-2A27C4A91F27}"
+              s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
+              s:par="Navigation&amp;Transition=%7BB0EFE255-B28D-452F-9C89-791D6C014D18%7D&amp;Timeout=2000&amp;PauseOnHover=1&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:ph="/main/sxa-page-body/container-1/container-15/column-1-5" />
+            <r
+              uid="{CB3C9ABE-043C-4CD8-80CB-D51D005FFF91}"
+              p:after="r[@uid='{B83A2D77-F955-46ED-92DD-F31360B129C1}']"
+              s:ds="{418D89F5-58DA-44AF-B4C8-2A27C4A91F27}"
+              s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
+              s:par="Navigation&amp;Transition=%7B4CFE4B85-4FFE-4693-B5E1-0DBBD1B90660%7D&amp;Timeout=2000&amp;PauseOnHover=1&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
+              s:ph="/main/sxa-page-body/container-1/container-15/column-1-5" />
+            <r
+              uid="{C1CFB4FB-F62E-435D-B6AF-09CE25E47B8F}"
+              p:after="r[@uid='{CB3C9ABE-043C-4CD8-80CB-D51D005FFF91}']"
+              s:ds="{418D89F5-58DA-44AF-B4C8-2A27C4A91F27}"
+              s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
+              s:par="Navigation=%7B848DFE42-2B13-430E-A0B9-89CE25730A06%7D&amp;Transition=%7BD4B706CC-7EEC-4DB9-A87D-123B29803490%7D&amp;Timeout=2000&amp;PauseOnHover=1&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=10"
+              s:ph="/main/sxa-page-body/container-1/container-15/column-1-5" />
+            <r
+              uid="{A363B0AC-26E4-444C-809A-2CD8FAEED0C9}"
+              p:after="r[@uid='{C1CFB4FB-F62E-435D-B6AF-09CE25E47B8F}']"
+              s:ds="{418D89F5-58DA-44AF-B4C8-2A27C4A91F27}"
+              s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
+              s:par="Navigation=%7B525AD16D-7E59-44A3-8024-9422DC149C5F%7D&amp;Transition=%7BD4B706CC-7EEC-4DB9-A87D-123B29803490%7D&amp;Timeout=2000&amp;PauseOnHover=1&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=12"
+              s:ph="/main/sxa-page-body/container-1/container-15/column-1-5" />
+            <r
+              uid="{597F06AF-7F1F-401A-838A-7FC8F3FE9576}"
+              p:after="r[@uid='{A363B0AC-26E4-444C-809A-2CD8FAEED0C9}']"
+              s:ds="local:/Data/Text 5"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B25CDBEA1-53EE-4470-89BF-EE8176260635%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-listing-with-sidebar-right/container-1/container-4" />
+            <r
+              uid="{809F1927-D802-48DB-A461-76DAA90B8558}"
+              p:after="r[@uid='{597F06AF-7F1F-401A-838A-7FC8F3FE9576}']"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="ColumnWidth1=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth2=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=5"
+              s:ph="/main/sxa-page-body/container-1/container-15" />
+            <r
+              uid="{C7AD0E37-64D0-448A-951E-828172949EEF}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Text 6"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=14"
+              s:ph="/main/sxa-listing-with-sidebar-right/container-1/container-4" />
+          </d>
+        </r>
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Carousel
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T090802Z
+    - ID: "35381ea8-84f8-4509-8495-2ac4e3acc4ad"
+      Hint: Full Article
+      Value: |
+        <p>Carousel slides are created as separate items in the CMS, and can be managed independently of the page where this component appears. A set of slides created for one carousel can be easily reused in another component, potentially presenting it in a different way. Rich configuration options allow you to define slide layout, navigation type, slide transition effect, etc.</p>
+        <h2>Full-width slider</h2>
+        <p>A carousel can be added anywhere on the site, though on many websites this component takes center stage acting as a teaser, presenting and linking to your featured content, be it the latest news, upcoming events, new products - basically anything important to your business and marketing goals.</p>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Carousel
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{3D5C4831-5FAA-46F7-95C7-0EC9DC65EFCA}" ></image>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "59898567-e252-49c1-9014-2b24ae2c8db1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d5664c58-950f-468d-9752-6e5558c5bc1f"
+      Hint: Component Features
+      Value: |
+        <ul>
+        <li>Create multiple slides with images, text and links</li>
+        <li>Choose from a number default slide transitions or define new ones</li>
+        <li>Select from five different navigation types</li>
+        <li>Control slide display time</li>
+        <li>Make slides pause when user hovers over them</li>
+        </ul>
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194555Z
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: "<p>The Carousel component allows you to define a set of rotating slides - usually images - accompanied by descriptions and links. Most commonly seen at the top of homepages, this component has a wide range of applications and can be placed on any page. For example, you can use a Carousel to display a number of featured pages, link to top stories, show client logos, testimonials or pictures. Those items will appear one at a time in a defined order.</p>"

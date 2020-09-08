@@ -1,0 +1,51 @@
+﻿---
+ID: "cddec625-3b33-4ed1-a1ca-f5fd32fb79b0"
+Parent: "74a5eedc-aa35-4257-9c6a-415bdbe50747"
+Template: "c7109945-bd76-4b3d-b09b-db80cbf515c0"
+Path: /sitecore/content/Sitecore/Styleguide/Settings/Creative Exchange Storages/Zip file
+SharedFields:
+- ID: "15d142e5-e484-458d-8a66-317baafee28f"
+  Hint: ImportType
+  Value: Sitecore.XA.Feature.CreativeExchange.Storage.Import.ZipImportStorage, Sitecore.XA.Feature.CreativeExchange
+- ID: "18ee0052-accd-42ad-8d80-d60cb88d9950"
+  Hint: Name
+  Value: Zip file
+- ID: "52e8de18-7f21-4036-a6da-2b6c71eea601"
+  Hint: ExportType
+  Value: Sitecore.XA.Feature.CreativeExchange.Storage.Export.ZipExportStorage, Sitecore.XA.Feature.CreativeExchange
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D6FA3049-D3F8-4E60-97A2-41510818C6A4}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Zip file
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190408T214317Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0a2c23f-fd46-4ee2-8a8f-b863bc19e6fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194546Z

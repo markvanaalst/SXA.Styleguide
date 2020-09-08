@@ -1,0 +1,45 @@
+﻿---
+ID: "826551ec-3e3c-4ad5-b5f0-c01f40b317b0"
+Parent: "d7638ac0-0002-4424-be8c-d924027bcc51"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Promos/Resources/Unofficial Sitecore SXA tutorials on YouTube
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: "Short, unofficial, ad-hoc, Sitecore SXA tutorials"
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{AA412AC2-2CCB-42B7-8166-5A492F65B5B3}" alt="" height="154" width="150" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200227T160822Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ffba84a-e895-4b6a-9539-9e8a3f10f462"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: This YouTube channel is maintained and contributed to by Sitecore Experience Accelerator enthusiasts. We're passionate about the product and want you to learn all about it so you can make the most of it and benefit your customers, partners, colleagues. We hope you enjoy watching our videos as much as we enjoyed recording them.
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link linktype="external" text="Go to channel" url="https://www.youtube.com/channel/UCn_P819AlbNv_maQCqrKp4g" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194552Z

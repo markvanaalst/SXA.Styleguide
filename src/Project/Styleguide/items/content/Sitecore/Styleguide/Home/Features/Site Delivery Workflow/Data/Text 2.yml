@@ -1,0 +1,36 @@
+﻿---
+ID: "b15c7e3e-9314-400f-9023-22422106e784"
+Parent: "6d8ecbdb-5fc9-43d2-bd11-c143bf4ae722"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Site Delivery Workflow/Data/Text 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190515T123233Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f26f787b-4674-419b-9379-710ab81cf8ad"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Wireframe your site... while delivering your site!</h2>
+        <p>You no longer need to go outside the CMS to deliver your wireframes. Using our wireframe theme, you can design these directly within the site you are working on. As a UX designer, you can be editing the page layout in such a way that will not get thrown out the moment you're done with it, but rather, is immediately usable to your content authors. So you can be fine tuning your header while at the same time your content authors are already adding articles to the site - because you've already designed that part. This is because the presentation is separated from content and managed on its own, using Partial Designs where the UX users can work independently from other team members.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194626Z

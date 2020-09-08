@@ -1,0 +1,38 @@
+﻿---
+ID: "be251909-59ea-4a74-bcfc-79b02a363a89"
+Parent: "6d8ecbdb-5fc9-43d2-bd11-c143bf4ae722"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Site Delivery Workflow/Data/Text 5
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190515T124230Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc11e72c-8ba2-4efa-8f7f-40c7df3a6d9b"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Meanwhile at the Back End...</h2>
+        <p>While we aim at solving most of your common needs, there still will be work for your developers. You need your Data Templates setup (don't worry if you don't know what it means - your developers do), you need your site deployed and maybe caches tweaked.</p>
+        <p>Are there any integrations with your back-end systems, or is it missing any components? No worries - they can do it all in the peace and quiet of their basement, while your site layout is being put together by the designers and your message is being delivered by the editors...</p>
+        <p>SXA comes with documentation and best practices for your developers, so that all they do is of the same excellent quality as the platform they are building upon.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194626Z

@@ -1,0 +1,73 @@
+﻿---
+ID: "fa7c97c7-618f-4dc5-b42a-906868c84ae2"
+Parent: "35b0b1ee-ad3f-4ca9-8d46-0669f7b7d0e9"
+Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Engagement/Disqus
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{AF6BC2BD-E522-4402-9308-E6501BD192B6}|{E71E5AB9-9D7C-479A-BE5B-0FCE00390E1F}"
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{BBE06FF7-B224-4687-9A0D-7846F6AA2073}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{2AB5282B-31A3-40CD-B688-D488D5A239C1}"
+              p:before="*"
+              s:id="{ACDA272A-F7B6-42A5-9FDF-C6323FB160E8}"
+              s:par="disqus_shortname&amp;disqus_category_id&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;disqus_url&amp;disqus_identifier&amp;disqus_title&amp;RenderingIdentifier"
+              s:ph="/main/sxa-listing-with-sidebar-right/container-1/container-4" />
+            <r
+              uid="{D114A1B8-78DE-4E32-BB53-A36382AFB658}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Text 1"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-listing-with-sidebar-right/container-1/container-4" />
+          </d>
+        </r>
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Disqus
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T091326Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Disqus
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{D24742E9-BC08-480F-8FCC-AE29AD15B012}" ></image>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4bfdc47-b0f2-4d90-b939-85d2729ccdff"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d5664c58-950f-468d-9752-6e5558c5bc1f"
+      Hint: Component Features
+      Value: |
+        <ul>
+            <li>Possibility to read and post comments hosted on Disqus.</li>
+            <li>Easy configuration in the component properties.</li>
+            <li>Ability to login with various social network accounts.</li>
+        </ul>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194556Z
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: "There is a variety of comment systems out there and we give you the possibility to integrate two of them out-of-the-box. All you need to do is to decide which one you would like to use on your page and setup all the required properties. It only takes seconds to allow your customers to comment on your content. Just make sure you have your moderators on duty!"

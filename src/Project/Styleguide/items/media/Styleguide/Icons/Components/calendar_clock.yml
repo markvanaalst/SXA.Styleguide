@@ -1,0 +1,56 @@
+﻿---
+ID: "9b4796ab-84ae-4b11-8a62-1c31f146ab43"
+Parent: "051b5ee3-4a62-460d-b239-aec6ca56add1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Icons/Components/calendar_clock
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/466296B03F8A44EBAAD381746A083DEC.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "034fc125-bb48-4ea0-868b-2159f262b015"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAmVBMVEUAAACAgICAgIBOgbeKioqAgICAgICAgICAgIB/f3+AgICAgICBgYF8jpyAgICAgICAgICAgICAgICAgIB+hYyCgoJNgrhNg7lRhrtNgriAgIBLgLdNgbdMgbl/f3+EhIRJhrZNgriAgIBLgLlNgrhNg7hNgrhOgreAgIBNgrdOgrhNgbd/f3+AgIBNgrhNhLdNgLiAgIBNgrhz/t3pAAAAMXRSTlMAgPCADPbYXoz+y5JEBqupl3BkMhkSwlAQ5eAmkFomHwr5vy/wz7CrootsY1TAszwyKTjehwAAAc1JREFUSMfVlNlyozAQRS9YNmBMvMWAjeMt22SZpfv/P2561GJiqxisl6lKzgOiJA70IoEvxWoxHQ2z4Wi6WCGA29mQWoazW1wjiemcOEE/KQnj+dLALOdjEtKrz48maJmMrhiJrN+YeruFw9zITPLvfGN5HvWa+RdaxIgvM0+iaCfDLnrHTOIxwA/mEi1Gopr5UWxk3FCyknr+ib85Mt/ZxaaRPKS65/2ISJCRMrOQ+ti5F+b1Aahfjo8FILVadAljTInmEGwWz9Xbmu2X5kTTLuEbJNqlTr6xo7wHlpIZlGL78CGkkBSMLlRsWdtMjCQBZcv8IUTI5EYZ2OefD7AQZVAemPu+UAHeF2Sy1rI22LgclCdZeoLicnDCq23coTzsEq2SoxpUcLgqOeH4WgP3pS2H9sHjog98wZ122kM73SmUbi8pnXuJL/mpu1Xxdmun8FjoeYDQfR4GHk3giQs/09rjDblmF3n83vvXcAK1Qi5DVPj/pR4htuFMvD+fJ5zfnE6nPfb0/SyKHsGbTKM0UNj/jbNfcFXSyoQKOSl5qODenxdBgl73UIKFyBIuOP6DIGHoNTCk4KWYeog7hJx6yOGheyGzkIe279PzG0N3e3b6m4NiAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 744
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133039Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Event icon
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c699e2d3-82c5-40eb-ba83-9286af11f2ee"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194431Z

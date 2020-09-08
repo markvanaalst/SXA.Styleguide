@@ -1,0 +1,40 @@
+﻿---
+ID: "e38e1f14-2ee4-4daa-87d8-6953a4f7d1e0"
+Parent: "b630d63d-0aa3-4ac6-b430-52fd545bd84d"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Sitecore/Styleguide/Home/Components/Page-Content/Page Content/Data/Text 3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T113346Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17639c83-7bcd-4ba5-a92a-137ebf658d8e"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Simple</h2>
+        <p>We try hard to make our components as simple as possible for you and your authors.</p>
+        <p>Do not expect your authors to know each and every field which can be added to the page. Thanks to <a href="~/link.aspx?_id=065DCE2FB46C47D09661248220F9F49C&amp;_z=z"></a><a href="~/link.aspx?_id=F6FED4CA7C8A4B6F9D4F1A492B32F734&amp;_z=z">rendering variants</a> they can choose from a set of allowed fields, saving them from the frustration and risk of mistake.</p>
+        <p>&nbsp;</p>
+        <p>Awesome Turkey approved!</p>
+        <p>&nbsp;</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194659Z

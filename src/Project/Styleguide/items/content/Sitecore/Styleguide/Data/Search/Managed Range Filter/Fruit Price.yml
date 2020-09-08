@@ -1,0 +1,47 @@
+﻿---
+ID: "891e2ab7-24ac-4850-9706-961db37a350d"
+Parent: "eb2604ef-b073-457d-93b5-d49f77530458"
+Template: "b3c7d7ef-474b-4447-a138-7894632ce199"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Search/Managed Range Filter/Fruit Price
+SharedFields:
+- ID: "42c9489b-01b9-4533-9cac-1a84a4b4ab65"
+  Hint: Facet
+  Value: "{A997FB50-0DC7-46E6-AAD3-923AFFE8C629}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d2ad3b3-aff3-4eb3-b186-efe2ee02de2e"
+      Hint: GoButtonLabel
+      Value: Filter
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170420T201529Z
+    - ID: "3020ef4a-7b7f-4ed3-a220-2d78cf210974"
+      Hint: ToLabel
+      Value: To
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8c61c2d2-3b16-4e39-831d-9e45abb9454c"
+      Hint: FromLabel
+      Value: From
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78dcb666-2be6-4c13-9a22-551ea56857d5"
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: Price
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194553Z

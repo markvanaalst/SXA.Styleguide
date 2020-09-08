@@ -1,0 +1,29 @@
+﻿---
+ID: "542fef71-1ba8-409a-aa12-ebc6fdc9f7a0"
+Parent: "a3271e0e-3a17-45b4-9ab0-3dd3a50d5a66"
+Template: "5a8f41ee-4cea-45a1-a882-a18f26475aa4"
+Path: "/sitecore/content/Sitecore/Styleguide/Home/Components/Page-Structure"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Page Structure
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T092020Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Page Structure
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44f05b15-8566-4cd6-a572-21e600f1c006"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194534Z

@@ -1,0 +1,38 @@
+﻿---
+ID: "c10e755f-84ee-4ac2-b942-f590f497ad01"
+Parent: "6d8ecbdb-5fc9-43d2-bd11-c143bf4ae722"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Site Delivery Workflow/Data/Text 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190515T124008Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a223b8df-1f42-426b-a803-bc012029eee7"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>While your editors...</h2>
+        <p>For a great deal of content, you can begin the process of authoring before you even have any layouts produced. In Sitecore, much of the core content of the site (such as articles or products etc.) will be produced using an Article template. Authors can be entering the core article content via the Sitecore Content Editor or a temporary wireframe layout in the Experience Editor. As long as they have access to the core fields (such as main, the body-text and images), these can be placed or moved later by the UX designer using SXA.</p>
+        <p>This is possible because layouts for core content are managed using Partial Designs. So while the content editors are working, this partial design can be altered without affecting their work. Or, it can be completely replaced with a new one later, by simply switching to a different partial in a Design.</p>
+        <p>For large operations, put some thought into the experience of your authors as the website is developing. We can provide consultancy on how best to use SXA in parallel production scenarios - there are many different way that SXA can facilitate your needs. </p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194626Z

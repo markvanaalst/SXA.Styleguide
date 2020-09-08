@@ -1,0 +1,46 @@
+﻿---
+ID: "c6bf7504-4fd4-48a2-801a-bcb85e1e0d7c"
+Parent: "347bf88c-965e-4721-a0dc-e70a2749ea1f"
+Template: "a6ddac75-7d24-4bdb-b3f6-5f47fbb21379"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Composites/Accordion/Data/Custom/Ahead
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/note_text.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T061955Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5a236869-e375-49c0-a92d-0c2f1db7788f"
+      Hint: Content
+      Value: |
+        One more time!<br />
+        Proin eget urna at arcu molestie porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer vitae tristique ligula. Nullam posuere, neque eget dictum vestibulum, sem mauris convallis lorem, sit amet ornare justo enim et ligula. Quisque a ultricies metus. Nunc dictum sit amet odio vel varius. Proin finibus, nibh vitae venenatis ullamcorper, dolor purus facilisis massa, quis malesuada massa sem et felis. Aenean imperdiet pulvinar tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam nec suscipit magna. Suspendisse dapibus arcu vitae quam euismod aliquet. Fusce in eros ligula.<br />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
+      Hint: Heading
+      Value: Ahead
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "143e381d-08ac-48a8-827c-a4005018fd0a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194707Z

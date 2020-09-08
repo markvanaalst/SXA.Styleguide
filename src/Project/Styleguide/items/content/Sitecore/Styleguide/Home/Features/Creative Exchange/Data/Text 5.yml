@@ -1,0 +1,37 @@
+﻿---
+ID: "66cf46ae-cc22-4dca-a455-073ea18296b1"
+Parent: "fd646dbc-66d5-4a37-8450-5dfd673d3634"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Creative Exchange/Data/Text 5
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T085027Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58f2f04c-f08c-4984-862d-e860c2f0c206"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h3>Use the best tools for the job!</h3>
+        <br />
+        <p>Here at Sitecore, we believe we have built an excellent tool for collaborative site production on our platform. However, we also know that UI developers have their preferred tools for their work, and that's why we developed Creative Exchange as part of the SXA experience.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194628Z

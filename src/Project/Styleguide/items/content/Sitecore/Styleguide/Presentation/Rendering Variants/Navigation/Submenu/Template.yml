@@ -1,0 +1,45 @@
+﻿---
+ID: "8c716e0a-b1df-4e66-a0aa-4711c0904f85"
+Parent: "8fe95a1b-e08e-40b6-afd8-b0497cefb685"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Navigation/Submenu/Template
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    
+    
+    <a href="{{ i_item.url}}" class="navigation-title">
+    
+        {{ if ( i_item.Image.media_url != null ) }}
+        {{ sc_field i_item 'Image' [['h', '48'], ['w', '48'], ['data-purpose', 'Promo Icon']] }}
+        {{ end }}
+    
+        <div class="navigation-title position-center">{{ sc_field i_item ['NavigationTitle', 'Title', 'Name'] }}</div>
+    </a>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191213T102911Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f358e87a-46e1-4296-90c2-565c3ac548ef"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194638Z

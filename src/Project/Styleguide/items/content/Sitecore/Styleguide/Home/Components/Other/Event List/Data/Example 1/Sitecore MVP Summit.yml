@@ -1,0 +1,51 @@
+﻿---
+ID: "12e6c96a-03ed-4f42-8fa2-81abd798bd13"
+Parent: "0e77bbf1-bc39-4780-bb6a-ac229a2ebb56"
+Template: "62c2b7d0-1c34-4aa6-b3d3-5d612c0891bd"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Other/Event List/Data/Example 1/Sitecore MVP Summit
+SharedFields:
+- ID: "9e47d308-2e9c-413a-ac93-3c51c52e74d2"
+  Hint: EventStart
+  Value: 20191107T120000Z
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "c9999f64-a453-46a6-ae47-c423599986a7"
+  Hint: EventEnd
+  Value: 20191108T160000Z
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fb9f55d-2c43-49c2-a61d-df8552c88c20"
+      Hint: EventName
+      Value: Sitecore MVP Summit
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T132601Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "62bafe3f-b288-429a-928e-b6a516a198b6"
+      Hint: EventPlace
+      Value: Walt Disney World Swan and Dolphin Resort, Orlando, FL
+    - ID: "84bfa68d-1d6a-4187-86d4-d7ec6294d5f0"
+      Hint: EventLink
+      Value: |
+        <link text="MVP Summit" linktype="external" url="https://mvp.sitecore.com/summit" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8306e11f-c50d-4c91-9c80-b23c7f8408d2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194709Z

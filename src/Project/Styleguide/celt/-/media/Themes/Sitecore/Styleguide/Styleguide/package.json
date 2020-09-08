@@ -1,0 +1,107 @@
+{
+  "_from": "@sxa/Theme",
+  "_id": "@sxa/Theme@10.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-JAZ+2Sc9RJfHMlabhn1fj0g/F+Y=",
+  "_location": "/@sxa/Theme",
+  "_phantomChildren": {
+    "glob-watcher": "5.0.5",
+    "gulp-cli": "2.3.0",
+    "undertaker": "1.3.0",
+    "vinyl-fs": "3.0.3"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@sxa/Theme",
+    "name": "@sxa/Theme",
+    "escapedName": "@sxa%2fTheme",
+    "scope": "@sxa",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://sitecore.myget.org/F/sc-npm-packages/npm/@sxa/Theme/-/@sxa/Theme-10.0.0.tgz",
+  "_shasum": "24067ed9273d4497c732569b867d5f8f483f17e6",
+  "_spec": "@sxa/Theme",
+  "_where": "C:\\Users\\mva\\AppData\\Local\\Temp",
+  "author": {
+    "name": "Sitecore Corporation A/S"
+  },
+  "babel": {
+    "presets": [
+      "@babel/env"
+    ],
+    "overrides": [
+      {
+        "sourceType": "unambiguous"
+      }
+    ]
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@babel/polyfill": "^7.8.7",
+    "colors": "^1.4.0",
+    "form-data": "^3.0.0",
+    "formstream": "^1.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-cli": "^2.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^6.0.0",
+    "gulp-filter": "^6.0.0",
+    "gulp-if": "^3.0.0",
+    "gulp-prompt": "^1.2.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sass-bulk-import": "^1.0.1",
+    "gulp-sass-grapher": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-upload": "^1.0.0",
+    "gulp-watch": "^5.0.1",
+    "gulp.spritesmith": "^6.11.0",
+    "inquirer": "^7.1.0",
+    "jsdoc": "^3.6.3",
+    "path": "^0.12.7",
+    "request": "2.81.0",
+    "rimraf": "^3.0.2",
+    "urllib": "^2.34.2"
+  },
+  "deprecated": false,
+  "description": "SXA Theme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-transform-runtime": "^7.10.1",
+    "@babel/preset-env": "^7.9.0",
+    "@babel/register": "^7.9.0",
+    "@sxa/celt": "^10.0.0",
+    "eslint": "^6.8.0",
+    "gulp-tap": "^2.0.0"
+  },
+  "homepage": "https://doc.sitecore.com/developers/sxa/18/sitecore-experience-accelerator/en/modify-your-site-design-with-creative-exchange-live.html",
+  "keywords": [
+    "SXA",
+    "Creative Exchange Live",
+    "Sitecore Experience Accelerator",
+    "Gulp",
+    "Theme"
+  ],
+  "license": {
+    "type": "Sitecore MyGet License",
+    "url": "https://doc.sitecore.net/~/media/C23E989268EC4FA588108F839675A5B6.pdf"
+  },
+  "main": "index.js",
+  "name": "@sxa/Theme",
+  "scripts": {
+    "doc": "rimraf ./jsdoc/ | jsdoc -c ./node_modules/@sxa/celt/jsdoc.json",
+    "gulp": "./node_modules/gulp/bin/gulp.js",
+    "postinstall": "node ./gulp/config.js"
+  },
+  "version": "10.0.0"
+}

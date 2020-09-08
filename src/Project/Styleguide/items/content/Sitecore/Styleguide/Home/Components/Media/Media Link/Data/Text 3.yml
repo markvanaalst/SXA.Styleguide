@@ -1,0 +1,37 @@
+﻿---
+ID: "3914ce63-c243-4436-a9bc-1bb7c9c481d3"
+Parent: "bb67b58d-5113-4d7d-b3f6-e95276afc18d"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Media/Media Link/Data/Text 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191216T235058Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "090a1a9f-84f1-41c3-b4e2-bf0284c00d95"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div>All three links below are showing the same content, but they are rendered using different rendering variants. Read more about rendering variants to learn how you can effectively reuse your content.</div>
+        <br />
+        <div>By the way, as usual, we encourage you to change any of these and see how it affects the others. Imagine if you had a typo and would have to search through the entire page just to fix it!</div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194648Z

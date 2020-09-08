@@ -1,0 +1,56 @@
+﻿---
+ID: "3feb548e-3bc0-431e-a426-3908710c3c86"
+Parent: "051b5ee3-4a62-460d-b239-aec6ca56add1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Icons/Components/rss
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/D893ED4C0CD14D78929614D3D587A3EF.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "1e4e2e44-fe71-4d6e-9022-d68d0dcce5e0"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAe1BMVEUAAADtmlbtmlbtmlbtmlbsmlftmlbumlbum1bvmFbmmU3tmlbumlbtmlbumlXtmlftmlbumlftmFT1kU7smlXtmlbtmlbumlbumlbtmlbumlbumlbumVXtmlbtm1fumlfumVXtm1fznFftmlbtmlbsmlbvl1j/qlXtmlYl5U8iAAAAKHRSTlMA9vzvfTa5tFoPCunc1dBvUywbByby4sGilZJ1aWJhSToxFJiFRCAEhRVUFQAAAX5JREFUSMftlOuSgjAMhW0plLsIeENXLqvuvv8TOkNOaytDpw9gftEO3yQ5J+nmG/7xz7IiOl/DxhtAsGj79AcQx1vqDSAykXgDiODSeAOI/OEm0jqshAxM5Nejlb/hfngTReslWB9pYt/7mRJqhN88fax0YVdPIjkpYiUH3+fHLq6Nmx+GqnqXD+Vl0ldDgM5bp3HsrNPsMqibup1molFEAAfXARS2U1Whj8c6gCSV6hxz1SyJZBd3uSb4FtdQ97Jm8YkrBERCDgar+9FKlaOC53QUa8DbMIbOI9pBx6iPGbRqqEzXhKAsEMJMcdw4YmRUFHneE/5c/rYVcWLJf6bTAbLZMclZvphOklLQJN7nQ/TxBpSQk4iWG34NRNtuC/wPi+BwSS8DzWBoAYUCkAJi1ihwuaxcAxAzN2gBCcygrIYa3XzoMB7LrqUGRrqIyS6jvsKeU1WTVNtGizB/1zROtq5XIsoJ54QeANKcdP3cBRnwQqT2DnJzHzff8I4XTpZX7qjCBIkAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 626
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133045Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: RSS feed icon
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af576a32-16d1-4576-8542-dbff31fa4462"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194432Z

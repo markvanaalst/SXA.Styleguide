@@ -1,0 +1,10 @@
+{{ if i_item.template_name == 'Component' && (i_item["Component Features"].raw ) != "" }}
+    <div class="features-options">
+        <div class="header">
+            Features and Options
+        </div>
+        <div class="body">
+            {{ sc_field i_item 'Component Features' }}
+        </div>
+    </div>
+{{ end }}

@@ -1,0 +1,31 @@
+﻿---
+ID: "46c47add-a296-416c-a569-5b5cd17f0a41"
+Parent: "95950773-3e0e-4fa0-8e7f-71dd7beb1bbe"
+Template: "456067df-fc7d-4639-9177-41f69e81c927"
+Path: /sitecore/content/Sitecore/Styleguide/Settings/Twitter Apps
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190408T214419Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a0b0d0b-1832-4a94-963e-6f676258243d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194527Z

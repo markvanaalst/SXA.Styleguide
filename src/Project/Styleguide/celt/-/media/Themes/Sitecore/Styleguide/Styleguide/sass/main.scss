@@ -1,0 +1,174 @@
+@import "abstracts/vars";
+@import "abstracts/mixins";
+@import "abstracts/functions";
+@import "base/fonts/fonts";
+@import "base/fontawesome/font-awesome";
+html {
+    font-size: 62.5%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-bottom: 0px;
+}
+
+body {
+    @include opensans-font-stack();
+    position: relative;
+    overflow: auto;
+    color: $text-basic;
+    font-size: 16px;
+    line-height: 1.5;
+    background: $page-bg;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    &.on-page-editor {
+        background: $page-bg-editor !important;
+    }
+}
+
+a {
+    color: $text-basic;
+    cursor: pointer;
+    font-size: 0.85em;
+    &:hover {
+        color: $text-basic-active;
+    }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: lighter;
+}
+
+
+h1 {
+    font-size: 4.5em;
+    @include respond-to(mobile) {
+        font-size: 2.5em;
+    }
+    @include respond-to(mobile-large) {
+        font-size: 2.5em;
+    }
+   
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+h5 {
+    font-size: 0.83em;
+}
+
+h6 {
+    font-size: 0.67em;
+}
+
+.xa-variable {
+    border: 0px;
+    padding: 1px;
+    margin: 0px;
+    background-color: #ebebe4;
+    color: #545454;
+    user-select: none;
+    pointer-events: none;
+}
+
+//Navigation Bar fix 
+#breadcrumbMenuSubcontrol_context_menu * {
+    box-sizing: initial;
+}
+//End navigation bar fix
+
+// Common Classes
+.no-padding {
+    padding: 0px !important;
+}
+
+/* Border styles */
+
+.border-light-grey {
+    border-color: #d2d2d2 !important;
+}
+
+.border-top {
+    border-top: 1px solid;
+}
+.border-right {
+    border-right: 1px solid;
+}
+.border-bottom {
+    border-bottom: 1px solid;
+}
+.border-left {
+    border-left: 1px solid;
+}
+.no-border {
+    border: 0;
+    .component-content {
+        border: 0;
+    }
+}
+.padding-top {
+    padding-top: 20px;
+}
+.padding-bottom {
+    padding-bottom: 20px;
+}
+.bg-stripes {
+    background: url("../images/stripes-bg.png");
+} 
+.light-gray-background {
+    background: #f7f7f7;
+}
+
+
+// Header
+header {
+    .component.content {
+        min-height: auto;
+    }
+    .container.boxed {
+        margin-top: 0px;
+    }
+}
+
+// Main Body
+main {
+    margin-top: 10px;
+    min-height: calc(100vh - 199px);
+}
+
+// Footer
+footer {
+    position: relative;
+    bottom: 0px;
+    top: auto;
+    .boxed {
+        margin-bottom: 0px;
+    }
+    .content, .rich-text {
+        color: $text-white;
+        font-size: 0.8em;
+        text-transform: uppercase;
+    }
+}
+
+// Homepage Flips
+.flip .flipsides {
+    height: 300px;
+
+    .slide-content {
+        padding-top: 30px
+    }
+}

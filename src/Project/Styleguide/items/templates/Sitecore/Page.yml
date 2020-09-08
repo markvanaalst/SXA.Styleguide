@@ -1,0 +1,52 @@
+﻿---
+ID: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Parent: "afdd0185-1249-4089-b260-dc3c338a00e5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Sitecore/Page
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {3F8A6A5D-7B1A-4566-8CD4-0A50F3030BD8}
+    {D224BA08-6835-4025-A39D-94179670D42D}
+    {0A7DA0A0-FCD9-4B7B-A725-E159FA3E7E6C}
+    {371D5FBB-5498-4D94-AB2B-E3B70EEBE78C}
+    {8114D1CE-CB6C-4DC7-930E-173345CB4746}
+    {E94D0466-BC9A-47AA-B0B0-1D626B10BFD6}
+    {A5F4B9CC-25D9-4EDA-A63D-E4CD0C6C6E24}
+    {49B99587-1114-4BEB-894B-1455EBDC0C41}
+    {9B5B9E0E-1CEF-4D54-8C47-27F241CE075B}
+    {4414A1F9-826A-4647-8DF4-ED6A95E64C43}
+    {0EC7A941-BB98-4A56-BD1A-9CDFE12896E9}
+    {11AB06B6-1F36-42D1-8065-77D7CE0FE085}
+    {F39A594A-7BC9-4DB0-BAA1-88543409C1F9}
+    {6650FB34-7EA1-4245-A919-5CC0F002A6D7}
+    {DFD71B66-796C-4BDE-A2BB-B60958D7BAF8}
+    {9B6DFD34-7101-4BD5-BBFD-3E23CA8A2CAC}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{A5CCF172-D74E-4769-A1FE-53696434F073}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190408T214104Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d50f72e6-9bd4-4164-85ba-267b13074c19"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194400Z

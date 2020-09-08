@@ -1,0 +1,40 @@
+﻿---
+ID: "35ee4904-b9bd-4deb-95c5-996ad7b2a5f8"
+Parent: "8f219318-3715-4e57-ac8d-44e5d991fe01"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Layout/Data/Text 17
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T142717Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ab0b080-8c11-468d-977c-2892bbb3f7f8"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Adding structure to your page</h2>
+        <p>If the three initial placeholders are not enough, you should start your design session with adding some page structure components onto your page. Most often you will find yourself adding the Container component which adds a DIV element and a placeholder inside. Using the styling button you are able to adjust the grid settings such a column sizes and additional styles. In case you want to add more consistent structure you can also add a column splitter or row splitter.</p>
+        <p>&nbsp;</p>
+        <h3>Component sizes</h3>
+        <p>Where do you define the sizes that the components need to have? Every component is designed to fit into any number of columns, which make the page very flexible. You do not have to worry about the components' width as they will simply adjust to a box where they are put. And if you change your mind and decide to move them somewhere else, their size will be adjusted again to meet the new situation.</p>
+        <p>Additionally, components can have their width configured to not take the full span of the placeholder but instead, every placeholder is treated again like it had 12 columns and components can take e.g. 50% (6 columns), 25% (3 columns) and so on...</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194630Z

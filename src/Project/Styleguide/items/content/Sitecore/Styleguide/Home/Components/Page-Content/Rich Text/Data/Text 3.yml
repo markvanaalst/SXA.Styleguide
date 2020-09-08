@@ -1,0 +1,59 @@
+﻿---
+ID: "c0a41834-08e4-49fa-81c0-b14be108c079"
+Parent: "3264a667-ce42-400b-9de0-177d94962965"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Sitecore/Styleguide/Home/Components/Page-Content/Rich Text/Data/Text 3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191219T085319Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f8a5609-9c3a-4697-958d-455e9366f0cc"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2><span style="text-decoration: underline;">Alice's Adventures in Wonderland</span></h2>
+        <h3>CHAPTER I. Down the Rabbit-Hole</h3>
+        <img alt="" src="-/media/400C92A205AD46FEB1ECBAFAB05FFEFB.ashx?h=257&amp;w=203" style="left: 385px; top: 294.547px; width: 203px; height: 257px; float: right;" />Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, '<em>and what is the use of a book,</em>' thought Alice '<em>without pictures or conversations?</em>'
+        <p>So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth the trouble of getting up and picking the daisies, when suddenly a White Rabbit with pink eyes ran close by her.</p>
+        <p>There was nothing so very remarkable in that; nor did Alice think it so very much out of the way to hear the Rabbit say to itself, '<em>Oh dear! Oh dear! I shall be late!</em>' (when she thought it over afterward, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbit actually took a watch out of its waistcoat-pocket, and looked at it, and then hurried on, Alice started to her feet, for it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the field after it, and fortunately was just in time to see it pop down a large rabbit-hole under the hedge.</p>
+        <p><strong>In another moment down went Alice after it, never once considering how in the world she was to get out again.</strong></p>
+        <p><img alt="" src="-/media/9B9EFA65BB8245F784CC49C3F15FFD8B.ashx?h=209&amp;w=244" style="left: 745px; top: 845.547px; width: 244px; height: 209px; float: left;" /><span class="dropcap">T</span>he rabbit-hole went straight on like a tunnel for some way and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.</p>
+        <p>Either the well was very deep, or she fell very slowly, for she had plenty of time as she went down to look about her and to wonder what was going to happen next. First, she tried to look down and make out what she was coming to, but it was too dark to see anything; then she looked at the sides of the well, and noticed that they were filled with cupboards and book-shelves; here and there she saw maps and pictures hung upon pegs. She took down a jar from one of the shelves as she passed; it was labeled <span class="text-highlighted">ORANGE MARMALADE</span>, but to her great disappointment it was empty: she did not like to drop the jar for fear of killing somebody, so managed to put it into one of the cupboards as she fell past it.</p>
+        <h2></h2>
+        <h2></h2>
+        <h3>&nbsp;</h3>
+        <h3>&nbsp;</h3>
+        <h3>CHAPTER II. The Pool of Tears</h3>
+        <p><span style="font-family: verdana;"></span></p>
+        <p>And she went on planning to herself how she would manage it. <em>They must go by the carrier,</em>&nbsp;she thought; <em>and how funny it'll seem, sending presents to one's own feet! And how odd the directions will look!</em></p>
+        <blockquote style="margin: 0px 0px 0px 40px; border: medium none; padding: 0px;">
+        &nbsp; &nbsp; &nbsp;<em><strong>Alice's Right Foot, Esq.</strong></em>
+        </blockquote><blockquote style="margin: 0px 0px 0px 40px; border: medium none; padding: 0px;">
+        <em><strong>&nbsp; &nbsp; &nbsp; &nbsp;Hearthrug,</strong></em>
+        </blockquote><blockquote style="margin: 0px 0px 0px 40px; border: medium none; padding: 0px;">
+        <em><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;near The Fender,</strong></em>
+        </blockquote><blockquote style="margin: 0px 0px 0px 40px; border: medium none; padding: 0px;">
+        <em><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(with Alice's love).</strong></em>
+        </blockquote>
+        <p><em>Oh dear, what nonsense I'm talking!</em></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194659Z

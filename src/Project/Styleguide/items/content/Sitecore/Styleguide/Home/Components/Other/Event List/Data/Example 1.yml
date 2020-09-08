@@ -1,0 +1,34 @@
+﻿---
+ID: "0e77bbf1-bc39-4780-bb6a-ac229a2ebb56"
+Parent: "085a1fc6-038f-4b94-b2a9-bfa395469758"
+Template: "311e5f53-cf27-4a85-b887-b84bee5d3ba3"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Other/Event List/Data/Example 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T132019Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "403292ae-ba51-425d-aa0b-b6e3d7a8f723"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c08b42e9-c147-47d1-b50c-6274eb3a8baa"
+      Hint: Title
+      Value: Events
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200907T115008Z

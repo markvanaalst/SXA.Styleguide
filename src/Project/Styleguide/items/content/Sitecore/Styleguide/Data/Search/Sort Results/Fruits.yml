@@ -1,0 +1,34 @@
+﻿---
+ID: "8acd9279-8bf3-425c-9a9f-cef8819450a7"
+Parent: "b379c7e7-05f9-471e-98b8-54f0b50bdae8"
+Template: "cd618631-e4e3-4943-a3a4-d3b4b39df327"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Search/Sort Results/Fruits
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161220T130829Z
+    - ID: "29ac186d-0a90-470f-93d0-f548179b1fc3"
+      Hint: Title
+      Value: Order by
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8719bc8c-c706-4e87-810e-65ed5d372d50"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194553Z

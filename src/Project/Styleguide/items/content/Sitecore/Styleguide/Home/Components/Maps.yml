@@ -1,0 +1,130 @@
+﻿---
+ID: "d7def3a5-f282-4a21-966b-9c3dfcf78ef3"
+Parent: "a3271e0e-3a17-45b4-9ab0-3dd3a50d5a66"
+Template: "5a8f41ee-4cea-45a1-a882-a18f26475aa4"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Maps
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{4EF02C3C-9D40-41C7-960B-82284018F505}"
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{08E735D5-527D-43B1-97D6-D01DA066F9DC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A77BDCC8-0F07-4FFE-86B4-4D773503D8B9}"
+              p:before="*"
+              s:ds="local:/Data/Text 1"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B25CDBEA1-53EE-4470-89BF-EE8176260635%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-page-body/container-1/container-7" />
+            <r
+              uid="{F837739A-0658-40B5-B8C2-0681FD58BABB}"
+              p:after="r[@uid='{A77BDCC8-0F07-4FFE-86B4-4D773503D8B9}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-page-body/container-1/container-7" />
+            <r
+              uid="{0756B033-D917-4EE5-BD10-592E0BCEB436}"
+              p:after="r[@uid='{F837739A-0658-40B5-B8C2-0681FD58BABB}']"
+              s:ds="local:/Data/Text 3"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="/main/sxa-page-body/container-1/container-7" />
+            <r
+              uid="{05324586-5416-4F2A-A39A-395C63F171FD}"
+              p:after="r[@uid='{0756B033-D917-4EE5-BD10-592E0BCEB436}']"
+              s:ds="local:/Data/Hybrid View"
+              s:id="{4DD74227-4504-4102-A802-76241F372B9E}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;Signature&amp;CenterOnFoundPOI&amp;AnimateFoundPOI&amp;DisableMapScrolling&amp;DisableMapZoomOnScroll&amp;Styles=%7B1E02B843-29E7-4DFD-A4FE-2787A126A418%7D&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/container-7" />
+            <r
+              uid="{267A7C59-B9CE-4770-A260-5EB631758BA3}"
+              p:after="r[@uid='{05324586-5416-4F2A-A39A-395C63F171FD}']"
+              s:ds="local:/Data/Normal View"
+              s:id="{4DD74227-4504-4102-A802-76241F372B9E}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;Signature&amp;CenterOnFoundPOI&amp;AnimateFoundPOI&amp;DisableMapScrolling&amp;DisableMapZoomOnScroll&amp;Styles=%7B1E02B843-29E7-4DFD-A4FE-2787A126A418%7D&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/container-7" />
+            <r
+              uid="{48398FBA-3DAD-4D23-9300-D1E1AE8C359D}"
+              p:after="r[@uid='{267A7C59-B9CE-4770-A260-5EB631758BA3}']"
+              s:ds="local:/Data/Text 4"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="/main/sxa-page-body/container-1/container-7" />
+            <r
+              uid="{E61D38E1-1DA4-4DEB-A330-7D18251C17B0}"
+              p:after="r[@uid='{48398FBA-3DAD-4D23-9300-D1E1AE8C359D}']"
+              s:ds="local:/Data/Text 5"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:ph="/main/sxa-page-body/container-1/container-7" />
+            <r
+              uid="{928EE1A4-620B-42B7-9D00-B325110432D9}"
+              p:after="r[@uid='{E61D38E1-1DA4-4DEB-A330-7D18251C17B0}']"
+              s:ds="local:/Data/Satellite View"
+              s:id="{4DD74227-4504-4102-A802-76241F372B9E}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;Signature&amp;CenterOnFoundPOI&amp;AnimateFoundPOI&amp;DisableMapScrolling&amp;DisableMapZoomOnScroll&amp;Styles=%7B1E02B843-29E7-4DFD-A4FE-2787A126A418%7D&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/container-7" />
+            <r
+              uid="{BEC9F0B7-AB55-47CC-ACEE-FCD3CA9498DE}"
+              p:after="r[@uid='{928EE1A4-620B-42B7-9D00-B325110432D9}']"
+              s:ds="local:/Data/Terrain View"
+              s:id="{4DD74227-4504-4102-A802-76241F372B9E}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;Signature&amp;CenterOnFoundPOI&amp;AnimateFoundPOI&amp;DisableMapScrolling&amp;DisableMapZoomOnScroll&amp;Styles=%7B1E02B843-29E7-4DFD-A4FE-2787A126A418%7D&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/container-7" />
+            <r
+              uid="{B065A394-13F9-40AE-8A99-B79F05FA90D6}"
+              p:after="r[@uid='{BEC9F0B7-AB55-47CC-ACEE-FCD3CA9498DE}']"
+              s:ds="local:/Data/Sitecore"
+              s:id="{4DD74227-4504-4102-A802-76241F372B9E}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Signature&amp;CenterOnFoundPOI=1&amp;AnimateFoundPOI=1&amp;DisableMapScrolling=1&amp;DisableMapZoomOnScroll=1&amp;Styles=%7B1E02B843-29E7-4DFD-A4FE-2787A126A418%7D%7C%7BEFCEBB95-50F2-4181-9383-72CCC97DC468%7D%7C%7BCE7162E9-A110-4120-ADF2-4E067CC470DF%7D&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1" />
+            <r
+              uid="{F92B342D-CC82-4282-B43C-8AA2C77258AF}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
+              s:ph="/main/sxa-page-body/container-1" />
+          </d>
+        </r>
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Maps
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T091451Z
+    - ID: "35381ea8-84f8-4509-8495-2ac4e3acc4ad"
+      Hint: Full Article
+      Value: |
+        <p>This feature utilizes the maps provider API to deliver a great visitor experience on contact and information pages, store locators, and any other places where you need to present geographic locations. The component can also provide visualization for your search pages - updating as your search results appear!</p>
+        <p>With the Map component, you can always show exactly the map you need. You can control the map type and size, initial zoom, and location markers and shapes, as well as specify which interface options (like zoom controls, or street view feature) should be available.</p>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Maps
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a1f513f-ccda-4bd8-80cb-27edd9dea627"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194533Z
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: Embed an interactive map using Google or Bing maps.

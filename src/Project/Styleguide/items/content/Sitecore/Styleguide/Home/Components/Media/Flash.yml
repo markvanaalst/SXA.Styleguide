@@ -1,0 +1,54 @@
+﻿---
+ID: "b1688930-86aa-47b9-8ce7-6cf8be2d9495"
+Parent: "a522a7e0-f5bb-4df8-a18b-4bf7058a659e"
+Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Media/Flash
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{AF6BC2BD-E522-4402-9308-E6501BD192B6}"
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{C3902215-81AC-4BA9-BAC3-D6AE1E6580B0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Flash
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T091524Z
+    - ID: "35381ea8-84f8-4509-8495-2ac4e3acc4ad"
+      Hint: Full Article
+      Value: Yes, we are aware that it's a dying technology and that modern browsers have bigger and bigger capabilities, but there are still areas where the good old flash animation need to be used for various reasons.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Flash
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{A7FF3EDD-9690-4972-AAD0-6A8D2B24069D}" ></image>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7bf09cc3-cd71-45ac-b6be-93d319e26cff"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d5664c58-950f-468d-9752-6e5558c5bc1f"
+      Hint: Component Features
+      Value: |
+        <ul>
+            <li>Displaying SWF objects on the page. The easy way.</li>
+            <li>Configure whatever the object needs by passing custom parameters.</li>
+            <li>Support for different display modes (transparent, opaque, etc.).</li>
+        </ul>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194556Z
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: Flash component is used to embed interactive objects and videos on your page

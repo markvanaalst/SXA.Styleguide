@@ -1,0 +1,44 @@
+﻿---
+ID: "7da6b376-705c-4bb9-b5e9-dc7d708a94ea"
+Parent: "5baedf0e-f77b-46b5-8113-2c68c24e4799"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Page Content/BasePageHeader/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{ if i_item.template_name == 'Site Section' }}
+        <div class="page-hero-container image-background" style="background: url( {{ i_item.HeroBackground.media_url }} )">
+    {{ else }}
+        <div class="page-hero-container static-background">
+    {{ end }}
+        <div class="page-hero-text-container boxed">
+            {{ sc_placeholder "page-hero" }}
+        </div>
+    </div>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200226T141148Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c11eb59-b2f0-4148-8672-de3b7aee5f33"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194638Z

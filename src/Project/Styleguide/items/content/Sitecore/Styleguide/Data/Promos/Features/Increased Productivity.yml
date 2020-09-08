@@ -1,0 +1,37 @@
+﻿---
+ID: "7ac2f826-62c2-4ab2-8343-cb81cab86d20"
+Parent: "0e911783-32be-42bd-8f28-ae42abdce350"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Promos/Features/Increased Productivity
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Lower time to market &amp; increase productivity
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190424T104205Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "335cbfd6-30d2-486f-91fb-bbaec54014c9"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: "Every feature of SXA comes with productivity in mind - it is meant to be an expert tool that enables the delivery of websites quickly with minimum custom development. This, however, might mean something different for different people - that is why SXA defines clearly its target audiences and plans its roadmap with an acute awareness of the clients."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194551Z

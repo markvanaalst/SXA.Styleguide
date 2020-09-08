@@ -1,0 +1,56 @@
+﻿---
+ID: "aee651d6-9a0c-45f7-9b26-3960aa6bf392"
+Parent: "051b5ee3-4a62-460d-b239-aec6ca56add1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Icons/Components/arrow_loop
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/DD7E49389358446DB07BC4D44851B672.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "82cb11ef-dca2-4c67-a7aa-7ab89066f1c8"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAUVBMVEUAAABNgrhMgbhOhbZMgrhNg7lNgrhVqqpNgrhMgrhNgrlOg7hNgLNNgrhNgrhOgrhMgrhOg7dOgrpPhrpNgrhMgrlNgbhLgbdMg7lNhLZNgriZjgWNAAAAGnRSTlMAf4MOcZ77A8SxdUIK7PDkZk47ErenKxxUOBTN1yAAAADSSURBVEjH7ZPZEoMgDEWNIsjiUvfy/x9aJ0On1dTAWzsdz5Nh7pEQJbv4B4pOt1K2uiuS4ko0PtAIlfD60b8xRjdxld9RuYhQ+gMln+89oWcFHRqxztnQnObyg8TMpHBcExZyYIQbRuoiDKzG8sYIIpxzNwHBCICJ/FnmWML2tACAEXP6DqtHRPoZwCPmOCVA7hmZEjEI5DsQw5/QL3JXm4hQkt/LsELlLN2TEcZirsmipcLrxs0tWc0/t4R3WnXNWT4O/Fh+pXmeBfINm11cfJ0HYq8vwk21Vs4AAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 398
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133038Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Looped arrow icon
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9cf57d11-c4f0-4bc8-b3de-02d6356b2795"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194429Z

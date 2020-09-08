@@ -1,0 +1,60 @@
+﻿---
+ID: "c7363d46-417d-41a0-8787-89894a435de0"
+Parent: "7944f43f-d488-4291-9bbe-7bdb6da62ff5"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Media/Image/Data/Text 5
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191216T232630Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7914a38-a89e-41a8-b4ba-58c5b2610b35"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        In case you need to, you can add multiple image components. Each will be connected to dedicated data source item which can be later reused.
+        <p>In the toolbox, you can see there are two different image components. One is marked as reusable while the other is just a regular one. But what is the difference?</p>
+        <p>&nbsp;</p>
+        <table>
+            <tbody>
+                <tr>
+                    <th style="text-align: center;">Image component</th>
+                    <th style="text-align: center;">Reusable Image component&nbsp;</th>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Allows you to create an image which is available on the particular page only. The data source&nbsp;will be managed for you automatically.</td>
+                    <td style="text-align: left;">Allows you to create an image which is available for all pages. The data source will be placed under the global site data source folder.<br />
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Does not bother you about naming the image.</td>
+                    <td style="text-align: left;">Asks you to name the image and pick its placement, so it can be easily identified and reused later<br />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align: center;">&nbsp;Contains all the features you would expect from an Image component.<br />
+                    Can be styled and resized just like all other components<br />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194648Z

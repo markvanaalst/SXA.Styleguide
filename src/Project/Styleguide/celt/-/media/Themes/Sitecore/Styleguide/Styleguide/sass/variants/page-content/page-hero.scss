@@ -1,0 +1,31 @@
+@import "abstracts/vars";
+@import "abstracts/mixins";
+
+&.page-hero {
+    padding: 0px;
+
+    .page-hero-text-container {
+        @include respond-to(tablet) {
+            padding: 10px;
+        }
+        @include respond-to(mobile) {
+            padding: 10px;
+        }
+        h1 {
+            font-size: 48px;
+        }
+        span {
+            font-size: 14px;
+        }
+    }
+    .image-background {
+        background-size: cover !important;
+    }
+    .static-background .page-hero-text-container {
+        
+        border-top: 1px solid #ebebeb;
+        border-bottom: 1px solid #ebebeb;
+        background: #fafafa;
+    }
+}
+

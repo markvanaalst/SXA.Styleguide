@@ -1,0 +1,25 @@
+@import "abstracts/vars";
+@import "abstracts/mixins";
+
+#header .component.content {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#page-status {
+    padding-left: 0px !important;
+    &.warning {
+        background: #fad76d;
+        color: $text-black;
+    }
+    &.review {
+        background: #7acdda;
+        color: $text-black
+    }
+    #message {
+        @include wrapper();
+        text-align: center;
+        font-size: 0.8em;
+        padding: 2px 0px;
+    }
+}

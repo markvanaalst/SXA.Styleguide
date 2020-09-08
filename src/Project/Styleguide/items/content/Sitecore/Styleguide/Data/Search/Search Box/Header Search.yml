@@ -1,0 +1,37 @@
+﻿---
+ID: "8c853699-9b97-4f41-bd97-67e2f4667e46"
+Parent: "0bd63457-7c05-46e6-bbf5-922238c35318"
+Template: "1c04fd61-1d87-4590-acfe-9cc186865ab3"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Search/Search Box/Header Search
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "143bc719-8c3f-42eb-9b1a-2db64c7cfeb7"
+      Hint: SearchTextBoxLabel
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190412T220859Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48d75ae8-20cc-4af3-b502-dcf808137de0"
+    - ID: "a799c388-0d5e-4196-ac39-addc9f76756c"
+      Hint: SearchButtonText
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194552Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "ad9382c1-da05-4cd0-9ade-9ab3bc3bf1bd"
+Parent: "8f219318-3715-4e57-ac8d-44e5d991fe01"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Layout/Data/Text 18
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T143432Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a4a20a0-1731-4975-a2cf-83a12a01e66b"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Go responsive, support mobile</h2>
+        <p>We've just said that SXA is using 12 column grids, but this is not the whole truth. It actually applies principles of Responsive Web Design (RWD) in order to support a wide range of devices with different screen resolutions. Fluid grid applied here is proportional and columns are sized in relative percentages rather than absolute pixels. Breakpoints are another mechanism used by vanilla SXA. Once you reach certain width, columns start falling to next rows, and eventually everything ends in a single column.</p><p><br /></p>
+        <p>What does this mean for you? Start by designing with desktop devices and work as if you were working with 12 columns fixed grid. The layout you create will handle mobile devices out of the box, sometimes with some help from a couple of additional lines of CSS code. But in case you want to provide a totally different experience to your mobile users, go ahead, switch to a&nbsp;mobile device in Sitecore and design a brand new SXA layout.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194630Z

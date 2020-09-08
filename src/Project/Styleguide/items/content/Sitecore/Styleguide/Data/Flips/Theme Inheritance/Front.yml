@@ -1,0 +1,39 @@
+﻿---
+ID: "32ac2053-06d4-48bc-bfb8-57dbbf68576c"
+Parent: "04c24d14-69e7-4248-b486-fce1f0f4b47c"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Flips/Theme Inheritance/Front
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T105402Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d355e84a-ac62-4182-b49a-f614e497bcb8"
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <div style="text-align: center;"><img alt="sitecore-theme" src="-/media/0F2F21BB52E940EE9A576C8843DDE882.ashx?h=95%&amp;w=100%&amp;hash=BE7ADB915FFF643884AA8B12B4694F6A7CA32EE4" style="height: 95%; width: 100%;" /></div>
+        <h2 style="text-align: center;">And throw in some awesomeness</h2>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194549Z
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

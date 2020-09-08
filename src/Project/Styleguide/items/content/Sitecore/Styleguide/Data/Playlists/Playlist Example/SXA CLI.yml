@@ -1,0 +1,48 @@
+﻿---
+ID: "9aaa70ed-221e-4126-87c3-e91aac9f1027"
+Parent: "edd70c90-7f76-4ad0-9833-fa6a6c539764"
+Template: "75746d59-692e-47db-a87c-b5d4b756a1ee"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Playlists/Playlist Example/SXA CLI
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191217T082606Z
+    - ID: "4e3a41dd-afb7-4763-ba20-ff27e0beeddf"
+      Hint: MovieThumbnail
+      Value: |
+        <image mediaid="{DADCB8D6-E1A4-4096-B724-6038D71888F7}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "75562c38-22f6-4b63-af7a-daf44f0730f1"
+      Hint: MovieDescription
+      Value: "In this demo Mark van Aalst (@markvanaalst), shows how to work with the SXA command-line interface to create a theme."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58f01da4-2cab-43d1-9f85-7b3657b70ffd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "c4a0614e-5a4a-4ecf-b49b-b0d82e5eee7e"
+      Hint: MovieCaption
+      Value: Creating a theme using SXA CLI
+    - ID: "c7abdb60-3f28-4d17-b457-2056710e384f"
+      Hint: YoutubeMovie
+      Value: MDWuqhmvwgI
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194551Z

@@ -1,0 +1,35 @@
+﻿---
+ID: "eb2604ef-b073-457d-93b5-d49f77530458"
+Parent: "1b16a1e5-82e8-4298-a145-d9c1c9444745"
+Template: "670a7e82-78a6-4b25-a710-1e2e8f72515a"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Search/Managed Range Filter
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{78047717-7432-41B0-B4A7-5497250D21E6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190408T214423Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd3c40ff-771e-4b01-9c2c-cbd2575795a9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194532Z

@@ -1,0 +1,74 @@
+﻿---
+ID: "b88bdb00-58bc-4d04-b969-fb50cfb4cb12"
+Parent: "24ce4838-3f7e-470d-a660-fd0cb8fe9b9f"
+Template: "a6ddac75-7d24-4bdb-b3f6-5f47fbb21379"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Composites/Accordion/Data/Impressive/Accordion Item 2
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{2A4334BD-A026-4DCE-BA51-40087AB58D1D}">
+          <p:d />
+        </r>
+        <r
+          uid="{73C48CD6-93B8-4D15-9C2B-B141D3A38F40}">
+          <p:d />
+        </r>
+        <r
+          uid="{6072FDE8-53D2-4B89-ABA4-38F1E42B635F}"
+          p:before="*"
+          s:ds=""
+          s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          s:par="FieldNames=%7B5423143A-760D-4F0E-BA4D-0B02E649A778%7D&amp;Styles&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+          s:ph="section-title" />
+        <r
+          uid="{71801C68-4256-4DEC-815A-A169ACF273F1}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          s:par="FieldNames=%7B2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74%7D&amp;Styles&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+          s:ph="section-content" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D957D258-35AD-4302-966C-49D5AF64BAC5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T120702Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5a236869-e375-49c0-a92d-0c2f1db7788f"
+      Hint: Content
+      Value: |
+        <img height="352" alt="Bananas" width="851" src="-/media/C8C5556E953C4E2E884A609A807C8912.ashx" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
+      Hint: Heading
+      Value: |
+        <img height="352" alt="Bananas" width="49" src="-/media/C745A8298E9F4476AF3DF3A1D7CABEEC.ashx" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "854ad83e-0e5b-4b37-9287-0fa0b5c4429b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194708Z

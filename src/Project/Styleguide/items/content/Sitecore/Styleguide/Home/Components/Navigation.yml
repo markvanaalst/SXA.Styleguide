@@ -1,0 +1,32 @@
+﻿---
+ID: "996ffe31-c0c7-4be4-91e0-a614c42f3a5a"
+Parent: "a3271e0e-3a17-45b4-9ab0-3dd3a50d5a66"
+Template: "5a8f41ee-4cea-45a1-a882-a18f26475aa4"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Navigation
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Navigation
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T091636Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Navigation
+    - ID: "4e612443-b8d3-4491-8ca2-0504392d7fea"
+      Hint: NavigationIcon
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "82181764-59ee-4104-9ffb-09be5f1a90f1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194534Z

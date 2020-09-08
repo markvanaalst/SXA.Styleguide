@@ -1,0 +1,35 @@
+﻿---
+ID: "9e430164-ffe2-44de-a22d-7741dc685b6e"
+Parent: "d781c096-4248-422e-a803-008f8435a434"
+Template: "8e1f74db-15c0-43f3-85f0-86e4651df912"
+Path: /sitecore/content/Sitecore/Styleguide/Data/IFrames/Sitecore
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191219T135523Z
+    - ID: "4b737984-1eac-4e50-8dd1-883566fa7bde"
+      Hint: Link
+      Value: |
+        <link linktype="external" text="Sitecore.com website" url="https://www.sitecore.com" anchor="" target="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "741aab1f-0769-45f0-9d26-c4f391872a82"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194529Z

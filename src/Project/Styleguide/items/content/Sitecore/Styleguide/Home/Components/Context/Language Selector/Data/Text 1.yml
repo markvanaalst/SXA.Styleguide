@@ -1,0 +1,36 @@
+﻿---
+ID: "c3417bde-20ff-4c7d-a480-3d8dd3eba1c8"
+Parent: "78e52331-ca04-42c2-8b12-1d8e2f88e57a"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Context/Language Selector/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190613T125207Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "99300cd5-9045-419e-8f3d-8fe908ca7641"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>Sitecore as a leading Content Management System provides an ability to create multiple language versions for each of the items. In Sitecore Experience Accelerator, we fully support this. What is more, we have created a component named Language Selector which enables to easily and quickly switch between available languages.</p>
+        <p>Take a look below to see how Language Selector works!</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194645Z

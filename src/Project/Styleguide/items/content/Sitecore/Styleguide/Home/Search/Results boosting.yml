@@ -1,0 +1,54 @@
+﻿---
+ID: "64f5929c-532f-463e-ae21-71ce188ad520"
+Parent: "2c201fb2-ffb1-45df-aeb0-7df921a44da6"
+Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search/Results boosting
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4F548B02-BC30-4C72-980F-555EB6AE955A}"
+              s:ds="{2D76FEDE-F87A-4881-980D-0491D9F8D938}"
+              s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;FieldNames=%7B89C8DF6C-C848-495C-97CB-3086E4FF69F9%7D&amp;Styles&amp;Scope=%7BC84D95F9-9FBC-4D00-A361-2CE884BADDB0%7D&amp;PageSize=8&amp;DefaultLanguageFilter&amp;DefaultSortOrder&amp;AutoFireSearchWhenNoCriteriaSet=1&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-page-body/container-1" />
+          </d>
+        </r>
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Results boosting
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T124324Z
+    - ID: "35381ea8-84f8-4509-8495-2ac4e3acc4ad"
+      Hint: Full Article
+      Value: |
+        You can boost specific items and fields dynamically just with switching scope on the Search Results rendering. These items and fields will score better than other items and fields.
+        <p>Bellow list of fruits is sorted by relevance. The most sour and yellow fruits are at the beginning.</p>
+        <br />
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Results boosting
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83169e16-f8d3-483b-a1b9-05eae8906519"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194537Z

@@ -1,0 +1,36 @@
+﻿---
+ID: "ab9364cd-57bd-40fe-85e9-5f90016ba855"
+Parent: "bb67b58d-5113-4d7d-b3f6-e95276afc18d"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Media/Media Link/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191216T233220Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "238d0bbc-07c6-4252-9b0f-704c89294d40"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>Some assets are more popular than others. Since they are very valuable, you should link to them from different places, making sure your customers can easily find them.</p>
+        <p>Normally you would have to define such links multiple times, but with our Media Link component, all you need is to make sure your link is correctly configured. Then you can start throwing it across your site. Why spend time on maintaining all those links when you can have your authors produce more appealing content that will attract your customers?</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194648Z

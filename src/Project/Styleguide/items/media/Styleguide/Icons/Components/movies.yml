@@ -1,0 +1,56 @@
+﻿---
+ID: "3f3a905e-baba-4f4e-b265-7886c4701e38"
+Parent: "051b5ee3-4a62-460d-b239-aec6ca56add1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Icons/Components/movies
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/2AC2C268AD114BEFB2245237A947E9E2.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "02e74b25-9367-4cde-b928-88e1ddc3121b"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAdVBMVEUAAACAgICDg4OAgICAgICAgIB/f3+AgICAgICAgICAgICCgoKEhISAgICAgICBgYGBgYGHh4eAgICAgICBgYGAgICAgIB/f3+BgYGAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAOyZkwAAAAJnRSTlMA0AXzSdWB2p2ScDkJ+HwfFwwk7k3gyrBdg2pUQrmnLqmMlg5gEA0sL3IAAAJdSURBVEjHxZbrkqowDIBpCxSQcgcvgIK7m/d/xBN6lRHFmT0z2x/YtAlN8oVU789GlVxJDVCTa1Lta9NTB9Ae4zCMjy1Ad6Lv9X0OQZIbKU8C4P4b9TSCoFkvNQFE6Sv9gsBZelCW7knPQIoX+pzJ4/tRsIPnHZgYe+km45sWaYdqqEcAR+Z52fJL5BIjW15Fwl+OmSciAELPCwG0qedD9Kz/45dmWvpRYg0gxpUz+Pu80MCeQQNOd3mdwAyMo4HTPq+h1gZ3XAu6D3jlXOqzARcSqD7gVXBgUy/lHC6f8MobC6C9Gn/ILq9qie5IDC9MsVbb5HULAxAYRVzr/MDZQwmcwZpXWWvzEFT+eUDt+9HgmVeyNjhBg87Ck4HjVTKcXqxLXYCPu9XBjQvAmleE08EEXUGCz4EpDTGnmLVZwIqXjxtfmNbJk3IuWfUT2rQ3lYdbC4+8SgHjMkkW+dra8mgyV0vZiheB3pYGOS77tkpozFis69jxmogrvjrGCAQEofImhiiSAFa85ofyhtBA4N8osgjJM5x8c3DpLxSQtQGAoM6ACngw0J+odskl/uZcui2y4WWbgAl60LuzC3peZMPLlq1J65cBRW2yJEjN62obmQU3qm3i2UHUyqjBdUrflkavXocx0CpNK4oxyEM1L980Y1d8RAeYyglJdSI0rx+juy7vo6va+wJ4ux25D4gXyjXjSsG3Gp77RAtcz2tjUOeoW7xqqZFZHMGOEcXtpu3aDMbnDJZMKF7vLp7DKDSv8WAa2d7VNlyy7DK4Vvm7y3O33f/2D8DOlfV/xj8rdF30EnkCowAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 841
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133044Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Movies icon
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e795f837-9618-4927-b826-af5a451a999d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194432Z

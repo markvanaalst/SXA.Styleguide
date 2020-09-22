@@ -1,0 +1,27 @@
+&.scriban-list-promo-images {
+    h2 {
+        text-align: center;
+    }
+    .introduction {
+        text-align: center;
+    }
+    .item-list {
+        margin-top: 15px;        
+        .item {
+            margin-bottom: 30px;
+            img {
+                float: left;
+                max-width: 30%;
+            }
+            .description {
+                float: left;
+                max-width: 70%;
+                padding-left: 10px;
+                min-height: 145px;
+            }
+            a {
+                float: right;
+            }
+        }
+    }
+}

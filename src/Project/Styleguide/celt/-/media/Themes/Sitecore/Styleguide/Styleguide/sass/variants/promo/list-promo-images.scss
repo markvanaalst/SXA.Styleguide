@@ -1,0 +1,19 @@
+&.list-promo-images {
+    .title-subtitle {
+        .field-promoicon { 
+            width: 30%;
+            float: left;
+            img {
+                width: auto;
+            }
+        }      
+        span.field-promotext2 {
+            width: 65%;
+            float: left;
+            margin-left: 15px;
+        }
+        div.field-promolink {
+            clear: left;
+        } 
+    }
+}

@@ -1,0 +1,53 @@
+@import "../../abstracts/vars";
+@import "../../abstracts/mixins";
+.link-list.list-horizontal {
+    h3 {
+        display: none;
+    }
+    a {
+        border: none;
+    }
+    li {
+        margin-left: 0;
+        margin-right: 0;
+        float: left;
+        padding: 0px;
+        font-size: 12px;
+    }
+}
+
+.position-right {
+    &.link-list.list-horizontal {
+        li {
+            float: right;
+        }
+    }
+}
+
+.container-darkgrey-background {
+    .link-list.list-horizontal {
+        a, a:visited, a:link, a:hover {
+            color: #ccc;
+            padding: 10px 15px;
+            border: 0;
+            display: block;
+            font-size: 1.1em;
+        }
+        a:hover {
+            background: #ccc;
+            color:#666;
+        }
+        a.teal {
+            background: $teal;
+            color: #fff;
+            &:hover {
+                color: $teal;
+                background: #fff;
+            }
+        }
+        
+    }
+    .link-list > .component-content li a::before {
+        content: none;
+    }
+}

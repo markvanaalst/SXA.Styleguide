@@ -1,0 +1,74 @@
+﻿---
+ID: "2c201fb2-ffb1-45df-aeb0-7df921a44da6"
+Parent: "2497d56c-9047-432c-9887-c6e80f7d956f"
+Template: "81ccd286-99e8-494f-918b-b04006680aa9"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{5758E186-F512-46F1-BE70-4C782D29B8EA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5ABDC52C-24F5-4C2A-9B2B-1FF1161A01EB}"
+              p:before="*"
+              s:ds="local:/Data/Text 1"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-page-body/container-1" />
+            <r
+              uid="{BB5F7E0E-32B4-4807-86A9-6A9C3C924CD1}"
+              p:after="*[1=2]"
+              s:ds="location:{2C201FB2-FFB1-45DF-AEB0-7DF921A44DA6};+custom:_templatename|Page"
+              s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
+              s:par="SourceType&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B8DCD17EE-AA62-48D3-93DC-C04FD0C0D8C4%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-page-body/container-1" />
+          </d>
+        </r>
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Search
+    - ID: "0c944f44-73d3-4348-b3df-3cef1c4d5619"
+      Hint: HeroBackground
+      Value: |
+        <image mediaid="{8F01ADD7-4800-4D2A-839D-7EE2AA58D13B}" />
+    - ID: "21f7b0ee-bc05-4276-ac55-095f64553e07"
+      Hint: HeroTitle
+      Value: Search
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190409T215644Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Search
+    - ID: "53068854-cf44-4cf4-8e4d-c3e54ac90f56"
+      Hint: HeroSubtitle
+      Value: "<p>Find what you are looking for!</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "207fa2d5-5e83-4422-a7f0-f560fb777740"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194525Z
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: |
+        <p>Search features can be found on nearly all sites, enabling visitors to quickly get to the content they seek. It is not only important to bring up results matching the search query the user has entered. On websites loaded with a large number of content items (like articles, or products), you should enable the visitor to easily navigate through the search results, filter and apply ordering so they can find exactly what they need with minimum effort.</p>
+        <p>With SXA, you get flexible and powerful search functionality out-of-the-box. Any piece of your content can be included in or excluded from search results. You can define search scopes dedicated to particular areas or aspects of your content. For example, you can define one search page for general content, another one dedicated to product database and perhaps a separate one for news archive.</p>

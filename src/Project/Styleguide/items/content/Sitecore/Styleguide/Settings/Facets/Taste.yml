@@ -1,0 +1,34 @@
+﻿---
+ID: "1a9166a1-180d-4c34-ab81-63f0f020b520"
+Parent: "3eabfed9-edce-44f8-8ce7-347696d67caf"
+Template: "6042e216-f650-447c-86d1-00fea97454e7"
+Path: /sitecore/content/Sitecore/Styleguide/Settings/Facets/Taste
+SharedFields:
+- ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
+  Hint: Parameters
+  Value: taste
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Fruit Taste
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161220T152956Z
+    - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
+      Hint: Name
+      Value: Fruit Taste
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aabc59be-8a7a-4aef-83c0-6f95435767c2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194546Z

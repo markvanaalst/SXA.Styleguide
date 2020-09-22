@@ -1,0 +1,143 @@
+﻿---
+ID: "11ab9ada-8062-415f-ac7f-c37e5f90c048"
+Parent: "3264a667-ce42-400b-9de0-177d94962965"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Sitecore/Styleguide/Home/Components/Page-Content/Rich Text/Data/Text 17"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191219T094503Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c25f84bf-cf2e-4265-9615-4417aea88bad"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <table style="text-align: center;">
+            <tbody>
+                <tr>
+                    <th>Feature</th>
+                    <th>SXA 1.0</th>
+                    <th>SXA 1.1</th>
+                    <th>SXA 1.2</th>
+                    <th>SXA 1.3</th>
+                    <th>SXA 1.4</th>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Helix compliance</td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Rich set of components&nbsp;</td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Creative Exchange</td>
+                    <td style="text-align: center;">1.0</td>
+                    <td style="text-align: center;">1.0</td>
+                    <td style="text-align: center;"><span class="dropcap">2.0</span></td>
+                    <td style="text-align: center;">2.0</td>
+                    <td style="text-align: center;">2.0</td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Partial and Page Designs&nbsp;</td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Themes&nbsp;</td>
+                    <td style="text-align: center;">1.0</td>
+                    <td style="text-align: center;">1.0</td>
+                    <td style="text-align: center;">1.0</td>
+                    <td style="text-align: center;">1.0</td>
+                    <td style="text-align: center;"><span class="dropcap">2.0</span></td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Multi-tenancy&nbsp;</td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Authoring Experience&nbsp;</td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Rendering Variants</td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Search support</td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Responsive Grid 960</td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Foundation Grid&nbsp;Support</td>
+                    <td style="text-align: center;">&nbsp;</td>
+                    <td style="text-align: center;">&nbsp;</td>
+                    <td style="text-align: center;">&nbsp;</td>
+                    <td style="text-align: center;"><span class="dropcap"><em class="fa fa-check fa-2x"></em></span></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">Bootstrap Grid Support</td>
+                    <td style="text-align: center;">&nbsp;</td>
+                    <td style="text-align: center;">&nbsp;</td>
+                    <td style="text-align: center;">&nbsp;</td>
+                    <td style="text-align: center;"><span class="dropcap"><em class="fa fa-check fa-2x"></em></span></td>
+                    <td style="text-align: center;"><em class="fa fa-check fa-2x"></em></td>
+                </tr>
+            </tbody>
+        </table>
+        <div style="text-align: center;">&nbsp;</div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194658Z

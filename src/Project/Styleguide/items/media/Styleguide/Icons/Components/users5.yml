@@ -1,0 +1,56 @@
+﻿---
+ID: "d99d4885-4acf-464a-88e6-605d2f3a3fbd"
+Parent: "051b5ee3-4a62-460d-b239-aec6ca56add1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Icons/Components/users5
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/E322E0446776407AA9BC18B274EC37F5.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "9c9536c4-a5e0-40eb-a823-8f3a4d83da10"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAYFBMVEUAAABNg7hIhLpMgrhNgrhNgrhNg7hNgbhMgrlNgLlNgrlNgrdNgrhgkMBNgLtNgrhMgrhNgrhOgrhMgblLgLxNgrhNg7lMgbhNgrhNg7hNg7lNgrhNgrhOg7hPhLlNgri/2IFYAAAAH3RSTlMA0Ahz+OimlTIleGFWBR7Gs4RdTRHurUPZnnv03m8dE4obAwAAAXdJREFUSMfVlNtywjAMRJPYTgi2SQLkwq37/3/ZkDFGGpnxAy/teWiZXZaRZcnF36ZSpdalqtKK5FBiozykFEm1usGvEopEIaISiqREpEwoEo2Ilsq3gXxJ3x8631bJoenSF9c1P8UH2kmOxtQWKXa1gal36ydvm1dJjfXEYqh4uNkA5fmpnUvAzMQiHPHi6BcA01OcACyeWKRUE1VTPbCy1t1i5cGsGDjhzWn7oi0KuwWZFQN7ou799jeInlkfAuGESgY+l9Sf1yb1oqT0oV1/3YW7ufaOWcm20t2Xlrw4sfvMkqMhhpRYlPnSbv/by8zXgFsRu83wsI2344vmiGVjORpvBr7KA7H0q6wauUCgDoE7E1lJ/Mfu8YEhGE8P7Q0gH5sbKJa21TLrFgJuJOLoyMUJK1C5pjMa2nSNq+hoSItDdz+8Bhni7tfDUIfXIMsEwlRkacFoswELhs0G9mDsswEFhso3qQehz7Up7P4yAuPyfA3+A7/U6mc/Wf3SmAAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 583
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133047Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: 5 users icon
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e6f1020-825a-4a53-83cc-8f48fb5e06ee"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194432Z

@@ -1,0 +1,14 @@
+{{ if i_item['Page Status'] == "Under Construction" }}
+
+<div id="page-status" class="warning">
+    <div id="message">Please note: This page is still under construction</div>
+</div>
+{{ end }}
+
+{{ if i_item['Page Status'] == "Pending Review" }}
+    
+<div id="page-status" class="review">
+    <div id="message">Please note: This page is still pending review</div>
+</div>
+
+{{end }}

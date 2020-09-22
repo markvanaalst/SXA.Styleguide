@@ -1,0 +1,51 @@
+﻿---
+ID: "5507ce19-b89f-4cb0-b096-ee4bdedb3035"
+Parent: "06052d30-c08c-4c58-afb4-8862af11271a"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Promos/Background Image
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: |
+        <p style="text-align: center; color: #fff;">
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        </p>
+        <h3 style="color: #fff;">You can even specify an image as background. Just try it and you cannot stop!</h3>
+        <p style="text-align: center; color: #fff;">
+        <br />
+        <br />
+        <br />
+        &nbsp;</p>
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{C43B1FCE-44B7-458B-8656-F908197DED60}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T233245Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2dca563e-3c16-4723-9cfe-32576ef20d77"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194530Z

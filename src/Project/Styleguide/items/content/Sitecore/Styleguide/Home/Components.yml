@@ -1,0 +1,73 @@
+﻿---
+ID: "a3271e0e-3a17-45b4-9ab0-3dd3a50d5a66"
+Parent: "2497d56c-9047-432c-9887-c6e80f7d956f"
+Template: "81ccd286-99e8-494f-918b-b04006680aa9"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1786A66C-C62E-4ED1-AF4E-BB296D7AF205}"
+              s:ds=""
+              s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
+              s:par="SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B8DCD17EE-AA62-48D3-93DC-C04FD0C0D8C4%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-page-body/container-1" />
+          </d>
+        </r>
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Components
+    - ID: "0c944f44-73d3-4348-b3df-3cef1c4d5619"
+      Hint: HeroBackground
+      Value: |
+        <image mediaid="{8F01ADD7-4800-4D2A-839D-7EE2AA58D13B}" />
+    - ID: "21f7b0ee-bc05-4276-ac55-095f64553e07"
+      Hint: HeroTitle
+      Value: Components
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190409T215634Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Components
+    - ID: "4e612443-b8d3-4491-8ca2-0504392d7fea"
+      Hint: NavigationIcon
+      Value: |
+        <image mediaid="{48E3E964-327A-496A-9677-9BB1AA3A5745}" alt="" height="24" width="24" hspace="" vspace="" />
+    - ID: "53068854-cf44-4cf4-8e4d-c3e54ac90f56"
+      Hint: HeroSubtitle
+      Value: Learn how to use all the default SXA components
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aaa46da6-bde3-4eab-a57b-a46638d52cdc"
+    - ID: "9aff080b-19ea-4519-91e2-97f5940279de"
+      Hint: Page Status
+      Value: Pending Review
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194525Z
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: |
+        <p>We would like to show you all the components we offer on this page but sadly there was not enough space. Then we thought about grouping them by category but this did not work either. Finally, we decided to spare a page for each component and let the flourish with their natural beauty.</p>
+        <p>You can browse the components by category or simply use the navigation at the top.</p>

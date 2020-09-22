@@ -1,0 +1,20 @@
+{
+    "namespace": "Feature.CssAnimation",
+    "items": {
+      "includes": [
+        {
+          "name": "templates",
+          "path": "/sitecore/templates/Branches/Feature/Sitecore/CssAnimations",
+          "allowedPushOperations": "createUpdateAndDelete",
+          "scope": "itemAndDescendants"
+        },
+        {
+          "name": "extension-theme",
+          "path": "/sitecore/media library/Extension Themes/CssAnimations",
+          "allowedPushOperations": "createUpdateAndDelete",
+          "scope": "itemAndDescendants"
+        }
+      ]
+    },
+    "references": ["Foundation.*"]
+  }

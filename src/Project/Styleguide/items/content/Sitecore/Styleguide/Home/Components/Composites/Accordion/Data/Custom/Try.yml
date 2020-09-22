@@ -1,0 +1,48 @@
+﻿---
+ID: "f75f6b67-cdc0-4136-ba52-ef9e6430cdfd"
+Parent: "347bf88c-965e-4721-a0dc-e70a2749ea1f"
+Template: "a6ddac75-7d24-4bdb-b3f6-5f47fbb21379"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Composites/Accordion/Data/Custom/Try
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/note_text.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T062104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5a236869-e375-49c0-a92d-0c2f1db7788f"
+      Hint: Content
+      Value: |
+        Try harder!
+        <p>Nunc dapibus accumsan libero, id tempor quam viverra sit amet. Quisque non orci at mi bibendum imperdiet nec id urna. Duis pretium urna libero, non suscipit sem fringilla nec. Pellentesque lorem tellus, imperdiet ut lacinia quis, bibendum a purus. Maecenas fermentum et mauris ut scelerisque. Donec eleifend, elit in blandit aliquet, felis libero ultrices ligula, ac porttitor ante justo non leo. Quisque ac nisl quis tortor blandit aliquet eget ut velit. Praesent tincidunt sapien facilisis varius gravida. Proin vitae tincidunt nisl, sit amet gravida lorem. Ut interdum placerat turpis nec fermentum. Quisque varius, tortor at dictum dictum, enim sem sodales metus, vel ornare nisi sapien vitae quam. Nunc fringilla tincidunt est. Sed accumsan vestibulum nulla, ut fermentum lorem gravida id. Nulla et tristique arcu. Nunc quis metus a mauris vulputate aliquam at in nisi.<br />
+        <br />
+        </p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
+      Hint: Heading
+      Value: Try
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01301182-88db-4067-aebf-99ebae95afdb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194707Z

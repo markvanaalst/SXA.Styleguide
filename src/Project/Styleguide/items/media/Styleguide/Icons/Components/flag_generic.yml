@@ -1,0 +1,56 @@
+﻿---
+ID: "801a6743-da15-48a0-b2e3-f3573e308964"
+Parent: "051b5ee3-4a62-460d-b239-aec6ca56add1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Icons/Components/flag_generic
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/E06F29E4E4D84E66B30112F81FD04473.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "2eeec47f-576d-45a8-bc0e-ae2b620abaa2"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAjVBMVEUAAABNgrj///9Uh7uSs9Tw9fl1nsjc5/Hj6/TY5PD6/P3R3+1ikcFRhbr8/f7g6fPE1ui2zOKhvdpwm8bz9/vp7/axyOCnwdykv9uKrdF5ocpql8Tl7fXK2urU4e6lwNuLrtFdjr+/0ua6zuSsxd6cudiPsdKEqc6ApsxmlML3+fzu8/iNr9JXibyYttYfoCctAAAAAXRSTlMAQObYZgAAAYxJREFUSMftlNlu2kAYRutjj/d9x2YJgQDZ+v6P1zHTGKqOwZV6kUg5N9Yn68z6z//jmzkY/8jXEMyHzCljfDd7MGcI5mbJmRKoNuY9wXZQvFhFE0Bi3xYsYL1YIallPKVg3RIsJE9GBmXwbBS7+rj3saYFm4HAsOpTKGM6hBLsKSFyGUhU6qwXFG40IbTqdA4fsz16r8po9YIpkOxDlZ5XddGfPAaEqRUWase/2aYOwXtoPyJZaIUMaMbpzmMvvX2AJNMKDqRjyLkQ42gFcX1JKSP+26uvFRBe1X2E1UV4kkPpBecIq+KvJaVTQiz6ajwR8zJFE/mxVnDpUxg30qkTxTMKXK2w4+3AgKy7M6Gv/JzdxMWtzeqPUnCG0MvPYqo0+jBGkl8JntHpS0PSyr8eUIYqR4kMP42Edrq88xyWxdV1C6PBjW48oLpKtmPuScID2DefqKivcvjegnWnCVTHSywCsO63mXXTbaNo2zXroc3Ma2S+ED6w3JjzWqUbQzy0yk/Svf+38M0MfgEhORkmJHvi9wAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 619
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133042Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Generic flag icon
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c8c7cd88-1e5d-4bb2-88cc-6d71c43aa614"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194432Z

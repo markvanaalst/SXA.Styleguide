@@ -1,0 +1,41 @@
+﻿---
+ID: "3744ac06-78e7-4b77-9dfa-0fb4dacf5ee3"
+Parent: "ab80b339-ee8d-4bea-9a31-35b67dd73612"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Flips/Extensible/Back
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160930T110405Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f75e8f8e-36fe-41bf-bec7-38058845918d"
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <p style="text-align: center;"><i class="fa fa-suitcase fa-3x"></i></p>
+        <p style="text-align: center;">Have brilliant and innovative idea? Our engineers love them.</p>
+        <h3 style="text-align: center;">I want to stand out!</h3>
+        <p style="text-align: center;">You are in the right place, send us an email at sales@cognifide.com</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194548Z
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

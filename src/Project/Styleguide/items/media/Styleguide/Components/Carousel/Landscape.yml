@@ -1,0 +1,23 @@
+﻿---
+ID: "c17cc1ea-1e4f-4b8a-bbaf-1975096a0bbb"
+Parent: "3c202196-9df7-41e5-9546-e3d332999b39"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Components/Carousel/Landscape
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170410T123006Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40b81e61-edd2-47fa-acc3-278c15a7cb21"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194434Z

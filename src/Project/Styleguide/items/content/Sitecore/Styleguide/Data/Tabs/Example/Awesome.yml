@@ -1,0 +1,47 @@
+﻿---
+ID: "dec76b0d-21fd-4b0d-bd5a-a57b558dfdfd"
+Parent: "224739d6-4327-41bb-bb68-ec5f20ba2dff"
+Template: "b27059e6-1190-4273-92a0-d22af3c440b4"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Tabs/Example/Awesome
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T072415Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "70181515-2aab-4710-91f4-52a08151693e"
+      Hint: Heading
+      Value: |
+        <p><em class="fa fa-thumbs-o-up"></em> <strong>Awesome</strong></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b8b3b95-2d5d-4253-b48f-32e914842b0a"
+    - ID: "99f62656-1f3e-4f98-9eac-a596fb174ba0"
+      Hint: Content
+      Value: |
+        Sed tempus lorem ac enim tincidunt maximus. Mauris auctor lectus quis erat tristique tincidunt at a libero. Vivamus sit amet enim elementum, congue tellus at, hendrerit ipsum. Nam ornare porta elit vel ultrices. Donec justo magna, euismod vel felis sed, tincidunt lobortis dui. Praesent efficitur euismod nulla in scelerisque.
+        Sed ante quam, sagittis nec faucibus at, commodo nec velit. Integer vitae lorem vel mi maximus semper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis congue vel velit.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194554Z

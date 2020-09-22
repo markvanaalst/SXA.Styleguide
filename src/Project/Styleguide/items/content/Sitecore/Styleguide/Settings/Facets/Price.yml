@@ -1,0 +1,37 @@
+﻿---
+ID: "a997fb50-0dc7-46e6-aad3-923affe8c629"
+Parent: "3eabfed9-edce-44f8-8ce7-347696d67caf"
+Template: "cd7a8a06-aa77-45e9-a585-da9c4686b129"
+Path: /sitecore/content/Sitecore/Styleguide/Settings/Facets/Price
+SharedFields:
+- ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
+  Hint: Parameters
+  Value: Price
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170420T201850Z
+    - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
+      Hint: Name
+      Value: Price
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5de17054-0141-4e58-935b-fec623a60806"
+      Hint: DisplayName
+      Value: Price
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3daae0ff-997a-4b3e-941c-b537e1c14cba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194546Z

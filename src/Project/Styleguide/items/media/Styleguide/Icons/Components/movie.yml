@@ -1,0 +1,56 @@
+﻿---
+ID: "fcdda657-fc9e-44c2-8346-1e754dd5f0aa"
+Parent: "051b5ee3-4a62-460d-b239-aec6ca56add1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Icons/Components/movie
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/2FC50D010B544B49870B51C22881EE96.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "c22df185-3195-4bf1-9030-98657f2e01b8"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAdVBMVEUAAACAgICAgICEhISAgICAgICAgICAgICAgICBgYGDg4OAgICAgICCgoKGhoaBgYGAgICAgICAgIB/f3+AgICBgYGBgYGAgICAgICAgICAgICAgIB/f3+BgYGBgYGAgICBgYGAgICAgICAgICAgIB/f3+AgIA4AjkFAAAAJnRSTlMAgdQF852Tb9kfCfh8OQ0X7t/OsKhdTSTJv7hUSklDLnSMaOk+Jt/Y+IcAAAIWSURBVEjH7VXXdqswEFSjY5ox8QUHYzuZ///Eq4IQzXbynjk6FLEj7e6sFvKH3+MjqFkBFKwOPt5b89MZKI8+pf6xBM4n/tr+MwQLIvsWBQzh5wvz2ANrllMNgxc/s88rUO1Blrkrp6jyJ/ahuKh71ybiQMhBJG2n3i8i3GXElTIjBwaJlJBU3ZmeEtWeVx7U+ik0KCEUGKnkAm8nP8qI+FgT4BP1vMkVDxm36zuC3YOzcK3HCY10FnsEyDganFaEM9NhWASEBPZZB8DOq/pRJqQX0EhusczaLYGG6ImiL+sqQKS16moBlFczeS0BUXdavwjBglCXkxxN6mopbSYBynpBYEf1fdqV+0L4fPJXrXBkC0Ihs/2VgFHjjQ/Pg2/8ogzJl5wqFgRQK0Ko8ic8mTKhsh1aKSieEJBwR+AJHGHj0h0GV+fSFQZ35dIm6B4GNxf0DQa9CnqT1swKxadkWSEzldatcC002GxjM9Nq4bal0ZnlZAz8O46/uYzBbNqZ0tgWHxvrLq7UQxWPFag/nV1pLsv76KrWUwJP5Z0N/0D1mB2gAWFuXLOu5CEGc4AGQmHG/IjmkhUVllBE0jY3RzR7wGLRBIhNlk0PGZuA72Znbcbl0mXYtJkeDutGdmiTUa/2YBtZ9IDDTqvs72l6712rlKHP8L4ZRwt7vG33PaGYjzc/lMw3ernx8peVDQ+sQf7wE/wHLUlVLeruFGUAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 770
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133044Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Movie icon
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e4d076a-0d54-4aeb-a775-b13ba474a9a0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194432Z

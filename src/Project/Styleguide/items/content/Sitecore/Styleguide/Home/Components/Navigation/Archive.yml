@@ -1,0 +1,58 @@
+﻿---
+ID: "52e3a7c3-f21e-4762-ad50-cb41b434bf03"
+Parent: "996ffe31-c0c7-4be4-91e0-a614c42f3a5a"
+Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Navigation/Archive
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{E32F633C-E215-4153-B10A-DA8DFF837616}|{AF6BC2BD-E522-4402-9308-E6501BD192B6}"
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{019B8B36-D68D-42D0-9680-FD2DA8535600}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{B3C8A26C-35FE-4F06-9BF4-2D74A4C83D1E}"
+              s:ds="{ADA4BD80-ADF2-480F-82BD-12F248B59D6E}"
+              s:id="{1B1FDBF9-551B-4A00-A6D8-BB2FB7B62A62}"
+              s:par="Format=%7BA64F2C16-F8ED-43E9-81E4-318EF5541EA9%7D&amp;FieldName=__Updated&amp;Reset Caching Options&amp;SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7BAE2CCEA5-0C87-4F48-A895-95B6090C8E59%7D%7C%7B28E4A246-65A8-43A5-99DE-130B240E118C%7D&amp;FieldNames=%7BE8400CF6-70F8-43A0-8A2E-2E47317F5C0E%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-page-body/container-1" />
+          </d>
+        </r>
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Archive
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T091649Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Archive
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{E2FA76A9-F6E7-44CA-A728-0E4F200C04EA}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df225b88-44de-4099-9038-54bdc5a69bbf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194557Z
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: The Archive component provides a list content divided into months, years or even days. It is a natural candidate to put on your blog pages as it provides clear chronological navigation.

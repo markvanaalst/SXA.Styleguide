@@ -1,0 +1,56 @@
+﻿---
+ID: "f2493519-01d0-4a87-a9ec-0ff4fa363ff6"
+Parent: "051b5ee3-4a62-460d-b239-aec6ca56add1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Icons/Components/clipboard_check_edit
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/A36380DE2020403A955F19121D20FA64.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "37b1fb4d-af04-4d42-9d53-c97ea055fe15"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAllBMVEUAAABPgLdNgriAgIBOgbftx35NgrjtyH7uyX5PhLiAgICAgIBNgrlNgriEhIRHgLjyx3/syX5Mg7mAgICAgIBNgrhNgrh/f3+AgICAgIBNgbeAgIB/f3+BgYGCgoJKf7X/tm1pjqpwgJOBgYF/f3+CgoKFhYWAgIBNgrlNgrjtyH5NgrhNgrdNgrdOgrftyH5NgriAgIC0krlvAAAAL3RSTlMAIN+AgIDO8JIa2Xx6bx8SEs5//PXYwrixn46Fdlk7JgcGMmlYKxkQ9u3gr5mHXHEHeB8AAAGCSURBVEjHzZXZboMwEEVNoCwF0pAVEkhC1u6M///n6itEa2Rj/FCpvQ+J4jknM0ykmP1OblUcVzdr/JovuMgiv9rxlyXnj9PpI+fLiwW+LwXPd4ztuDDK/Qh+33CRrgOyuRsF8HJgGOcRj1q4Ugrx+KapSs6L/knBeTkAH8OAuZy7rJHSngThUSOEohxjPw9SsKtYfEWoEQIhVNiPfIhdVUIINAIGqHOuJK9R0go4PZ1jV0p8PjFmEBBt6dVSSNO2lM3qyEbwiDy8ZzNnQtsxAbwIeoAnGGYBPASRN0K2Q4Ij8R4+O09+Z6gCyHmfn0w6I9UJc1GY93iiznjXCA4h6x7fGngd6kA9vjPAKwIMlW8NZ2hLnspjSsMP5yk8OgwKMEy8KoBVebOg8uOCL/OzceFAH6sfPhsXEoqi1TffjAu+2DsMzJ8148KBEgYDvNWfQEIvpyhdg7cSsKNnIj+JmJ1QE+gDQ+w6fHa0pYD8vRA0hgTaC8WQUH9lDeG4sv5xvgBUDWxv24J8BgAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 664
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133040Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Clipboard icon
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a70bf2bf-3bb5-40b3-a314-a546ce8994c8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194431Z

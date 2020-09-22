@@ -1,0 +1,36 @@
+﻿---
+ID: "e63b4a6c-30b0-41c8-a193-98aa7deaa45c"
+Parent: "bf866706-f668-4731-95af-dc6ffea07e83"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Page Designs/Data/Text 7
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T114428Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19aa3f13-3183-4a8c-9159-19037ec87ac0"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h3>Author-friendly</h3>
+        Let your content authors focus only on the important sections of their pages. By using designs, you can leave only selected placeholders to be filled by authors. Thanks to this, they will be not bothered by the task of creating <a href="~/link.aspx?_id=7F089BD8305C42C4A1E36DE5D931D332&amp;_z=z">layout </a>and their attention can be focused on creating great content.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194631Z

@@ -1,0 +1,41 @@
+﻿---
+ID: "d0a12107-dfcf-4587-a37b-708947e7ea6c"
+Parent: "b12c0215-6b82-4c97-8336-9230b341292e"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Flips/Theme Change/Back
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T094508Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "53399b35-f964-4859-af27-fa7485d59c70"
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <div style="text-align: center;"><img alt="wireframe" src="-/media/4F1F95B7A72B47DC84761CF8E323D854.ashx?h=38%&amp;w=100%&amp;hash=955CD361D7139711FADA50F2E9BDD5828959F3B3" style="height: 38%; width: 100%;" /></div>
+        <h3 style="text-align: center;">Bring your site to life</h3>
+        <div>&nbsp;</div>
+        <p style="text-align: center;"><span style="font-size: 15px; line-height: 1.41;">with just a theme change</span></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194549Z
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

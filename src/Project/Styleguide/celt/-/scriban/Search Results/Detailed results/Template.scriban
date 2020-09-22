@@ -1,0 +1,8 @@
+<h3><a href="{{ i_item.url}}">{{ sc_field i_item ['NavigationTitle', 'Title', 'Name'] }}</a></h3>
+<span>{{ i_item.url}}</span>
+
+{{ if(i_item.Content.raw == "" )}}
+    <p>No description available</p>
+{{ end }}
+
+<p>{{ i_item.Content | string.truncatewords 15 }}</p>

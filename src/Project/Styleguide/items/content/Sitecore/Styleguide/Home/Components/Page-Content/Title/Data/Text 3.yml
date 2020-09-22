@@ -1,0 +1,37 @@
+﻿---
+ID: "93cbb62e-f714-48f0-88b5-0bcb25f9a720"
+Parent: "30580b56-1728-48fa-b614-7ffc37398dd2"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Sitecore/Styleguide/Home/Components/Page-Content/Title/Data/Text 3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191219T101446Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2eb1c45d-390d-4033-864b-2fdb811279f0"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Title with fall back</h2>
+        But what if your page does not have a Title field? Don't worry we have a variant for that. This component variant with fall back allows you to define what happens in such a case. In the example presented here the following is happening: if the primary title of the page is not defined then the navigation title is displayed. If this field is also empty the display name is shown and if that fails a custom text message will appear.<br />
+        <img alt="" height="207" width="489" src="-/media/E2D84788ABC94C308559B1EC576EFED8.ashx" /><br />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194659Z

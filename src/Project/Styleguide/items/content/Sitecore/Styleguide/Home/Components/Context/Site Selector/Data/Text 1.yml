@@ -1,0 +1,37 @@
+﻿---
+ID: "6a11c95a-424c-424b-901f-c48eb38d8e40"
+Parent: "ebb0506b-f8db-4aa7-9507-8378f2d8018f"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Context/Site Selector/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T125345Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "baa5f7e2-3df3-4219-945a-5e2fbdda177c"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>Often there are minor differences between markets. With only translation, all the content which is on the original page have to be on the translated page as well.
+        That is why we have created "markets." These are not just translations of pages on steroids! Each market can have a different structure and set of components, so it is entirely up to you whether you want to mirror your pages or address each market on its own. This gives you the flexibility to plan your global launch using the best approach for your brand.</p>
+        <p>You can see how all this works using the selectors on the right-hand side.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194645Z

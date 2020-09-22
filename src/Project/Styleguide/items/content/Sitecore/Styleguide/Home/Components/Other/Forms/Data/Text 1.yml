@@ -1,0 +1,60 @@
+﻿---
+ID: "8f93f74c-29b1-497f-8244-dc30ad26d4ad"
+Parent: "91ef4bab-8aa0-4282-9306-3d2cad0d26de"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Other/Forms/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T133943Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ac5229b-1e87-4d52-8913-f2764a77945e"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <ol class="procedure" style="list-style-type: decimal;">
+            <li class="step">
+            <p>Open the Toolbox. In the <span class="guilabel">Forms</span> section, click the <span class="guilabel">Sitecore Form Wrapper</span> or the <span class="guilabel">WFFM Form Wrapper</span>. When you click and start dragging a rendering, the placeholders where you can drop the rendering light up in blue.</p>
+            </li>
+            <li class="step">
+            <p>Position the wrapper above the desired placeholder, and when the placeholder lights up, drop it on the page.<br />
+            <br />
+            <img alt="" height="263" width="601" src="-/media/9B5BB3BB36594FDDBF737D643F7A47EE.ashx?h=263&amp;w=601" /><br />
+            <br />
+            </p>
+            </li>
+            <li class="step">
+            <p>Now the MVC Form rendering is available in the Toolbox. Drag it to the wrapper on the page.<br />
+            <br />
+            <img alt="" height="285" width="600" src="-/media/A69AA42B25494A5EA83007009D4BEA18.ashx?h=285&amp;w=600" /><br />
+            <br />
+            </p>
+            </li>
+            <li class="step">
+            <p>In the Select the Associated Content dialog box, select the form that you want to display on the page and click OK.<br />
+            <br />
+            <br />
+            <img alt="" height="185" width="493" src="-/media/7F47250E046B4EBC91209DFEC2DFC4FF.ashx" /> </p>
+            <p>The form is now displayed on the page.</p>
+            </li>
+        </ol>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194653Z

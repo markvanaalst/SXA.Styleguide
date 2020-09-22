@@ -1,4 +1,0 @@
-tls:
-    certificates:
-      - certFile: C:\etc\traefik\certs\_wildcard.sc.local.pem
-        keyFile: C:\etc\traefik\certs\_wildcard.sc.local-key.pem

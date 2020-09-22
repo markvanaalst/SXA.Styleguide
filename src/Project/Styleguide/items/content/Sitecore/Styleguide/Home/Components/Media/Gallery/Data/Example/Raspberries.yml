@@ -1,0 +1,42 @@
+﻿---
+ID: "3e9bd7ca-a24b-4289-9ebf-5c4382b0e924"
+Parent: "68135b05-32dd-4d4c-8e9a-73b97246e5eb"
+Template: "9d77c212-a828-4792-8e72-749f19c0154d"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Media/Gallery/Data/Example/Raspberries
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1194ed4a-378b-4d43-adba-a46e6082e004"
+      Hint: ImageTitle
+      Value: Raspberries
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T133831Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65c38e98-076f-42fc-8a0e-47d9b86a0561"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "cbdaab5f-3f7a-4072-8b7f-6a325a4a2205"
+      Hint: Image
+      Value: |
+        <image mediaid="{C1941367-4196-45FC-B321-8E459C11F5E9}" ></image>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194709Z

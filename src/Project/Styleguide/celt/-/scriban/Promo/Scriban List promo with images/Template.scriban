@@ -1,0 +1,19 @@
+<h2>{{ i_item.PromoText }}</h2>
+
+<div class="introduction">
+    {{ i_item.PromoText2 }}
+</div>
+
+{{ if i_item.has_children }}
+    <div class="row item-list">
+        {{ for i_child in i_datasource.children limit:3 }}
+        <div class="col-md-4 item">
+            {{ i_child.PromoIcon }}
+            <span class="description">
+                {{ i_child.PromoText2 }}
+            </span> 
+            {{ i_child.PromoLink }}
+        </div>
+        {{ end }}
+    </div>
+{{ end }}

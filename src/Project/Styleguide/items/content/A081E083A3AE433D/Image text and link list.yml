@@ -1,0 +1,44 @@
+﻿---
+ID: "cf44354e-eefe-468b-a54c-9d60a1ffe831"
+Parent: "506eb0d1-afc3-413f-be00-fb6b9e728340"
+Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
+Path: "/sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Promo/List promo with images - component/Row/ChildItems/Image text and link list"
+SharedFields:
+- ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"
+  Hint: RenderingItem
+  Value: "{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Value: <ruleset />
+- ID: "af48c671-dd3e-41ed-95b3-534560bef882"
+  Hint: RenderingParameters
+  Value: "GridParameters=%7b55FE3688-E76D-4B6B-8648-E1B802B9BDD7%7d%7c%7b878F0549-848F-4AF6-B18D-936AEF2590BE%7d&FieldNames=%7b51C32ABE-147A-484C-87E9-5C1BAF0B4990%7d&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190424T103207Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40df11c1-ce7c-4ad6-a4b4-33576e6908da"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194710Z

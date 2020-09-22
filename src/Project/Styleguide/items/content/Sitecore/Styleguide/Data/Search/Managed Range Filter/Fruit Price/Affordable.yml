@@ -1,0 +1,41 @@
+﻿---
+ID: "942eda35-0f22-4285-8351-744d14b8ca1c"
+Parent: "891e2ab7-24ac-4850-9706-961db37a350d"
+Template: "958ffbdc-f1e1-4486-8667-c2dd451f5e31"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Search/Managed Range Filter/Fruit Price/Affordable
+SharedFields:
+- ID: "55215831-d3c0-450a-ae0e-6f10e74b56be"
+  Hint: MaxValue
+  Value: 3
+- ID: "bd38a8a0-c8bb-42ca-9783-c80296fe8bac"
+  Hint: MinValue
+  Value: 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170420T201627Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "77f05fd0-6463-4a57-a37e-c2232293c891"
+      Hint: Title
+      Value: Affordable
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ddcb397-6634-48c6-be7f-e84e3d271701"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194621Z

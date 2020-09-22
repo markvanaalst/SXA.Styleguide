@@ -1,0 +1,41 @@
+﻿---
+ID: "9d94d152-b0b0-4250-a98e-f8b860015b9d"
+Parent: "0e911783-32be-42bd-8f28-ae42abdce350"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Promos/Features/SXA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Sitecore Experience Accelerator
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{B49A7135-4C3D-42D1-8875-90F3C6BB234C}" alt="" height="95" width="200" hspace="" vspace="" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190424T101129Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c6dd6855-4eb4-4809-b380-f9a325a982dd"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: "<p>SXA is a platform and a concept that enables organizations to perform quick delivery of sites, using standardized sets of functionality with minimum-to-no CMS development. For the purpose of achieving this goal, Sitecore Experience Accelerator utilizes a number of concepts, like grid frameworks and a componentized architecture, to allow for easy and consistent styling of pages and ease of design.</p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194551Z

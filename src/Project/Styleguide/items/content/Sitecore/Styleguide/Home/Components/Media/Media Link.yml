@@ -1,0 +1,155 @@
+﻿---
+ID: "a45c1323-ba8c-4437-928c-b80c4097dafc"
+Parent: "a522a7e0-f5bb-4df8-a18b-4bf7058a659e"
+Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Media/Media Link
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{AF6BC2BD-E522-4402-9308-E6501BD192B6}|{E32F633C-E215-4153-B10A-DA8DFF837616}"
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{BB67B58D-5113-4D7D-B3F6-E95276AFC18D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{242D2222-053A-4CE0-9C4E-1B5DE6060017}"
+              p:before="*"
+              s:ds="{F51AC5EC-DDF4-4F8E-845D-9A66D7AA802C}"
+              s:id="{B3D80586-1081-4C7C-835F-DD75B2681CC8}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D&amp;FieldNames=%7B5BBB2FD9-EBB5-41F4-BF79-737DAB1642FB%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=13"
+              s:ph="/main/sxa-page-body/container-1/container-12" />
+            <r
+              uid="{1CA8DF89-7083-4B6A-9EE1-A78BE6AD710F}"
+              p:after="r[@uid='{242D2222-053A-4CE0-9C4E-1B5DE6060017}']"
+              s:ds="{F51AC5EC-DDF4-4F8E-845D-9A66D7AA802C}"
+              s:id="{B3D80586-1081-4C7C-835F-DD75B2681CC8}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D&amp;FieldNames=%7B5EAAB38F-B9DC-4B0F-B82E-F8D0DFED5264%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=14"
+              s:ph="/main/sxa-page-body/container-1/container-12" />
+            <r
+              uid="{A9321CAA-57A7-46EF-A329-EF1A25C4EB92}"
+              p:after="r[@uid='{1CA8DF89-7083-4B6A-9EE1-A78BE6AD710F}']"
+              s:ds="{F51AC5EC-DDF4-4F8E-845D-9A66D7AA802C}"
+              s:id="{B3D80586-1081-4C7C-835F-DD75B2681CC8}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D&amp;FieldNames=%7B1B520A3A-FD26-496D-AF19-AABA13B41329%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=15"
+              s:ph="/main/sxa-page-body/container-1/container-12" />
+            <r
+              uid="{C4EF03DB-2E74-46D3-A546-FC77D16868CD}"
+              p:after="r[@uid='{A9321CAA-57A7-46EF-A329-EF1A25C4EB92}']"
+              s:ds="local:/Data/Text 3"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=11"
+              s:ph="/main/sxa-page-body/container-1/container-10" />
+            <r
+              uid="{3F8D6F28-AEC1-4A03-AA6D-3779A0C46FE2}"
+              p:after="r[@uid='{C4EF03DB-2E74-46D3-A546-FC77D16868CD}']"
+              s:ds="{6685ED35-FD73-48A1-861A-7C1184B04C92}"
+              s:id="{B3D80586-1081-4C7C-835F-DD75B2681CC8}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B5EAAB38F-B9DC-4B0F-B82E-F8D0DFED5264%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
+              s:ph="/main/sxa-page-body/container-1/container-1/column-2-5" />
+            <r
+              uid="{E3892FFB-7447-4DCA-A6E4-DBB1D3844EB7}"
+              p:after="r[@uid='{3F8D6F28-AEC1-4A03-AA6D-3779A0C46FE2}']"
+              s:ds="{F51AC5EC-DDF4-4F8E-845D-9A66D7AA802C}"
+              s:id="{B3D80586-1081-4C7C-835F-DD75B2681CC8}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B5EAAB38F-B9DC-4B0F-B82E-F8D0DFED5264%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
+              s:ph="/main/sxa-page-body/container-1/container-1/column-2-5" />
+            <r
+              uid="{4B6A7D0E-186D-4E36-B80E-2A23589FD0DD}"
+              p:after="r[@uid='{E3892FFB-7447-4DCA-A6E4-DBB1D3844EB7}']"
+              s:ds="{85CA00DC-0010-4AB9-ABEF-5219789B7B2F}"
+              s:id="{B3D80586-1081-4C7C-835F-DD75B2681CC8}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B5EAAB38F-B9DC-4B0F-B82E-F8D0DFED5264%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=9"
+              s:ph="/main/sxa-page-body/container-1/container-1/column-2-5" />
+            <r
+              uid="{575C05A1-19F3-4F10-80DB-D0553CB56025}"
+              p:after="r[@uid='{4B6A7D0E-186D-4E36-B80E-2A23589FD0DD}']"
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="ColumnWidth1=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth2=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=5"
+              s:ph="/main/sxa-page-body/container-1/container-1" />
+            <r
+              uid="{6C416B77-B0F6-4D06-B7E2-FA83ECE8554F}"
+              p:after="r[@uid='{575C05A1-19F3-4F10-80DB-D0553CB56025}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:ph="/main/sxa-page-body/container-1/container-1" />
+            <r
+              uid="{8A4145FC-E2D4-4C0B-B0E5-C64AE5E41E07}"
+              p:after="r[@uid='{6C416B77-B0F6-4D06-B7E2-FA83ECE8554F}']"
+              s:ds="local:/Data/Text 1"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-page-body/container-1/container-1/column-1-5" />
+            <r
+              uid="{81B97DAB-DCB5-4AB7-914B-8C142BDCE71B}"
+              p:after="r[@uid='{8A4145FC-E2D4-4C0B-B0E5-C64AE5E41E07}']"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-page-body/container-1" />
+            <r
+              uid="{8BF142D9-DA4E-42E5-8390-8A10E3AFBE48}"
+              p:after="r[@uid='{81B97DAB-DCB5-4AB7-914B-8C142BDCE71B}']"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B9D1CB715-A288-4326-96EF-A83DBDC35243%7D%7C%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D%7C%7BC5559A5F-CD20-4D3F-80A5-B6DEBE787ED0%7D%7C%7B4CE0B894-48F7-458F-A10D-907957171BD7%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=10"
+              s:ph="/main/sxa-page-body/container-1" />
+            <r
+              uid="{DED8A1D0-B8E5-44F3-9A7F-178F2A2C1CBF}"
+              p:after="*[1=2]"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=12"
+              s:ph="/main/sxa-page-body/container-1" />
+          </d>
+        </r>
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Media Link
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T091550Z
+    - ID: "35381ea8-84f8-4509-8495-2ac4e3acc4ad"
+      Hint: Full Article
+      Value: |
+        <h2>Media link</h2>
+        If your web page needs a link to a document, or to any other asset stored in the Media Library, please take a look at the Media Link component. This dedicated component allows you to display additional file metadata: e.g. longer description, custom image,&nbsp;size&nbsp;of the asset, etc. The better you present your asset, the more likely is your user to follow the link.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Media Link
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{DDD1C8BB-60CD-4DF5-AD29-2FB9F12E23DC}" ></image>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5daaa330-2c4d-4d00-8f90-3c055c7040e8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d5664c58-950f-468d-9752-6e5558c5bc1f"
+      Hint: Component Features
+      Value: |
+        <ul>
+            <li>Insert links to any Sitecore Media.</li>
+            <li>Style your links as buttons, available in different variations.</li>
+            <li>Create media links with additional author-defined metadata.</li>
+            <li>Apply component variants for various display of the same media link in different contexts.</li>
+            <li>Use tokens to display basic asset properties: file type and size.</li>
+        </ul>
+        <span>Find detailed information on our documentation page.</span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194556Z
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: Media link allows you to build rich and consistent asset downloads across your site.

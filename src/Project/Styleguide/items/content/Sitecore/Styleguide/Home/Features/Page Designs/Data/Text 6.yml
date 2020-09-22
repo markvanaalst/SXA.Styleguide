@@ -1,0 +1,39 @@
+﻿---
+ID: "750aed21-1325-4abd-97fa-86bc4d885113"
+Parent: "bf866706-f668-4731-95af-dc6ffea07e83"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Page Designs/Data/Text 6
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T114304Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "30577bdf-387f-49cd-8912-791dfceefda3"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Consistency in style</h2>
+        <p>Show your class and taste by keeping the layout of your site consistent across all of your pages. While Partial Designs allow you to create common parts of your page, Page Designs allow you to group them in various combinations and attach them to specific kinds of pages. You can keep the base template equal on every page, while the content may vary as you can see on the screenshots below.</p>
+        <p>&nbsp;</p>
+        <h2>Unlimited configurations</h2>
+        <p>You can define as many layouts as you wish. Furthermore, you can assign as many partials as you want to every design. No layout is too complicated for SXA!</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194631Z

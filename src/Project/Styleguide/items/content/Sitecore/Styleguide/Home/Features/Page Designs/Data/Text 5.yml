@@ -1,0 +1,40 @@
+﻿---
+ID: "5d6cf220-4f3e-4192-b5a3-9d6eba4cf39b"
+Parent: "bf866706-f668-4731-95af-dc6ffea07e83"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Page Designs/Data/Text 5
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T113956Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35c1e299-9be6-4528-8359-dc02500a0748"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h3>Step 2</h3>
+        <p>Once you click a Design, you will see a dialogue box where you can choose the <a href="~/link.aspx?_id=276E751362FD4B62BA8D2FBC292D55A7&amp;_z=z">Partial Designs</a>&nbsp;that will be used to render this page and others of the same type.</p>
+        <p>&nbsp;</p>
+        <p>In the example below, which is taken from this page that you are reading right now, you can see that we have selected "Header" and "Footer" which are shared across the whole site. Also the "Feature Content" snippet has been selected to provide a specific title bar throughout the Features section.</p>
+        <p>&nbsp;</p>
+        <p>The rest of the page was built by adding content and some components specific to that page.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194631Z

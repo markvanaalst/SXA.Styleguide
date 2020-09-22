@@ -1,0 +1,39 @@
+﻿---
+ID: "bc694ed8-7dda-43d4-9d78-00916e4a3424"
+Parent: "2820a4c6-8e23-4d69-9d5f-480b42050072"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Sitecore/Styleguide/Home/Components/Page-Structure/Toggle/Data/Text 4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191219T141833Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94921f63-ac10-4aae-a14b-cd6e7f2eb93a"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>Let us put this that way:</p>
+        <h3><b>No!</b></h3>
+        <p>Installation and configuration is super easy. All you have to do is to install the package we will provide you and copy SXA license to the Data folder (in the same way you do with your Sitecore license).</p>
+        <p>You can then start building your website.</p>
+        <p>Or you can ask your authors to do so and go to Hawaii with your family.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194701Z

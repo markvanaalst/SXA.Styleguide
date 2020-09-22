@@ -1,0 +1,34 @@
+﻿---
+ID: "edef8321-bfd3-4454-b833-54408e17b735"
+Parent: "18ef6a4c-54a7-4111-8c2a-a7eac2d50e0f"
+Template: "a2cb73c7-0054-4461-aab8-0969fdd2e094"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Toggles/Toggle Components
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191219T142049Z
+    - ID: "2d36cf85-84be-42d2-b710-8d13b8844cdd"
+      Hint: Text
+      Value: <p>How about this</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0143c1fe-d746-4119-89f5-f8e0928611aa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194533Z

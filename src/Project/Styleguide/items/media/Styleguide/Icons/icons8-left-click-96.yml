@@ -1,0 +1,52 @@
+﻿---
+ID: "93ed8232-9b65-492a-b865-73a72701218a"
+Parent: "afff2771-1b53-4ca4-9aa0-cf7d9f9cbfd1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Sitecore/Styleguide/Icons/icons8-left-click-96"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/93ED82329B65492AB86573A72701218A.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 96
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "1457d3d8-84c3-4c33-bd9f-8b4e29249db6"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAcASURBVHhe7Zx/bBNlGMcP0AWDP8D4IxrFxLgEYvQPJfKHGsCYGDET0MggRKNRlCii/6gEwcrVKQZ2NyAhEBNj1AQdP0ZbQgQKLIpIjAykw3a0CUJEtnaUtWMyUHl93uszuF6fyXq9Qp/bfZJPlvG+W9/v93707gooHh4eHh4elxOfEEM3dWbGB1PZ+YFUZn0wlTkYSGbTwWTmLE7xKAcbkqdvg7JVKPsolC8ocaqHkzSdOjUSyl0Be/sZa+FW8Uc8nCLYkX0W9voOqmxK/DGPUmkUYhgUusJasMlu2DBr4etroc6uh7b8mb15jRBX4497lMKuI2J4IJnZaCkczbQHOrvmNnZ0XIvTPZzE2POT2YC1eDj/98o3YK/4MgNlN1jLl+8BgY7swzjFo1yEOrPTCspPZg5tTqfvwil5fHvs/DWhVNcs44hJZo7JowSHPIold6mZf7UDhSaD6fRonHKBXUJcBfcCC8CMeb4Up3gUC+zFK/PKhLta6rQT6Oi6BzbM/ry5JnEaze7odcq2g08p21s/VcKtIfgaA9PgOfheSPfHEn2ea4nF02AMDLVE40ta2hKTo1H4HW5D3uFab7Lg+w9x+ALw52Ngwxw3z7OKUy/iE0OVcKQGSt4IX3v7iu5P0wYgbYkmevfH4usPRA/XCAG/2w3Aqacuv8hM+6ZUKm9PC7R330qXD5elqYw/mDz1wOaurlE4XVGEGAKlz4JSf7OW/H9SpfdrNHFoX1tiBmyIIfiq/JAP1gqf7XS/gcMGMiDM2Zo/B46SZPbrxnT6Bpx2kR2H7lW2R76nCr6UZNGXtnlfW9tYfHVeyLtYS7HdW0+cGIHDBrCXP2+ZI23A4XzCkZehyB5rsQOVKHeAxnvgiHgRV8EHKHK+uVg4nXyDQwbGFU8q25Y3B46GgsM+d8rRqVKLkS534MJ7RD2rUxIUvi6v3FT2VRwyCCUzk/PHM71bOnvuwOEcMnA48gVVaLFSpRYrXDV9zmYjBJKZiLlg+UELDhlA4Z+Zx2H+ahy6SLh1ubVIu1KF2nQZrq6ygdPJSXPBwePZm3DIQN4Jm8dDqe6JOJQjHHmFKtKuRJH2jSZewlVWLvKGy1xwoxBVOGQAGyjvbjfvqmdbZCyUZvsNl5Is0rbxnl9iR8bgal2G8aZr71LTalXTj6L6zQViXM10MeHp6WLOO4vE1h9+Igq1ZTPr+4R+yd1kkYUWY1XTHvHglBli/BNT8nxs2kyxc+8+qtCiPRCL1+KqXYLxeKG4O9z+rJ73fkH5fb7+3gdkocXaEku0wlHgjscWBvLZDlGmHcfVPEeWL50wpZYs1I7y2RGu3gWEWzdYi7QrVbxZqkx7xtfj6pmz5fD1cAScpcq0I1W6WbrM4pVPUd3xKFs+zyeKtCtVulmqTLvCe8GTmIIxuQ9TyDLtSJVuliqyBD/GFIyRn2QRRdqVKt0sUaJt4QgIYgrGyI8RiSLtSpVulirSttF4FFMwJhw5SRVpV6p0s2SR9u3EFIxx8ApISpVulijRtnAKcsFfnydKLEWqdLNUkaWIKRhDlFiKVOlmqRJLEVMwhiixFOUTUKp4qZOPIvrEFIwhSizF6rkLyPKlc95dRJZYipiCMUSJpTh8XTP5OHrS1Jli2+69ZImliCkYQ5RYqlWb9ojqeQvhdFQrJk6tNfb8cpQvxRSMIQp0Uqo0J8UUjCFKc1KqNCfFFIwhSnNSqjQnxRSMIUpzUqo0J8UUjCFKc1KqNCfFFIwhSnNSqjQnxRSM8euCteyhQnGSPVQoTrKHCsVJ9lChOMkeKhQn2UOF4iR7qFCcZA8VipPsoUJxkj1UKE6yhwrFSfZQoTjJHioUJ9lDheIke6hQnGQPFYqT7KFCcZI9VChOsocKxUn2qPpfZDAensEUjFH1P4hgPFS1dkzBGFX7lQzHQVVvwxSM8es7C4KxUfsZUzBG1b+kwzFQ1V3w74RV7S0yHA9VTMEYf8MjRDAeqvozmIIxS5eOgKPgHzJgpevT7sYUzFH1HWTAyjaOq3cBfn22JVzlq+p1uHoX4Ku/EUKdLQhZydY13I+rdwmsLke1PbhqFyHf0FTtHB240tQex1W7DFVbRQeuKJtxtS7kk1WjYO86SoSuDFX9tFK3zKX/dXEfi+snVPB9wWxcpcv5SH+bCH+lXYOrGyT49YWWAq6g2ldKY+MwXNkgIveg7u/CQi6jqrZ8cJbfx+L6SVDEiYJiyq7WDW+6L+AqBjk+fSTsiauhmH8LiyqHWkDxL7sTX93jAmr9fVDQWrBMG0L7TlmsPYqv5tEvvobRcEQsAiPgebrMASo/1/VrS9x/fV8ufEtvgSJrYUPIu+idUOjv8JV6sAd/Bjd5qrYLhNOZNkvxrbwdf4uHh4eHh8cVRlH+Axg0AjCmSch6AAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1899
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 96 x 96
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 96
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190424T114105Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39a1c87c-4b96-4d46-91b6-b60c79b43a43"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194422Z

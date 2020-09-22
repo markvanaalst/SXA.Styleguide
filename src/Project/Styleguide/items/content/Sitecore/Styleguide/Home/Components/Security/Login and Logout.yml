@@ -1,0 +1,86 @@
+﻿---
+ID: "7118d97d-661c-4911-b315-d57931e8d41f"
+Parent: "072f238f-aca5-46c3-b5ec-79fe22113893"
+Template: "2c0f3f90-66f3-4585-b9da-da3cd8a26bf2"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Security/Login and Logout
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{AF6BC2BD-E522-4402-9308-E6501BD192B6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{40DCD7C5-3C66-4334-BC78-3059E8ECAFB3}"
+              p:before="*"
+              s:ds="{0DD6597C-5820-49F7-9994-D3ADF24391D3}"
+              s:id="{596DBC32-8F3B-4B67-9CAA-889B5F8DF538}"
+              s:par="Reset Caching Options&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;Styles&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/container-1" />
+            <r
+              uid="{47B08F19-158F-4970-8E59-A8A81CC9CC5F}"
+              p:after="r[@uid='{40DCD7C5-3C66-4334-BC78-3059E8ECAFB3}']"
+              s:ds="{D08CD036-BB3F-4E0C-9D78-DABF154EF019}"
+              s:id="{E7AF0BB2-969E-4B4F-86AC-62FC4F2FE2D6}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles=%7BAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7D&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/container-1" />
+            <r
+              uid="{E90C22A0-119D-42BC-93C5-E1F919BA1534}"
+              p:after="*[1=2]"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-page-body/container-1" />
+          </d>
+        </r>
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Login & Logout
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T123540Z
+    - ID: "35381ea8-84f8-4509-8495-2ac4e3acc4ad"
+      Hint: Full Article
+      Value: |
+        All you need is the "Open Sesame" functionality, also known as the Login component. Once your users are in the treasury, they need a way to get out. This emergency exit is called the Logout component. Read below to learn how to combine these two SXA components to build a complete password-protected website.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Login & Logout
+    - ID: "714ff508-7ee4-4b12-bb0d-3f3caae7920c"
+      Hint: Image
+      Value: |
+        <image mediaid="{A03A6232-FE55-4439-8C51-07D491B94129}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a62e56b-a398-4877-946a-9c8affeb5ec2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d5664c58-950f-468d-9752-6e5558c5bc1f"
+      Hint: Component Features
+      Value: |
+        <ul>
+            <li>Sign in and out users from the system.</li>
+            <li>Protect website areas that shall not be publicly available.</li>
+            <li>Display login and logout components only if applicable to current user's status.</li>
+            <li>Create separate login and logout pages or add login and logout boxes to each page with snippets.</li>
+            <li>All copies are editable and localizable.</li>
+            <li>Default configuration is provided for each new market, so no prompts to create data source.</li>
+            <li>Additional configuration can be created if needed.&nbsp;</li>
+        </ul>
+        <span>Find detailed information on our documentation page.</span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194559Z
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: If you have content or functionality that you want to keep away from public access, there is no better way than to ask users to authenticate with your site.

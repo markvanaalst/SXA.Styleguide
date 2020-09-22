@@ -1,0 +1,67 @@
+﻿---
+ID: "8cf2bd85-a992-47a7-9a59-7b42e689f9a4"
+Parent: "ada4bd80-adf2-480f-82bd-12f248b59d6e"
+Template: "59563823-269c-4bd0-9080-b7430b59dd29"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search/fruits/ribes
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}" />
+      <d
+        id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}"
+        l="{72C595AD-68BB-44BC-B5CD-2A857039515F}" />
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Ribes
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01c86cee-3313-40ec-b496-adbe77df9ba6"
+      Hint: Size
+      Value: Tiny
+    - ID: "03ffda14-0476-4d90-8885-9b67372e0dee"
+      Hint: Image
+      Value: |
+        <image mediaid="{3B9D3B7C-AB87-427A-9781-4B63DBE07DDE}" />
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Ribes
+    - ID: "17bde557-4346-4003-bee4-856187377943"
+      Hint: Taste
+      Value: Sweet and a bit sour
+    - ID: "23e0edd1-5b09-4a24-abf3-c4c5e34a8f9c"
+      Hint: Calories
+      Value: 56
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191213T143336Z
+    - ID: "3fac038d-9a56-469c-b038-159fb029e20c"
+      Hint: Price
+      Value: 2
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ribes
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d8e2d82-b68f-4ec1-b0e5-e8da941fe467"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194604Z
+    - ID: "df9a91a2-12d5-4608-b9db-550f0067b919"
+      Hint: Benefit
+      Value: "Lot of vitamin C and vitamin B-6"
+    - ID: "f4827f42-c68e-4fc2-97ee-5de1b2a4288c"
+      Hint: Colour
+      Value: Red

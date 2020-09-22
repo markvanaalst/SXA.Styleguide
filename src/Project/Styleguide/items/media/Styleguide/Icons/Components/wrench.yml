@@ -1,0 +1,56 @@
+﻿---
+ID: "c406fb88-b9a0-492b-b174-00676e619cd6"
+Parent: "051b5ee3-4a62-460d-b239-aec6ca56add1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Sitecore/Styleguide/Icons/Components/wrench
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/045FD4B6698644D299AB84CF2EF103FE.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "4e0064fa-d0fd-452a-b0f7-cdcb4d580649"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAe1BMVEUAAACAgICHh4eAgICBgYGAgICBgYGCgoKAgICAgIB/f39/f3+CgoKFhYWAgICBgYGAgICAgICBgYGMjIyAgICAgICAgICAgICAgIB/f3+AgICAgICAgICLi4uAgIB/f3+BgYGBgYGAgICBgYGBgYGAgICAgICBgYGAgIDTty1CAAAAKHRSTlMA/AnIGN9SOPHLw6kgEfNxbWArAvfv5LmhmpWLgAazsHZNRT4z189kJ3rxnQAAATJJREFUSMfllMtuwyAQRcHYpPH7/Y4dJ04z//+FbQ0qpQIN2bZn5cW5YmYsXfLHqe7zcu4vrvolD+AL7ujvDzh4i918Xkv/5Obf6Gt+3Gg+zvqiX+o+ziwCIXGlEwHquwbeQZBrP7KskIA+U8JgRUbSZkrOAKk1MIGaSfkQWAMFSB7cUz4s1sAdvkkj7kkfMiSgMsKnsc33FjAR2XyfGf3a9sDemnT7Bjw1+4PFv1KzP1XmdXuz3nLLuqFmPbd8YG0TrIVn9svgp9+UBGHT1qU3ooGuW2A992vdCfGTUPejCumhQPeZhzwQAtDoOtTSD3zEP8mS3mvHg2YA3fExqINixTXK5CdPglIAsOOjFwdF8akoiI2Kg+KMAMDGTh0Uw2OOB1WJkR7dGBNn/GLOTuR/8AG5DEuTuGMmFgAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 550
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133048Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Wrench icon
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "03927e8d-a10c-48f8-81f1-7e4941198359"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194433Z

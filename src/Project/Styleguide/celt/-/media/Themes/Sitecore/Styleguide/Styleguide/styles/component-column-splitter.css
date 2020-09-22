@@ -1,0 +1,12 @@
+.row.column-splitter {
+  margin-left: 0;
+  margin-right: 0;
+  max-width: none;
+}
+
+.row.column-splitter > div {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudC1jb2x1bW4tc3BsaXR0ZXIuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGVBQWM7RUFDZCxnQkFBZTtFQUNmLGdCQUFlO0NBS2xCOztBQVJEO0VBS1EsZ0JBQWU7RUFDZixpQkFDSjtDQUFDIiwiZmlsZSI6ImNvbXBvbmVudC1jb2x1bW4tc3BsaXR0ZXIuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLnJvdy5jb2x1bW4tc3BsaXR0ZXIge1xuICAgIG1hcmdpbi1sZWZ0OiAwO1xuICAgIG1hcmdpbi1yaWdodDogMDtcbiAgICBtYXgtd2lkdGg6IG5vbmU7XG4gICAgPmRpdiB7XG4gICAgICAgIHBhZGRpbmctbGVmdDogMDtcbiAgICAgICAgcGFkZGluZy1yaWdodDogMFxuICAgIH1cbn1cbiJdfQ== */

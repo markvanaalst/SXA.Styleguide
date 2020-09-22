@@ -1,0 +1,37 @@
+﻿---
+ID: "7ad186f3-a506-4837-8304-34e7ef9017d6"
+Parent: "fd646dbc-66d5-4a37-8450-5dfd673d3634"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Creative Exchange/Data/Text 6
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T085234Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5957f421-864c-4c30-a02f-f741823e5e54"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>What CAN'T I do offline?</h2>
+        <p style="text-align: left;"><img alt="" src="-/media/6D6708EF071F4065AF3C3FC0A4068F8D.ashx?h=159&amp;w=200" style="height: 159px; width: 200px; float: left; margin-right: 10px;" />In a word: content. Any changes to the HTML that are made (with the exception of new classes applied to the SXA components) will be ignored on import.</p>
+        <p>Content entry is a parallel stream of work which is ongoing and managed on the SXA platform. Therefore, the content that is included in the package is a snapshot that can be used for review but is mainly exported to allow the UI developer to work within a more realistic world than lorem ipsum.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194628Z

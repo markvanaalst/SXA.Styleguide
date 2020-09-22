@@ -1,0 +1,41 @@
+﻿---
+ID: "0b1ca1ed-3338-456b-a9b3-876a858fc248"
+Parent: "c72ab0e2-46d2-42ee-b5a8-b09c3a743715"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/xDB Integration/Data/Optimization through testing
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Optimization through testing
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{828310F8-1235-40BE-B7BE-B331ED324DE7}" alt="" height="164" width="200" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T160021Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "834186c2-0b49-4a9f-b69a-da99211e08d6"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: "<p /><p>A good digital strategy is never complete. It should be continually tested and honed. With Sitecore Experience Marketing, you can start a one-on-one conversation with each of your customers and create a personalized experience.</p><p /><p>Refine your digital strategy by running tests, analyzing the results, and improving your messaging and calls to action based on the outcome.</p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194627Z

@@ -1,0 +1,46 @@
+﻿---
+ID: "1b34c7ac-08ec-4b4c-9c63-445a7ec8671e"
+Parent: "347bf88c-965e-4721-a0dc-e70a2749ea1f"
+Template: "a6ddac75-7d24-4bdb-b3f6-5f47fbb21379"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Components/Composites/Accordion/Data/Custom/Me
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/note_text.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T062137Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5a236869-e375-49c0-a92d-0c2f1db7788f"
+      Hint: Content
+      Value: |
+        Finally, last one.
+        <p>Vivamus id libero eu est venenatis pharetra. Mauris hendrerit auctor suscipit. Nullam id neque in enim suscipit blandit sit amet ac orci. Cras eu consequat enim, in viverra erat. Donec ut eros vel sapien fringilla vehicula non et massa. Quisque quis sem posuere, ultrices ante quis, maximus quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ullamcorper nisi ut sem maximus rutrum. Nam auctor odio ut metus.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
+      Hint: Heading
+      Value: Me
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "967bef1f-c7cb-4816-981f-1a63760791db"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194707Z

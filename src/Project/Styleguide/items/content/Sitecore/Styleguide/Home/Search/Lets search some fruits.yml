@@ -1,0 +1,123 @@
+﻿---
+ID: "49910150-048b-4dac-957c-ae98d8f96511"
+Parent: "2c201fb2-ffb1-45df-aeb0-7df921a44da6"
+Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search/Lets search some fruits
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{36483839-68C3-495E-B427-6B3ACF4DFAE7}"
+              p:before="*"
+              s:id="{54A41030-BFF4-49E5-90FC-42A99E602863}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D&amp;SearchSignature&amp;Styles&amp;AvailableVariants=%7B89C8DF6C-C848-495C-97CB-3086E4FF69F9%7D%7C%7BDEA3EF73-B7CD-46D3-ADC8-7B0EE2A0BC01%7D&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/column-2-1" />
+            <r
+              uid="{12C7EB6A-A52A-4A56-A2C9-B36D7F91D98E}"
+              p:after="r[@uid='{36483839-68C3-495E-B427-6B3ACF4DFAE7}']"
+              s:ds="{8ACD9279-8BF3-425C-9A9F-CEF8819450A7}"
+              s:id="{39E187C6-54FC-4E70-948A-7D20DB073793}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7BFFD95C55-422A-4933-9E7A-0740D6840BF0%7D%7C%7BFC6AE850-2B6C-4E63-AE21-D48EC622006D%7D&amp;SearchSignature&amp;Styles&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/column-2-1" />
+            <r
+              uid="{B9D85287-9550-4259-8984-360EC85A3005}"
+              p:after="r[@uid='{12C7EB6A-A52A-4A56-A2C9-B36D7F91D98E}']"
+              s:ds="{52BA9067-B0D3-4065-8A2B-B01366CD5984}"
+              s:id="{5B249C53-F580-4623-8613-3AF9614126FE}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;Styles=%7B097B0256-9A50-4164-B4C9-934E3EAEDC7C%7D%7C%7BAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7D%7C%7B25CDBEA1-53EE-4470-89BF-EE8176260635%7D&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/column-2-1" />
+            <r
+              uid="{A2A2852A-ECCA-4099-BC33-A5F368D78D1E}"
+              p:after="r[@uid='{B9D85287-9550-4259-8984-360EC85A3005}']"
+              s:ds="{E1120A3C-59EC-4089-B9CA-42ECAE35F539}"
+              s:id="{FF6523B5-E93D-4396-8990-38FC537D71AD}"
+              s:par="Reset Caching Options&amp;ShowRangeIndicators&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;Styles&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/column-1-1" />
+            <r
+              uid="{BC61534A-D16E-469E-9351-DD36F004FAC2}"
+              p:after="r[@uid='{A2A2852A-ECCA-4099-BC33-A5F368D78D1E}']"
+              s:ds="{891E2AB7-24AC-4850-9706-961DB37A350D}"
+              s:id="{3C09F738-A63B-451B-A976-8925364316C4}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;Styles&amp;SelectedMinValue&amp;SelectedMaxValue&amp;Ranges=Show%20manual%20and%20managed%20range&amp;ManagedRangeMode&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/column-1-1" />
+            <r
+              uid="{456CE395-9C61-4618-9244-586FE2681D00}"
+              p:after="r[@uid='{BC61534A-D16E-469E-9351-DD36F004FAC2}']"
+              s:ds="{E94F09A2-BC4B-4832-9E94-255965115D94}"
+              s:id="{2B2EC80B-13E2-445D-BA1A-8B8F037DED66}"
+              s:par="Reset Caching Options&amp;SortOrder=SortByNames&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;Styles&amp;HighlightThreshold=2&amp;HighlightBehaviour&amp;CollapseOnSelection&amp;MultiSelection&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/column-1-1" />
+            <r
+              uid="{186A0FBF-B131-4448-9713-B663FF7852D3}"
+              p:after="r[@uid='{456CE395-9C61-4618-9244-586FE2681D00}']"
+              s:ds="{65C2E7CF-11D7-43DC-A856-3DA6AC710C4A}"
+              s:id="{2B2EC80B-13E2-445D-BA1A-8B8F037DED66}"
+              s:par="Reset Caching Options&amp;SortOrder=SortByNames&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;Styles&amp;HighlightThreshold=2&amp;HighlightBehaviour&amp;CollapseOnSelection&amp;MultiSelection&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/column-1-1" />
+            <r
+              uid="{0F013FC6-66B9-4C4A-89BC-178C71283433}"
+              p:after="r[@uid='{186A0FBF-B131-4448-9713-B663FF7852D3}']"
+              s:ds="{4201B0AA-E999-4ABC-B537-BF202B7AED88}"
+              s:id="{B036EA2E-A7A1-4FFC-B296-F8E5212C46AC}"
+              s:par="Reset Caching Options&amp;SortOrder=SortByNames&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;Styles&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/column-1-1" />
+            <r
+              uid="{65027C3D-7E28-4101-B69E-AD875580FE22}"
+              p:after="r[@uid='{0F013FC6-66B9-4C4A-89BC-178C71283433}']"
+              s:ds="{90A00547-F8B5-4C55-956D-A3BE624310A5}"
+              s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;FieldNames=%7B89C8DF6C-C848-495C-97CB-3086E4FF69F9%7D&amp;Styles&amp;Scope=%7BEE21B798-FE21-443A-A23C-4D8D124E3198%7D&amp;PageSize=20&amp;DefaultLanguageFilter&amp;DefaultSortOrder&amp;AutoFireSearchWhenNoCriteriaSet=1&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-page-body/container-1/column-2-1" />
+            <r
+              uid="{02F7A67B-9BFF-470F-A981-0D65B2149DCB}"
+              p:after="r[@uid='{65027C3D-7E28-4101-B69E-AD875580FE22}']"
+              s:ds="{56C1D8E3-97F9-41A6-926E-E69EF06CBAE2}"
+              s:id="{8B668FFA-D23C-43DB-A86F-D47D1D97090C}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature&amp;Styles=%7BAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7D%7C%7B25CDBEA1-53EE-4470-89BF-EE8176260635%7D&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/column-2-1" />
+            <r
+              uid="{13BF119F-8035-4C90-B162-D1034111CA93}"
+              p:after="*[1=2]"
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="ColumnWidth1=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D%7C%7B5D74AF38-1A37-491A-A4BB-A9E251D862F3%7D&amp;ColumnWidth2=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D%7C%7B2AA00BBE-9366-43C7-8604-B6C431AEE01D%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-page-body/container-1" />
+          </d>
+        </r>
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Let's search some fruits
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191014T082814Z
+    - ID: "35381ea8-84f8-4509-8495-2ac4e3acc4ad"
+      Hint: Full Article
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Let's search some fruits
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9976601f-42cb-4d04-82e6-e450641f4054"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194537Z
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: <p>Here we have nice example usage of scopes functionality. We are using scope to limit search results just to fruits &mdash; no others items will be found.</p>

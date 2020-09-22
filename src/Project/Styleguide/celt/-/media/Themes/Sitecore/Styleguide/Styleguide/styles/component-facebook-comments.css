@@ -1,0 +1,14 @@
+.facebook-comments .fb-comments {
+  width: 100%;
+}
+
+.facebook-comments .fb-comments > span {
+  text-align: justify !important;
+  width: 100% !important;
+}
+
+.facebook-comments .fb-comments > span > iframe {
+  width: 100% !important;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudC1mYWNlYm9vay1jb21tZW50cy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBRVEsWUFBVztDQVFkOztBQVZMO0VBSVMsK0JBQThCO0VBQzNCLHVCQUFzQjtDQUl6Qjs7QUFUVDtFQU9nQix1QkFBc0I7Q0FDekIiLCJmaWxlIjoiY29tcG9uZW50LWZhY2Vib29rLWNvbW1lbnRzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5mYWNlYm9vay1jb21tZW50cyB7XHJcbiAgICAuZmItY29tbWVudHMge1xyXG4gICAgICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgICAgID5zcGFuIHtcclxuICAgICAgICBcdHRleHQtYWxpZ246IGp1c3RpZnkgIWltcG9ydGFudDtcclxuICAgICAgICAgICAgd2lkdGg6IDEwMCUgIWltcG9ydGFudDtcclxuICAgICAgICAgICAgPmlmcmFtZSB7XHJcbiAgICAgICAgICAgICAgICB3aWR0aDogMTAwJSAhaW1wb3J0YW50O1xyXG4gICAgICAgICAgICB9XHJcbiAgICAgICAgfVxyXG4gICAgfVxyXG59XHJcbiJdfQ== */

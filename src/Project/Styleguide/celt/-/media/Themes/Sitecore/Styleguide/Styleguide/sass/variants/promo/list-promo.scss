@@ -1,0 +1,27 @@
+&.list-promo {
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+
+    .title-subtitle  {
+        h1 {
+            color: $teal;
+        }
+        span.field-promotext2 {
+            background: $teal;
+            color: $text-white;
+            display: inline-block;
+            text-transform: uppercase;
+            font-weight: 700;
+            height: 55px;
+            width: 100%;
+            vertical-align: middle;
+        }
+        span.field-promotext2::before {
+            content: "";
+            display: inline-block;
+            vertical-align: middle;
+            height: 100%;
+        }
+    }
+}

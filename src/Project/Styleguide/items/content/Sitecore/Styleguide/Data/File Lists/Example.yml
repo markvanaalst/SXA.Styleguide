@@ -1,0 +1,34 @@
+﻿---
+ID: "dd94b671-9f60-4a5f-81e0-773afab56a3c"
+Parent: "8f06a375-ef46-43fa-8573-e68135308650"
+Template: "97e0240b-b5fc-422b-8a72-44d2b00facd6"
+Path: /sitecore/content/Sitecore/Styleguide/Data/File Lists/Example
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T145134Z
+    - ID: "31eb03b0-13e7-4c65-9bc0-0e7887a51b05"
+      Hint: Title
+      Value: Example file list
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bdd7c029-cb04-4c5c-b036-c8c6977fa09a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200907T114947Z

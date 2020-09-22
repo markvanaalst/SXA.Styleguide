@@ -1,0 +1,42 @@
+﻿---
+ID: "50f72306-3aab-4621-9a32-e378cf976f04"
+Parent: "f0e248b3-aba3-4ac8-84cc-599d214bb618"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Promos/Rendering Variants/Rendering Variants details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Rendering Variants
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{05CFFB94-7FC6-4605-9CA7-E2F31E706B94}" alt="" height="323" width="300" hspace="" vspace="" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190729T185036Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "580a0c3f-e340-4464-a340-c078c0040df3"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: |
+        <p>Rather than having lots of different components that are slight variations of the same thing, we have rendering variants. These are configurable adaptations of the core components. For example, an article listing might show a thumbnail or some extra metadata: this would be a "variant" of the Page List component. There are a set of out-of-the-box variants which come with all our components, and you can, of course, create your own in the Sitecore Experience Editor. The author simply chooses which variant they want when they place the component.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194552Z

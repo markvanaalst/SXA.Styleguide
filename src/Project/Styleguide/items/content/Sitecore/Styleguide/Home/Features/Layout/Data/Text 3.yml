@@ -1,0 +1,38 @@
+﻿---
+ID: "12fcdac8-a914-4376-a927-6cb74857af25"
+Parent: "8f219318-3715-4e57-ac8d-44e5d991fe01"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Features/Layout/Data/Text 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T132918Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f5cac39-fcb3-475c-82ee-cf381daee223"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Introducing, the grid system</h2>
+        <p>SXA supports grid layouts, which means we divide the page to equal columns in such a way that constitutes a grid. By using a grid system, we achieve visual consistency as the elements are always vertically aligned to one of the columns. It also simplifies usage of column splitters, because column width is always a multiplication of single grid columns.</p>
+        <p>The platform is shipped with 12 column grids that can be configured as either flex (taking full page width) or boxed (960 pixels wide). Now you know what the numbers from 1 to 12 in component properties mean. Should you need either finer column granularity or different page width or breakpoints, you can always add a new theme that supports your custom grid configuration.</p>
+        <p>Let's have a look at different column configurations:</p><p><br /></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194630Z

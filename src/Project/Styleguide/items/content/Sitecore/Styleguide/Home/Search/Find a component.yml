@@ -1,0 +1,89 @@
+﻿---
+ID: "52b30379-e690-480d-b99f-457291d97b7c"
+Parent: "2c201fb2-ffb1-45df-aeb0-7df921a44da6"
+Template: "25d85d7b-44ca-4fe6-a1cc-feccffaca95c"
+Path: /sitecore/content/Sitecore/Styleguide/Home/Search/Find a component
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{54C03EB2-B48F-4937-AB5D-5429A90FBED8}"
+              p:before="*"
+              s:ds=""
+              s:id="{EFEEAB82-D1B1-44F0-ADD3-07EDAE59A49E}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D&amp;SearchSignature=components&amp;Styles&amp;PageSize=%7B8A0D9DBF-AB06-4793-BF07-279D8D24CD79%7D&amp;PagingSchema=%7BC3E8F763-7C20-4713-97B7-21818BFF78D4%7D&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/column-1-1" />
+            <r
+              uid="{67556913-C5FD-422A-AC27-F8DF2933C136}"
+              p:after="r[@uid='{54C03EB2-B48F-4937-AB5D-5429A90FBED8}']"
+              s:ds="{E8FE1084-F802-445E-AE87-90967A61568D}"
+              s:id="{39E187C6-54FC-4E70-948A-7D20DB073793}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7BC8D99217-FE05-478D-961F-8632A239B396%7D&amp;SearchSignature=components&amp;Styles&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/column-1-1" />
+            <r
+              uid="{D86F5892-2760-40DA-9B42-AABD0D195159}"
+              p:after="r[@uid='{67556913-C5FD-422A-AC27-F8DF2933C136}']"
+              s:ds="{B07A3CBF-982E-4E43-A0A2-9C659B08EB1B}"
+              s:id="{2B2EC80B-13E2-445D-BA1A-8B8F037DED66}"
+              s:par="Reset Caching Options&amp;SortOrder=SortByNames&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature=components&amp;Styles&amp;HighlightThreshold=2&amp;HighlightBehaviour&amp;CollapseOnSelection&amp;MultiSelection&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/column-2-1" />
+            <r
+              uid="{2B2FC996-8515-4DE2-97C1-CDB7ED586BBC}"
+              p:after="r[@uid='{D86F5892-2760-40DA-9B42-AABD0D195159}']"
+              s:ds="{90A00547-F8B5-4C55-956D-A3BE624310A5}"
+              s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature=components&amp;FieldNames=%7BDEA3EF73-B7CD-46D3-ADC8-7B0EE2A0BC01%7D&amp;Styles&amp;Scope=%7BC80C70D1-661E-406B-9BF1-BFEAF80F5E0B%7D&amp;PageSize=20&amp;DefaultLanguageFilter&amp;DefaultSortOrder&amp;AutoFireSearchWhenNoCriteriaSet=1&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-page-body/container-1/column-1-1" />
+            <r
+              uid="{B0EBEEF7-4550-4FAE-96F2-04410B31BC7B}"
+              p:after="r[@uid='{2B2FC996-8515-4DE2-97C1-CDB7ED586BBC}']"
+              s:ds="{3DD9DAC2-42D5-434D-8428-EF4F8E420427}"
+              s:id="{5B249C53-F580-4623-8613-3AF9614126FE}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature=components&amp;Styles=%7B25CDBEA1-53EE-4470-89BF-EE8176260635%7D&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/column-1-1" />
+            <r
+              uid="{DC404916-82E2-4875-A72D-7509179F6D00}"
+              p:after="r[@uid='{B0EBEEF7-4550-4FAE-96F2-04410B31BC7B}']"
+              s:ds="{EFC03293-DADB-4801-A908-6698C3F517C0}"
+              s:id="{C4060A7D-74EF-4998-9B8A-737EDB4E41B5}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;SearchSignature=components&amp;Styles&amp;CollapsedModeTreshold&amp;RenderingIdentifier"
+              s:ph="/main/sxa-page-body/container-1/column-1-1" />
+            <r
+              uid="{44BA15EE-5E54-4CC0-9F0C-57AFFE9A9734}"
+              p:after="*[1=2]"
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="ColumnWidth1=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B2AA00BBE-9366-43C7-8604-B6C431AEE01D%7D&amp;ColumnWidth2=%7B9843B82C-8C18-4AE6-AF60-5861EF582920%7D%7C%7B5D74AF38-1A37-491A-A4BB-A9E251D862F3%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-page-body/container-1" />
+          </d>
+        </r>
+    - ID: "077d984e-2053-4761-8d2f-4c3ab3b8833f"
+      Hint: Title
+      Value: Find a component
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T124213Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Find a component
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91269cbf-c3aa-4646-8ac6-3e505cc961c7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194537Z
+    - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
+      Hint: Content
+      Value: "Looking for help on a particular component?"

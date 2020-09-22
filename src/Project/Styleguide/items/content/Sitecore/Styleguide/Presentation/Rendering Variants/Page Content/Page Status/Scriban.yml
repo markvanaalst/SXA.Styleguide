@@ -1,0 +1,49 @@
+﻿---
+ID: "551e3ec7-a21d-4724-bd49-96397f1941ce"
+Parent: "61172123-6518-44f3-84ac-d8d79573c964"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Rendering Variants/Page Content/Page Status/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{ if i_item['Page Status'] == "Under Construction" }}
+    
+    <div id="page-status" class="warning">
+        <div id="message">Please note: This page is still under construction</div>
+    </div>
+    {{ end }}
+    
+    {{ if i_item['Page Status'] == "Pending Review" }}
+        
+    <div id="page-status" class="review">
+        <div id="message">Please note: This page is still pending review</div>
+    </div>
+    
+    {{end }}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200115T085327Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2adffebf-077e-40e5-ad65-639cd4c3726f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194639Z

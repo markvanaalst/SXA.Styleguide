@@ -1,0 +1,30 @@
+﻿---
+ID: "f8e6b285-5ec3-40f9-9044-b1db71531dd4"
+Parent: "3eabfed9-edce-44f8-8ce7-347696d67caf"
+Template: "6042e216-f650-447c-86d1-00fea97454e7"
+Path: /sitecore/content/Sitecore/Styleguide/Settings/Facets/Template
+SharedFields:
+- ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
+  Hint: Parameters
+  Value: _templatename
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200302T095431Z
+    - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
+      Hint: Name
+      Value: Template
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "746ba7cd-50b0-4800-a6dc-f029cc12d889"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194546Z

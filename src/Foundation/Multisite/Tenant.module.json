@@ -1,0 +1,142 @@
+{
+    "namespace": "Foundation.Tenant",
+    "items": {
+      "includes": [
+        {
+          "name": "branches-foundation",
+          "path": "/sitecore/templates/Branches/Foundation/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "branches-feature",
+          "path": "/sitecore/templates/Branches/Feature/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "branches-project",
+          "path": "/sitecore/templates/Branches/Project/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "templates-foundation",
+          "path": "/sitecore/templates/Foundation/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "templates-feature",
+          "path": "/sitecore/templates/Feature/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "templates-project",
+          "path": "/sitecore/templates/Project/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "forms",
+          "path": "/sitecore/Forms/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "layouts-foundation",
+          "path": "/sitecore/layout/Layouts/Foundation/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "layouts-feature",
+          "path": "/sitecore/layout/Layouts/Feature/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "layouts-project",
+          "path": "/sitecore/layout/Layouts/Project/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "phsettings-foundation",
+          "path": "/sitecore/layout/Placeholder Settings/Foundation/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "phsettings-feature",
+          "path": "/sitecore/layout/Placeholder Settings/Feature/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "phsettings-project",
+          "path": "/sitecore/layout/Placeholder Settings/Project/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "models-foundation",
+          "path": "/sitecore/layout/Models/Foundation/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "models-feature",
+          "path": "/sitecore/layout/Models/Feature/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "models-project",
+          "path": "/sitecore/layout/Models/Project/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "renderings-foundation",
+          "path": "/sitecore/layout/Renderings/Foundation/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "renderings-feature",
+          "path": "/sitecore/layout/Renderings/Feature/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "renderings-project",
+          "path": "/sitecore/layout/Renderings/Project/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "media-foundation",
+          "path": "/sitecore/media library/Foundation/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "media-feature",
+          "path": "/sitecore/media library/Feature/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "media-project",
+          "path": "/sitecore/media library/Project/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "media-shared",
+          "path": "/sitecore/media library/Project/Sitecore/shared",
+          "scope": "itemAndDescendants"
+        },
+        {
+          "name": "theme-root",
+          "path": "/sitecore/media library/Themes/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "settings-foundation",
+          "path": "/sitecore/system/Settings/Foundation/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "settings-feature",
+          "path": "/sitecore/system/Settings/Feature/Sitecore",
+          "scope": "singleItem"
+        },
+        {
+          "name": "settings-project",
+          "path": "/sitecore/system/Settings/Project/Sitecore",
+          "scope": "singleItem"
+        }
+      ]
+    }
+  }

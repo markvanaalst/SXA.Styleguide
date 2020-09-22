@@ -1,0 +1,41 @@
+﻿---
+ID: "86e42951-10d0-4d38-ae2c-6752b479e0c5"
+Parent: "f73c9ae1-fcf6-413a-97f3-e54cbffea545"
+Template: "c27aaa1e-2764-46e4-908c-bb3a4c75c68f"
+Path: /sitecore/content/Sitecore/Styleguide/Data/Twitters/Sitecore
+SharedFields:
+- ID: "50b49831-4e52-4a67-8393-d7393f22cf37"
+  Hint: TwitterApp
+  Value: "{F2D6B2D6-DB6C-4587-8D71-B7783180B6C5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b339a1f-4a43-4375-9f6a-39be90f5a107"
+      Hint: ScreenName
+      Value: Sitecore
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200203T100910Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ea201b3-9868-4c4b-b53a-faf76e1ceb91"
+    - ID: "ae1eb2d8-3a7c-4337-83df-1b0b0c857bee"
+      Hint: Title
+      Value: Sitecore
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200710T194533Z

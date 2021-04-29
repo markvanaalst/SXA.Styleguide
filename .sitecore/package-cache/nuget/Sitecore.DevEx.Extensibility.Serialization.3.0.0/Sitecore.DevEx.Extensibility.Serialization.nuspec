@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Sitecore.DevEx.Extensibility.Serialization</id>
+    <version>3.0.0</version>
+    <authors>Sitecore Corporation A/S.</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">sitecore.myget.licence.md</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>icon.png</icon>
+    <description>Package Description</description>
+    <releaseNotes>Build: 3.0.0-r00263.1 GitSHA: 4c75ff59b746f0677cfe3ddc2ea918e507a6441c</releaseNotes>
+    <copyright>© 2021 Sitecore Corporation A/S. All rights reserved. Sitecore® is a registered trademark of Sitecore Corporation A/S.</copyright>
+    <tags>Sitecore</tags>
+  </metadata>
+</package>

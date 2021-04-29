@@ -1,3 +1,4 @@
+
 [CmdletBinding()]
 Param (
     [Parameter(Mandatory = $true)]
@@ -5,10 +6,18 @@ Param (
     [ValidateNotNullOrEmpty()]
     $LicenseXmlPath,
 
+    [string]
+    $HostName = "sxa",
+    
     # We do not need to use [SecureString] here since the value will be stored unencrypted in .env,
     # and used only for transient local example environment.
     [string]
-    $SitecoreAdminPassword = "b"
+    $SitecoreAdminPassword = "b",
+    
+    # We do not need to use [SecureString] here since the value will be stored unencrypted in .env,
+    # and used only for transient local example environment.
+    [string]
+    $SqlSaPassword = "Password12345"
 )
 
 $ErrorActionPreference = "Stop";
@@ -16,14 +25,9 @@ $ErrorActionPreference = "Stop";
 if (-not (Test-Path $LicenseXmlPath)) {
     throw "Did not find $LicenseXmlPath"
 }
-if (Test-Path $LicenseXmlPath -PathType Leaf) {
-    # We want the folder that it's in for mounting
-    $LicenseXmlPath = (Get-Item $LicenseXmlPath).Directory.FullName
+if (-not (Test-Path $LicenseXmlPath -PathType Leaf)) {
+    throw "$LicenseXmlPath is not a file"
 }
-
-################################################
-# Retrieve and import SitecoreDockerTools module
-################################################
 
 # Check for Sitecore Gallery
 Import-Module PowerShellGet
@@ -33,16 +37,16 @@ if (-not $SitecoreGallery) {
     Register-PSRepository -Name SitecoreGallery -SourceLocation https://sitecore.myget.org/F/sc-powershell/api/v2 -InstallationPolicy Trusted
     $SitecoreGallery = Get-PSRepository -Name SitecoreGallery
 }
-
-#Install and Import SitecoreDockerTools 
-$dockerToolsVersion = "10.0.5"
+# Install and Import SitecoreDockerTools 
+$dockerToolsVersion = "10.1.4"
 Remove-Module SitecoreDockerTools -ErrorAction SilentlyContinue
-if (-not (Get-InstalledModule -Name SitecoreDockerTools -RequiredVersion $dockerToolsVersion -AllowPrerelease -ErrorAction SilentlyContinue)) {
+if (-not (Get-InstalledModule -Name SitecoreDockerTools -RequiredVersion $dockerToolsVersion -ErrorAction SilentlyContinue)) {
     Write-Host "Installing SitecoreDockerTools..." -ForegroundColor Green
-    Install-Module SitecoreDockerTools -RequiredVersion $dockerToolsVersion -AllowPrerelease -Scope CurrentUser -Repository $SitecoreGallery.Name -AllowClobber
+    Install-Module SitecoreDockerTools -RequiredVersion $dockerToolsVersion -Scope CurrentUser -Repository $SitecoreGallery.Name
 }
 Write-Host "Importing SitecoreDockerTools..." -ForegroundColor Green
 Import-Module SitecoreDockerTools -RequiredVersion $dockerToolsVersion
+Write-SitecoreDockerWelcome
 
 ###############################
 # Populate the environment file
@@ -50,16 +54,45 @@ Import-Module SitecoreDockerTools -RequiredVersion $dockerToolsVersion
 
 Write-Host "Populating required .env file variables..." -ForegroundColor Green
 
-Set-DockerComposeEnvFileVariable "HOST_LICENSE_FOLDER" -Value $LicenseXmlPath
-Set-DockerComposeEnvFileVariable "CM_HOST" -Value "sxa.sc.local"
-Set-DockerComposeEnvFileVariable "ID_HOST" -Value "sxa-id.sc.local"
-Set-DockerComposeEnvFileVariable "SITECORE_ADMIN_PASSWORD" -Value $SitecoreAdminPassword
-Set-DockerComposeEnvFileVariable "SQL_SA_PASSWORD" -Value (Get-SitecoreRandomString 12 -DisallowSpecial -EnforceComplexity)
-Set-DockerComposeEnvFileVariable "TELERIK_ENCRYPTION_KEY" -Value (Get-SitecoreRandomString 128)
-Set-DockerComposeEnvFileVariable "SITECORE_IDSECRET" -Value (Get-SitecoreRandomString 64 -DisallowSpecial)
+# SITECORE_ADMIN_PASSWORD
+Set-EnvFileVariable "SITECORE_ADMIN_PASSWORD" -Value $SitecoreAdminPassword
+
+# SQL_SA_PASSWORD
+Set-EnvFileVariable "SQL_SA_PASSWORD" -Value $SqlSaPassword
+
+# CD_HOST
+Set-EnvFileVariable "CD_HOST" -Value "cd.$($HostName).local"
+
+# CM_HOST
+Set-EnvFileVariable "CM_HOST" -Value "cm.$($HostName).local"
+
+# ID_HOST
+Set-EnvFileVariable "ID_HOST" -Value "id.$($HostName).local"
+
+# HRZ_HOST
+Set-EnvFileVariable "HRZ_HOST" -Value "hrz.$($HostName).local"
+
+# REPORTING_API_KEY = random 64-128 chars
+Set-EnvFileVariable "REPORTING_API_KEY" -Value (Get-SitecoreRandomString 64 -DisallowSpecial)
+
+# TELERIK_ENCRYPTION_KEY = random 64-128 chars
+Set-EnvFileVariable "TELERIK_ENCRYPTION_KEY" -Value (Get-SitecoreRandomString 128)
+
+# MEDIA_REQUEST_PROTECTION_SHARED_SECRET
+Set-EnvFileVariable "MEDIA_REQUEST_PROTECTION_SHARED_SECRET" -Value (Get-SitecoreRandomString 64)
+
+# SITECORE_IDSECRET = random 64 chars
+Set-EnvFileVariable "SITECORE_IDSECRET" -Value (Get-SitecoreRandomString 64 -DisallowSpecial)
+
+# SITECORE_ID_CERTIFICATE
 $idCertPassword = Get-SitecoreRandomString 12 -DisallowSpecial
-Set-DockerComposeEnvFileVariable "SITECORE_ID_CERTIFICATE" -Value (Get-SitecoreCertificateAsBase64String -DnsName "localhost" -Password (ConvertTo-SecureString -String $idCertPassword -Force -AsPlainText))
-Set-DockerComposeEnvFileVariable "SITECORE_ID_CERTIFICATE_PASSWORD" -Value $idCertPassword
+Set-EnvFileVariable "SITECORE_ID_CERTIFICATE" -Value (Get-SitecoreCertificateAsBase64String -DnsName "localhost" -Password (ConvertTo-SecureString -String $idCertPassword -Force -AsPlainText))
+
+# SITECORE_ID_CERTIFICATE_PASSWORD
+Set-EnvFileVariable "SITECORE_ID_CERTIFICATE_PASSWORD" -Value $idCertPassword
+
+# SITECORE_LICENSE
+Set-EnvFileVariable "SITECORE_LICENSE" -Value (ConvertTo-CompressedBase64String -Path $LicenseXmlPath)
 
 ##################################
 # Configure TLS/HTTPS certificates
@@ -81,7 +114,7 @@ try {
     }
     Write-Host "Generating Traefik TLS certificate..." -ForegroundColor Green
     & $mkcert -install
-    & $mkcert -key-file key.pem -cert-file cert.pem "*.sc.local"
+    & $mkcert -key-file key.pem -cert-file cert.pem "*.$($HostName).local"
 }
 catch {
     Write-Host "An error occurred while attempting to generate TLS certificate: $_" -ForegroundColor Red
@@ -89,15 +122,15 @@ catch {
 finally {
     Pop-Location
 }
-
 ################################
 # Add Windows hosts file entries
 ################################
 
 Write-Host "Adding Windows hosts file entries..." -ForegroundColor Green
 
-Add-HostsEntry "sxa-id.sc.local"
-Add-HostsEntry "sxa.sc.local"
+Add-HostsEntry "id.$($HostName).local"
+Add-HostsEntry "cm.$($HostName).local"
+Add-HostsEntry "hrz.$($HostName).local"
 
 Write-Host "Done!" -ForegroundColor Green
 
@@ -131,20 +164,15 @@ if (-not $status.status -eq "enabled") {
 ################################
 # Login to Sitecore and push serialized items
 ################################
-
-dotnet sitecore login --cm https://sxa.sc.local/ --auth https://sxa-id.sc.local/ --allow-write true
+dotnet tool restore
+dotnet sitecore login --cm "https://cm.$($HostName).local" --auth "https://id.$($HostName).local/" --allow-write true
 if ($LASTEXITCODE -ne 0) {
     Write-Error "Unable to log into Sitecore, did the Sitecore environment start correctly? See logs above."
 }
 
 Write-Host "Pushing latest items to Sitecore..." -ForegroundColor Green
 
-dotnet sitecore ser push
+dotnet sitecore ser push --publish
 if ($LASTEXITCODE -ne 0) {
     Write-Error "Serialization push failed, see errors above."
-}
-
-dotnet sitecore publish
-if ($LASTEXITCODE -ne 0) {
-    Write-Error "Publishing failed, see errors above."
 }

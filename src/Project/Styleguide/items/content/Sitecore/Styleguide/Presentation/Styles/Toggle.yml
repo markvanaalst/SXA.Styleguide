@@ -3,6 +3,10 @@ ID: "86ea6e5c-7752-4594-9049-5120b69f739d"
 Parent: "6244eaa3-aa3d-4210-8633-9c9d0a7ebbff"
 Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
 Path: /sitecore/content/Sitecore/Styleguide/Presentation/Styles/Toggle
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2600
 Languages:
 - Language: en
   Versions:
@@ -21,11 +25,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "de72a387-7ec7-4ea8-ae21-19734181f306"
+      Value: "d9cb2e70-bf37-4d34-a4ee-54111e6b2906"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200710T194545Z
+      Value: 20210503T113239Z

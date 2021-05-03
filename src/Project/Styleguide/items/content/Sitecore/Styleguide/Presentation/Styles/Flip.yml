@@ -6,7 +6,7 @@ Path: /sitecore/content/Sitecore/Styleguide/Presentation/Styles/Flip
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 1800
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{10C95167-16E8-44C3-BF32-92715CC632CE}"
@@ -28,11 +28,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "392d0fda-007c-4199-9ac3-f187cc7d70b6"
+      Value: "3515089a-7feb-4753-99d9-e6d792be5e2b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200710T194544Z
+      Value: 20210503T113238Z

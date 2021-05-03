@@ -27,20 +27,20 @@ Languages:
               p:before="*"
               s:ds="local:/Data/Text 1"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B469746BC-80E3-4DC5-AC60-05A8AF5C21D7%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:par="RenderingIdentifier&amp;Styles=%7b2E960724-C92F-4060-8580-F425F973A976%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7b03EA3C58-9F87-41D5-95D6-4B899C88572E%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=2&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-4" />
             <r
               uid="{B55DF49F-1CB3-4075-9B57-D1A111DB3C21}"
               p:after="r[@uid='{EC3267B8-8FA5-4DEA-9105-05F9C7470E2C}']"
               s:ds="{DD94B671-9F60-4A5F-81E0-773AFAB56A3C}"
               s:id="{67B0BBCC-6926-4468-84E0-55B6A32B8BB6}"
-              s:par="Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;FieldNames=%7B6533A55D-333A-4E5E-BF80-3BD2F1D7B492%7D&amp;Styles&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:par="RenderingIdentifier&amp;Styles&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7b03EA3C58-9F87-41D5-95D6-4B899C88572E%7d&amp;FieldNames=%7b6533A55D-333A-4E5E-BF80-3BD2F1D7B492%7d&amp;TitleHeadingLevel=%7b6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7d&amp;DynamicPlaceholderId=1&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-4" />
             <r
               uid="{506EDF7C-2669-4F2D-95EF-2C374215D438}"
               p:after="*[1=2]"
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:par="RenderingIdentifier&amp;Styles=%7b745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=4&amp;BackgroundImage&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1" />
           </d>
         </r>
@@ -65,11 +65,11 @@ Languages:
         <image mediaid="{42FFE6C3-C6B9-42D4-9936-2AF7BA52A268}" ></image>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1d96fbe7-1378-4b3e-b4c3-ee38467f97c8"
+      Value: "d288b304-8574-4dea-8de7-70946045c846"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\unicorn
+        sitecore\Admin
     - ID: "d5664c58-950f-468d-9752-6e5558c5bc1f"
       Hint: Component Features
       Value: |
@@ -80,7 +80,7 @@ Languages:
         </ul>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200710T194556Z
+      Value: 20210503T112541Z
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: This component shows a list of items that are files stored in Sitecore

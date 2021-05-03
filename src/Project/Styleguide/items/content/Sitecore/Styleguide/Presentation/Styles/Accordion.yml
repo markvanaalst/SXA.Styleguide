@@ -6,7 +6,7 @@ Path: /sitecore/content/Sitecore/Styleguide/Presentation/Styles/Accordion
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: "-100"
+  Value: 500
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{DDE26333-8B31-41EF-A250-9E4AA3FE331C}"
@@ -28,11 +28,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2d5abf3b-7885-4897-a3ea-0f212a269074"
+      Value: "8f5dbf34-14d1-40d1-b282-d2f816fdc1a3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200710T194543Z
+      Value: 20210503T113238Z

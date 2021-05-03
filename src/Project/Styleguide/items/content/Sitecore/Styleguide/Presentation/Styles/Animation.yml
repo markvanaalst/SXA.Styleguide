@@ -3,6 +3,10 @@ ID: "a01f08ce-494c-49af-9735-f1a86857d7fc"
 Parent: "6244eaa3-aa3d-4210-8633-9c9d0a7ebbff"
 Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
 Path: /sitecore/content/Sitecore/Styleguide/Presentation/Styles/Animation
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 550
 Languages:
 - Language: en
   Versions:
@@ -21,11 +25,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c9a7d869-7210-4492-857a-5e93a24abff9"
+      Value: "439416b5-4995-45dc-b28c-e8a48575cc67"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200710T194543Z
+      Value: 20210503T113322Z

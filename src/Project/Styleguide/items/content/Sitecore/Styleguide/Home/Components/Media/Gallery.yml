@@ -27,54 +27,54 @@ Languages:
               p:before="*"
               s:ds="local:/Data/Text 1"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="RenderingIdentifier&amp;Styles=%7bAFC39ED4-8113-4061-B153-8A5391FC4106%7d%7c%7b25CDBEA1-53EE-4470-89BF-EE8176260635%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=2&amp;Reset Caching Options"
+              s:par="RenderingIdentifier&amp;Styles=%7b450EFAD4-B8C1-4520-8DA0-0D7CD5B1BC7B%7d%7c%7b25CDBEA1-53EE-4470-89BF-EE8176260635%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=2&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-8" />
             <r
               uid="{F0DA8570-A603-4296-AD8B-BB52EBA05823}"
               p:after="r[@uid='{54160B4B-0143-4B57-A31B-2F26715F195A}']"
               s:ds="local:/Data/Text 2"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="RenderingIdentifier&amp;Styles=%7b097B0256-9A50-4164-B4C9-934E3EAEDC7C%7d%7c%7bAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7d%7c%7b25CDBEA1-53EE-4470-89BF-EE8176260635%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=3&amp;Reset Caching Options"
+              s:par="RenderingIdentifier&amp;Styles=%7b509501EB-57C9-4271-BF5D-661DDB7AE553%7d%7c%7b311FFDFD-331B-4227-BC07-5889304A707D%7d%7c%7b25CDBEA1-53EE-4470-89BF-EE8176260635%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=3&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-8" />
             <r
               uid="{D3582680-F612-49D9-8DDA-FBB4FDAC4487}"
               p:after="r[@uid='{F0DA8570-A603-4296-AD8B-BB52EBA05823}']"
               s:ds="{4843B87C-1382-47E1-80A5-DF3BC25E48F2}"
               s:id="{DC7CD1BE-7E89-4D96-B52B-72653ADF82B1}"
-              s:par="RenderingIdentifier&amp;Styles&amp;GalleryHeight=500&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7b48918248-0011-4F9C-81CD-49DD9A25C730%7d%7c%7bB7763EC7-8E04-4A2C-917B-49BCBA67992B%7d&amp;FieldNames=%7b8F7F3519-7214-48DA-8544-BA45AFF7C9ED%7d&amp;DynamicPlaceholderId=1&amp;Reset Caching Options"
+              s:par="RenderingIdentifier&amp;Styles&amp;GalleryHeight=500&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7b48918248-0011-4F9C-81CD-49DD9A25C730%7d%7c%7bB7763EC7-8E04-4A2C-917B-49BCBA67992B%7d&amp;FieldNames=%7b8F7F3519-7214-48DA-8544-BA45AFF7C9ED%7d&amp;DynamicPlaceholderId=1&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-8" />
             <r
               uid="{39B8B972-C2DA-43F9-B085-A0E0305B1DE3}"
               p:after="r[@uid='{D3582680-F612-49D9-8DDA-FBB4FDAC4487}']"
               s:ds="local:/Data/Text 3"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="RenderingIdentifier&amp;Styles=%7b097B0256-9A50-4164-B4C9-934E3EAEDC7C%7d%7c%7bAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7d%7c%7bAFC39ED4-8113-4061-B153-8A5391FC4106%7d%7c%7b25CDBEA1-53EE-4470-89BF-EE8176260635%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=5&amp;Reset Caching Options"
+              s:par="RenderingIdentifier&amp;Styles=%7b509501EB-57C9-4271-BF5D-661DDB7AE553%7d%7c%7b311FFDFD-331B-4227-BC07-5889304A707D%7d%7c%7b450EFAD4-B8C1-4520-8DA0-0D7CD5B1BC7B%7d%7c%7b25CDBEA1-53EE-4470-89BF-EE8176260635%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=5&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-8" />
             <r
               uid="{2696E7BB-02D8-4B8F-85B3-77300F6ABC2E}"
               p:after="r[@uid='{39B8B972-C2DA-43F9-B085-A0E0305B1DE3}']"
               s:ds="local:/Data/Text 4"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7bC8D99217-FE05-478D-961F-8632A239B396%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=6&amp;Reset Caching Options"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7bC8D99217-FE05-478D-961F-8632A239B396%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=6&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-8" />
             <r
               uid="{33914307-7411-49CA-8A06-CFAAE51FF872}"
               p:after="r[@uid='{2696E7BB-02D8-4B8F-85B3-77300F6ABC2E}']"
               s:ds="local:/Data/Example"
               s:id="{DC7CD1BE-7E89-4D96-B52B-72653ADF82B1}"
-              s:par="RenderingIdentifier&amp;Styles&amp;GalleryHeight=300&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7b03EA3C58-9F87-41D5-95D6-4B899C88572E%7d%7c%7b51B4484B-CF7C-4AA2-B820-9FEBBA97F99F%7d&amp;FieldNames=%7b8F7F3519-7214-48DA-8544-BA45AFF7C9ED%7d&amp;DynamicPlaceholderId=7&amp;Reset Caching Options"
+              s:par="RenderingIdentifier&amp;Styles&amp;GalleryHeight=300&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7b03EA3C58-9F87-41D5-95D6-4B899C88572E%7d%7c%7b51B4484B-CF7C-4AA2-B820-9FEBBA97F99F%7d&amp;FieldNames=%7b8F7F3519-7214-48DA-8544-BA45AFF7C9ED%7d&amp;DynamicPlaceholderId=7&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-8" />
             <r
               uid="{8C4A93BF-0E9A-4C1A-984D-D9F887B885C3}"
               p:after="r[@uid='{33914307-7411-49CA-8A06-CFAAE51FF872}']"
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="RenderingIdentifier&amp;Styles=%7b745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=8&amp;BackgroundImage&amp;Reset Caching Options"
+              s:par="RenderingIdentifier&amp;Styles=%7b745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=8&amp;BackgroundImage&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1" />
             <r
               uid="{C5ADEEB1-E59F-48D2-BBF8-F4716A783F18}"
               p:after="*[1=2]"
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=4&amp;BackgroundImage&amp;Reset Caching Options"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=4&amp;BackgroundImage&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1" />
           </d>
         </r>
@@ -96,7 +96,7 @@ Languages:
         <image mediaid="{64D2A156-D299-4056-A25F-65F1C3EF9DE7}" ></image>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3a3755e9-554f-4e0a-9deb-e418655d6432"
+      Value: "5e3ad5c2-841d-4da3-8464-9b8287ed1c44"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -111,7 +111,7 @@ Languages:
         </ul>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200907T115436Z
+      Value: 20210503T112518Z
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: They say a picture is worth a thousand words. Well, with the Gallery component you can tell your story in a simple and beautiful way.

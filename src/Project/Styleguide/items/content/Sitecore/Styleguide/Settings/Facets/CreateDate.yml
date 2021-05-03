@@ -18,6 +18,14 @@ Languages:
     - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
       Hint: Name
       Value: CreateDate
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "a7bf6508-00d2-4033-a9d2-3599c8e9a87b"

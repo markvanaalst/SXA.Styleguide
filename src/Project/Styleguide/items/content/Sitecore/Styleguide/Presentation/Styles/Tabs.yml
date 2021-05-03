@@ -6,7 +6,7 @@ Path: /sitecore/content/Sitecore/Styleguide/Presentation/Styles/Tabs
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 175
+  Value: 2900
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{0E44906D-9297-4E66-B918-DD2A1F23BA36}"
@@ -28,11 +28,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c4424dad-ae15-4651-9d75-52f0b3bd87c1"
+      Value: "80413350-4545-4379-a579-cf11d076a6f8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200710T194545Z
+      Value: 20210503T113239Z

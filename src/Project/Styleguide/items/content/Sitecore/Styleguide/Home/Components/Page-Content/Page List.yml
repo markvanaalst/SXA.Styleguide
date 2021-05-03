@@ -27,67 +27,67 @@ Languages:
               p:before="*"
               s:ds="{ADA4BD80-ADF2-480F-82BD-12F248B59D6E}"
               s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
-              s:par="SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;FieldNames=%7BB8DBA1F7-C9B6-48A9-923E-9376F3DFB84E%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7b03EA3C58-9F87-41D5-95D6-4B899C88572E%7d&amp;ListSignature&amp;PageSize&amp;Offset&amp;CacheClearingBehavior=Clear+on+publish&amp;FieldNames=%7bB8DBA1F7-C9B6-48A9-923E-9376F3DFB84E%7d&amp;DynamicPlaceholderId=7&amp;SourceType=%7b90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7d&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-8" />
             <r
               uid="{6801B63F-76F9-432B-9369-D27B0D2B96B5}"
               p:after="r[@uid='{7C2499B5-0652-4D04-A743-F6BECF63F0E3}']"
               s:ds="{ADA4BD80-ADF2-480F-82BD-12F248B59D6E}"
               s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
-              s:par="SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;Reset Caching Options&amp;ListSignature&amp;PageSize=5&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;FieldNames=%7B294E45EF-B0D1-4342-9BE3-EF9AB0BBF598%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=9"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7b03EA3C58-9F87-41D5-95D6-4B899C88572E%7d&amp;ListSignature&amp;PageSize=5&amp;Offset&amp;CacheClearingBehavior=Clear+on+publish&amp;FieldNames=%7b294E45EF-B0D1-4342-9BE3-EF9AB0BBF598%7d&amp;DynamicPlaceholderId=9&amp;SourceType=%7b90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7d&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-8" />
             <r
               uid="{106DA0EB-E3B7-4061-B53D-18CBB3538861}"
               p:after="r[@uid='{6801B63F-76F9-432B-9369-D27B0D2B96B5}']"
               s:ds="local:/Data/Text 4"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B93B61BD7-DD29-418F-8A1F-06FE51B0A538%7D%7C%7BAFC39ED4-8113-4061-B153-8A5391FC4106%7D%7C%7B25CDBEA1-53EE-4470-89BF-EE8176260635%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=10"
+              s:par="RenderingIdentifier&amp;Styles=%7b6015BEF5-7746-41F4-B1D1-1F521DD14604%7d%7c%7b450EFAD4-B8C1-4520-8DA0-0D7CD5B1BC7B%7d%7c%7b25CDBEA1-53EE-4470-89BF-EE8176260635%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=10&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-8" />
             <r
               uid="{9F5A7AFA-24AD-4C3C-87CE-1A26BD45A07E}"
               p:after="r[@uid='{106DA0EB-E3B7-4061-B53D-18CBB3538861}']"
               s:ds="local:/Data/Text 3"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B25CDBEA1-53EE-4470-89BF-EE8176260635%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:par="RenderingIdentifier&amp;Styles=%7b25CDBEA1-53EE-4470-89BF-EE8176260635%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=5&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-6" />
             <r
               uid="{7F340026-9DC1-4E73-99B6-70DF05330525}"
               p:after="r[@uid='{9F5A7AFA-24AD-4C3C-87CE-1A26BD45A07E}']"
               s:ds="local:/Data/Text 1"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=2&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-1" />
             <r
               uid="{B2B5D551-5E84-4A34-9F5A-6C4A2715D14B}"
               p:after="r[@uid='{7F340026-9DC1-4E73-99B6-70DF05330525}']"
               s:ds="{4188B925-AE24-4925-B9DF-E463BDC1831A}"
               s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
-              s:par="SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;Reset Caching Options&amp;ListSignature&amp;PageSize=5&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D&amp;FieldNames=%7B8A89D16E-A0E8-46A3-B6F0-5E03504794B7%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7b03EA3C58-9F87-41D5-95D6-4B899C88572E%7d&amp;ListSignature&amp;PageSize=5&amp;Offset&amp;CacheClearingBehavior=Clear+on+publish&amp;FieldNames=%7b8A89D16E-A0E8-46A3-B6F0-5E03504794B7%7d&amp;DynamicPlaceholderId=3&amp;SourceType=%7b90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7d&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-1" />
             <r
               uid="{324ED81C-8B26-4ABA-8F69-EE8938370772}"
               p:after="r[@uid='{B2B5D551-5E84-4A34-9F5A-6C4A2715D14B}']"
               s:ds="local:/Data/Text 2"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B878F0549-848F-4AF6-B18D-936AEF2590BE%7D%7C%7BB7763EC7-8E04-4A2C-917B-49BCBA67992B%7D&amp;FieldNames=%7B9ECE1B9B-68DD-4A92-884F-410D28023838%7D&amp;Styles=%7B2EF06FFF-9C1A-4B4F-88AF-612CCFEF3714%7D%7C%7B93B61BD7-DD29-418F-8A1F-06FE51B0A538%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:par="RenderingIdentifier&amp;Styles=%7b2EF06FFF-9C1A-4B4F-88AF-612CCFEF3714%7d%7c%7b6015BEF5-7746-41F4-B1D1-1F521DD14604%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7b878F0549-848F-4AF6-B18D-936AEF2590BE%7d%7c%7bB7763EC7-8E04-4A2C-917B-49BCBA67992B%7d&amp;FieldNames=%7b9ECE1B9B-68DD-4A92-884F-410D28023838%7d&amp;DynamicPlaceholderId=4&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/container-1" />
             <r
               uid="{0456F464-741F-4E87-932A-6751F4457545}"
               p:after="r[@uid='{324ED81C-8B26-4ABA-8F69-EE8938370772}']"
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:par="RenderingIdentifier&amp;Styles=%7b745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=1&amp;BackgroundImage&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1" />
             <r
               uid="{510F233F-C3CE-474E-BEAD-C4F6C60B3790}"
               p:after="r[@uid='{0456F464-741F-4E87-932A-6751F4457545}']"
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B9D1CB715-A288-4326-96EF-A83DBDC35243%7D%7C%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D%7C%7BC5559A5F-CD20-4D3F-80A5-B6DEBE787ED0%7D%7C%7B4CE0B894-48F7-458F-A10D-907957171BD7%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:par="RenderingIdentifier&amp;Styles=%7b9D1CB715-A288-4326-96EF-A83DBDC35243%7d%7c%7b745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7d%7c%7bC5559A5F-CD20-4D3F-80A5-B6DEBE787ED0%7d%7c%7b4CE0B894-48F7-458F-A10D-907957171BD7%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=6&amp;BackgroundImage&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1" />
             <r
               uid="{9F7756EE-2B55-471F-A352-F4C0C6FE9039}"
               p:after="*[1=2]"
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
+              s:par="RenderingIdentifier&amp;Styles=%7b745A5BDB-C7CE-4746-9253-322D3DFE8BC1%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=8&amp;BackgroundImage&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1" />
           </d>
         </r>
@@ -110,11 +110,11 @@ Languages:
         <image mediaid="{F85EBFC7-11D9-4457-904E-8EE57F9EBFF0}" ></image>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0337e05c-d268-4618-b28f-42249adcf9a6"
+      Value: "4f9db832-bd01-468d-8bb5-f38809bd55ff"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\unicorn
+        sitecore\Admin
     - ID: "d5664c58-950f-468d-9752-6e5558c5bc1f"
       Hint: Component Features
       Value: |
@@ -126,7 +126,7 @@ Languages:
         </ul>
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200710T194558Z
+      Value: 20210503T112517Z
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: <p>The Page List component that renders... a list of pages. Simple. The listing content is generated from fields on pages being listed. You can configure which fields should be shown, and style them any way you want. The pages list is constructed using a Sitecore query, so you can choose if you would like to display child or sibling pages or items with the same template... or any other query you can construct.&nbsp;</p>

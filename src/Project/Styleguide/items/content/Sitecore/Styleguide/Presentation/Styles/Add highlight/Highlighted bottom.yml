@@ -1,23 +1,36 @@
 ﻿---
-ID: "839b45af-fb7d-4385-b1ca-10a535adf410"
-Parent: "2cdb7a2c-660a-429c-aaa7-3c7795fc6743"
+ID: "450efad4-b8c1-4520-8da0-0d7cd5b1bc7b"
+Parent: "b424ce19-1822-4885-9ab4-ab1311634855"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
-Path: /sitecore/content/Sitecore/Styleguide/Presentation/Styles/Border/Border bottom
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Styles/Add highlight/Highlighted bottom
+BranchID: "5edf676a-2fdd-418a-8c56-cb465ee16e20"
 SharedFields:
 - ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
   Hint: Value
-  Value: "border-bottom"
+  Value: "highlighted-bottom"
+- ID: "39816442-74d9-4ce2-beb3-128b204efd40"
+  Hint: Icon
+  Value: "hightlight-bottom"
 - ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
   Hint: Allowed Renderings
   Value: |
+    {DCEE78E1-1843-4456-A13A-F10A12191630}
+    {8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}
+    {87182F78-4399-4896-8D59-9D6A45282F8A}
+    {8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}
+    {F16CE601-EECF-4DFC-B278-DE5F9562551B}
     {51C13F03-8364-4F61-B860-2EC6CA7439B3}
     {896A2C68-1362-4E88-8BA0-1805AE6D4837}
+    {2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}
 - ID: "95579875-484e-41f0-b9c2-804eafaf3ccc"
   Hint: IsVerifiedStyle
   Value: 1
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 300
+  Value: 4162
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{08639359-579A-45CC-9DC5-7439D1861CC8}"
 Languages:
 - Language: en
   Versions:
@@ -25,7 +38,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190515T134754Z
+      Value: 20210503T111251Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -36,11 +49,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ac26283d-bde4-4486-b8cc-e717811f8f4e"
+      Value: "0453faa4-7639-4f0a-97ed-be41b9242f2d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200710T194609Z
+      Value: 20210503T113036Z

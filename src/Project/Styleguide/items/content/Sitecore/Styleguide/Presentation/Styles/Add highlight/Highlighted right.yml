@@ -1,12 +1,16 @@
 ﻿---
-ID: "129d577c-deb3-47ae-a5b5-4febd94663a0"
-Parent: "b3644515-318f-4beb-97da-bc64bd323f50"
+ID: "338a8504-e27c-4df8-acd7-3157da6c499b"
+Parent: "b424ce19-1822-4885-9ab4-ab1311634855"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
-Path: /sitecore/content/Sitecore/Styleguide/Presentation/Styles/Common/Highlighted Right
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Styles/Add highlight/Highlighted right
+BranchID: "5edf676a-2fdd-418a-8c56-cb465ee16e20"
 SharedFields:
 - ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
   Hint: Value
   Value: "highlighted-right"
+- ID: "39816442-74d9-4ce2-beb3-128b204efd40"
+  Hint: Icon
+  Value: "highlight-right"
 - ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
   Hint: Allowed Renderings
   Value: |
@@ -24,7 +28,7 @@ SharedFields:
   Value: 1
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 3975
+  Value: 3962
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{8ACCB28C-A6BD-42C7-8779-8741352E9716}"
@@ -35,7 +39,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190408T214327Z
+      Value: 20210503T111251Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -46,11 +50,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1011b37d-994d-4b90-bd75-2fbdd2da7dc8"
+      Value: "95ffe837-561f-48bf-82c8-5c605a9626d1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200710T194610Z
+      Value: 20210503T111251Z

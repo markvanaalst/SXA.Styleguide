@@ -4,6 +4,9 @@ Parent: "6244eaa3-aa3d-4210-8633-9c9d0a7ebbff"
 Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
 Path: /sitecore/content/Sitecore/Styleguide/Presentation/Styles/Rich Text
 SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2500
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{CB44E41F-B21E-4A2B-B303-C2739408F19C}"
@@ -25,11 +28,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "63d0a09c-da75-455d-8ed1-6a3265c79707"
+      Value: "01f25f3c-124c-4c80-9be6-1beaf08114b8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200710T194545Z
+      Value: 20210503T113239Z

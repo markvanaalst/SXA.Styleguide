@@ -1,12 +1,15 @@
 ﻿---
 ID: "e84c789f-da32-4916-9e61-dedd29f61394"
-Parent: "2cdb7a2c-660a-429c-aaa7-3c7795fc6743"
+Parent: "29478d98-d732-4566-920f-88ea58c75d9a"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
-Path: /sitecore/content/Sitecore/Styleguide/Presentation/Styles/Border/Border top
+Path: /sitecore/content/Sitecore/Styleguide/Presentation/Styles/Add border/Border top
 SharedFields:
 - ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
   Hint: Value
   Value: "border-top"
+- ID: "39816442-74d9-4ce2-beb3-128b204efd40"
+  Hint: Icon
+  Value: "highlight-top"
 - ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
   Hint: Allowed Renderings
   Value: |
@@ -33,11 +36,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "12267937-022b-4b22-b1d5-39c01acb8ed9"
+      Value: "3e924cf4-e46e-4574-9b44-0d6cbeb1df30"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200710T194609Z
+      Value: 20210503T113542Z

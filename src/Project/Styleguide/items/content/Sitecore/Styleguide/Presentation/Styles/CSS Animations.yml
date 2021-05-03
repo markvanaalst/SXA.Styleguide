@@ -4,6 +4,12 @@ Parent: "6244eaa3-aa3d-4210-8633-9c9d0a7ebbff"
 Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
 Path: /sitecore/content/Sitecore/Styleguide/Presentation/Styles/CSS Animations
 SharedFields:
+- ID: "62ca1c9e-71a4-465f-835e-55bda7bb270b"
+  Hint: Type
+  Value: droplist
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 388
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{47A6D3D9-F74A-4878-AFE4-B7181B0DA7DD}"
@@ -25,11 +31,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "41a38a17-b638-4e3a-ad07-1e28f829e72b"
+      Value: "966f3dc1-6c5e-4cf5-8ba6-d5385d790d7e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200710T194544Z
+      Value: 20210503T113301Z

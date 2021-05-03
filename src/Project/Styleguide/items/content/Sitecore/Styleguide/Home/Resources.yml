@@ -30,48 +30,48 @@ Languages:
               p:before="*"
               s:ds="{826551EC-3E3C-4AD5-B5F0-C01F40B317B0}"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B577C7E85-A2F4-4D85-9DD1-959A8E22133F%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b577C7E85-A2F4-4D85-9DD1-959A8E22133F%7d&amp;DynamicPlaceholderId=3&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/column-2-1" />
             <r
               uid="{EF3FF00F-0B5D-44BB-8900-EF0446F4E04B}"
               p:after="r[@uid='{B4045DCC-A1CD-4743-8B97-2492FBB872F4}']"
               s:ds="{5383E3D1-59F1-4348-BDA8-591A308A6622}"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B577C7E85-A2F4-4D85-9DD1-959A8E22133F%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b577C7E85-A2F4-4D85-9DD1-959A8E22133F%7d&amp;DynamicPlaceholderId=4&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/column-2-1" />
             <r
               uid="{50AD86F9-FADA-45FE-86D9-B8F1CD409372}"
               p:after="r[@uid='{EF3FF00F-0B5D-44BB-8900-EF0446F4E04B}']"
               s:ds="local:/Data/Blogs"
               s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B750C2683-751A-4865-A0C2-6463F8DE483B%7D&amp;Styles&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b750C2683-751A-4865-A0C2-6463F8DE483B%7d&amp;DynamicPlaceholderId=2&amp;TitleHeadingLevel=%7b6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7d&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/column-1-1" />
             <r
               uid="{D36EA5F7-1C63-4815-BF0A-0129DF26D84F}"
               p:after="r[@uid='{50AD86F9-FADA-45FE-86D9-B8F1CD409372}']"
               s:ds="local:/Data/SXA Addons"
               s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B750C2683-751A-4865-A0C2-6463F8DE483B%7D&amp;Styles=%7BAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7D&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:par="RenderingIdentifier&amp;Styles=%7b311FFDFD-331B-4227-BC07-5889304A707D%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b750C2683-751A-4865-A0C2-6463F8DE483B%7d&amp;DynamicPlaceholderId=5&amp;TitleHeadingLevel=%7b6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7d&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/column-1-1" />
             <r
               uid="{EA0F3B89-157C-49AB-8FE0-D4EC7438AC2E}"
               p:after="r[@uid='{D36EA5F7-1C63-4815-BF0A-0129DF26D84F}']"
               s:ds="local:/Data/Official Sitecore links"
               s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B750C2683-751A-4865-A0C2-6463F8DE483B%7D&amp;Styles=%7BAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7D&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:par="RenderingIdentifier&amp;Styles=%7b311FFDFD-331B-4227-BC07-5889304A707D%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b750C2683-751A-4865-A0C2-6463F8DE483B%7d&amp;DynamicPlaceholderId=6&amp;TitleHeadingLevel=%7b6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7d&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/column-1-1" />
             <r
               uid="{3EBAF387-325C-4036-A344-060B980089BF}"
               p:after="r[@uid='{EA0F3B89-157C-49AB-8FE0-D4EC7438AC2E}']"
               s:ds="local:/Data/Elearning"
               s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B750C2683-751A-4865-A0C2-6463F8DE483B%7D&amp;Styles=%7BAD2C9CF2-7BBA-4157-BA3B-EEE0F6B269CF%7D&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
+              s:par="RenderingIdentifier&amp;Styles=%7b311FFDFD-331B-4227-BC07-5889304A707D%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;FieldNames=%7b750C2683-751A-4865-A0C2-6463F8DE483B%7d&amp;DynamicPlaceholderId=7&amp;TitleHeadingLevel=%7b6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7d&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
               s:ph="/main/sxa-page-body/container-1/column-1-1" />
             <r
               uid="{3BF0B0AF-1CEF-40C6-AAFB-9D3570A5A301}"
               p:after="*[1=2]"
               s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
-              s:par="ColumnWidth1=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth2=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1"
+              s:par="DynamicPlaceholderId=1&amp;ColumnWidth6&amp;Styles4&amp;SplitterSize=2&amp;ColumnWidth3&amp;Reset Caching Options&amp;Styles7&amp;ColumnWidth1=%7b9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7d&amp;ColumnWidth4&amp;Styles3&amp;EnabledPlaceholders=1%2c2&amp;Styles1&amp;ColumnWidth8&amp;Styles2&amp;ColumnWidth7&amp;Styles6&amp;Styles5&amp;CacheClearingBehavior=Clear+on+publish&amp;ColumnWidth2=%7b9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7d&amp;Styles8&amp;ColumnWidth5"
               s:ph="/main/sxa-page-body/container-1" />
           </d>
         </r>
@@ -93,14 +93,14 @@ Languages:
       Value: Resources
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "07092c90-1671-46d0-aaba-fd032fec163b"
+      Value: "2be8a8b3-e461-4cc5-98f9-ed464c271bfc"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\unicorn
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200710T194525Z
+      Value: 20210503T112302Z
     - ID: "ec03ad7f-000f-4ccb-b261-2c53017c3a0a"
       Hint: Content
       Value: <p>Apart from the official Sitecore documentation there are a lot of resources available for you to learn SXA. On this section we try to highlight some of the resource we think will help you learn SXA and/or improve your knowledge</p>

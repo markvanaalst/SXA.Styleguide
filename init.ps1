@@ -29,6 +29,13 @@ if (-not (Test-Path $LicenseXmlPath -PathType Leaf)) {
     throw "$LicenseXmlPath is not a file"
 }
 
+if (-not (Test-Path(".\.env"))) {
+    Write-Host "Create new .env file" -ForegroundColor Green
+    Copy-Item .\.env.example .\.env
+} else {
+    Write-Host "Using existing environment file" -ForegroundColor Green
+}
+
 # Check for Sitecore Gallery
 Import-Module PowerShellGet
 $SitecoreGallery = Get-PSRepository | Where-Object { $_.SourceLocation -eq "https://sitecore.myget.org/F/sc-powershell/api/v2" }
@@ -51,6 +58,8 @@ Write-SitecoreDockerWelcome
 ###############################
 # Populate the environment file
 ###############################
+
+
 
 Write-Host "Populating required .env file variables..." -ForegroundColor Green
 
